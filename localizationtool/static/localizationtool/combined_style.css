@@ -1,0 +1,324 @@
+/* Color Palette */
+:root {
+    --primary-color: #4f46e5; /* Indigo */
+    --primary-dark: #4338ca;
+    --secondary-color: #22c55e; /* Green for success/download */
+    --secondary-dark: #16a34a;
+    --danger-color: #ef4444; /* Red for delete */
+    --danger-dark: #dc2626;
+    --text-color: #333;
+    --light-text-color: #666;
+    --background-color: #f8faff;
+    --panel-bg: #ffffff;
+    --border-color: #e0e0e0;
+    --shadow-light: rgba(0, 0, 0, 0.05);
+    --shadow-medium: rgba(0, 0, 0, 0.1);
+}
+
+body {
+    font-family: 'Poppins', sans-serif; /* Use Poppins from Google Fonts */
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    margin: 0;
+    padding: 40px 20px; /* Add some padding for smaller screens */
+    display: flex; /* Use flex for body to center content */
+    justify-content: center;
+    align-items: flex-start; /* Align content to the top */
+    min-height: 100vh;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows panels to wrap on smaller screens */
+    justify-content: center; /* Center panels when wrapped */
+    gap: 30px;
+    max-width: 1300px; /* Slightly wider for more content */
+    width: 100%; /* Take full width on smaller screens */
+    margin: 0 auto;
+}
+
+.panel {
+    background: var(--panel-bg);
+    padding: 30px;
+    border-radius: 12px; /* More rounded corners */
+    box-shadow: 0 4px 20px var(--shadow-light); /* Softer, deeper shadow */
+    flex: 1;
+    min-width: 380px; /* Minimum width for panels before wrapping */
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.panel:hover {
+    transform: translateY(-5px); /* Subtle lift on hover */
+    box-shadow: 0 8px 30px var(--shadow-medium);
+}
+
+h1, h2 {
+    color: var(--primary-color);
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: 700; /* Bolder headings */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px; /* Space between icon and text */
+}
+
+h2 i {
+    color: var(--primary-color);
+    font-size: 1.2em;
+}
+
+p.panel-description {
+    text-align: center;
+    color: var(--light-text-color);
+    margin-bottom: 30px;
+    font-size: 0.95em;
+}
+
+/* Messages Styling */
+.message-container {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.alert {
+    padding: 12px 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    font-size: 0.95em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    box-shadow: 0 2px 8px var(--shadow-light);
+}
+
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.alert-error, .alert-danger { /* For error messages */
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.close-btn {
+    cursor: pointer;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: inherit;
+    opacity: 0.6;
+    transition: opacity 0.2s;
+}
+
+.close-btn:hover {
+    opacity: 1;
+}
+
+
+/* Form Styling */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Spacing between form elements */
+}
+
+form p { /* Target Django form paragraphs for better layout */
+    text-align: left;
+    margin-bottom: 0;
+}
+
+form label {
+    margin-top: 0; /* Reset default margin */
+    font-weight: 600; /* Slightly bolder labels */
+    color: var(--text-color);
+    display: block; /* Ensure label is on its own line */
+    margin-bottom: 5px; /* Space between label and input */
+}
+
+input[type="file"],
+select {
+    margin-top: 0;
+    padding: 10px 12px;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    width: calc(100% - 24px); /* Account for padding */
+    background-color: #fdfdff;
+    transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+input[type="file"]:focus,
+select:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.2); /* Focus ring */
+    outline: none;
+}
+
+/* Checkbox group styling */
+.checkbox-group label {
+    display: inline-flex; /* Align checkbox and text */
+    align-items: center;
+    margin-bottom: 8px;
+    margin-right: 15px;
+    font-weight: 400; /* Lighter weight for checkbox labels */
+    cursor: pointer;
+}
+
+.checkbox-group input[type="checkbox"] {
+    margin-right: 8px;
+    transform: scale(1.1); /* Slightly larger checkboxes */
+}
+
+.submit-button {
+    margin-top: 30px;
+    padding: 12px 20px;
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 8px; /* More rounded button */
+    cursor: pointer;
+    font-size: 1.1em;
+    font-weight: 600;
+    transition: background-color 0.2s ease-in-out, transform 0.1s ease-in-out, box-shadow 0.2s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.submit-button:hover {
+    background-color: var(--primary-dark);
+    transform: translateY(-2px); /* Subtle lift on hover */
+    box-shadow: 0 4px 15px rgba(79, 70, 229, 0.3);
+}
+
+.submit-button:active {
+    transform: translateY(0);
+    box-shadow: none;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    margin-top: 25px;
+    border-collapse: separate; /* Use separate to allow border-radius on cells */
+    border-spacing: 0; /* Remove default cell spacing */
+    background: var(--panel-bg);
+    box-shadow: 0 2px 10px var(--shadow-light);
+    border-radius: 10px;
+    overflow: hidden; /* Ensure rounded corners are applied */
+}
+
+thead {
+    background: var(--primary-color);
+    color: #fff;
+}
+
+th, td {
+    padding: 15px 12px;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color); /* Light border between rows */
+}
+
+th:first-child { border-top-left-radius: 10px; }
+th:last-child { border-top-right-radius: 10px; }
+
+tbody tr:last-child td {
+    border-bottom: none; /* No border for the last row */
+}
+
+tbody tr:nth-child(even) {
+    background: #fdfdfd; /* Slightly different background for even rows */
+}
+
+tbody tr:hover {
+    background-color: #eef2ff; /* Highlight row on hover */
+}
+
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.action-link, .action-button {
+    padding: 8px 15px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 0.9em;
+    font-weight: 600;
+    transition: background 0.3s, transform 0.1s;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.download-link {
+    background: var(--secondary-color);
+    color: #fff;
+}
+
+.download-link:hover {
+    background: var(--secondary-dark);
+    transform: translateY(-1px);
+}
+
+.delete-btn {
+    background: var(--danger-color);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.delete-btn:hover {
+    background: var(--danger-dark);
+    transform: translateY(-1px);
+}
+
+.no-data {
+    text-align: center;
+    padding: 20px;
+    color: var(--light-text-color);
+    font-style: italic;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 992px) {
+    .main-container {
+        flex-direction: column; /* Stack panels vertically */
+        align-items: center;
+    }
+
+    .panel {
+        width: 95%; /* Panels take more width when stacked */
+        max-width: 600px; /* Max width for readability */
+        margin-bottom: 20px;
+    }
+    
+    body {
+        padding: 20px 10px;
+    }
+}
+
+@media (max-width: 576px) {
+    .panel {
+        min-width: unset; /* Remove min-width to allow shrinking */
+        width: 100%;
+    }
+    th, td {
+        padding: 10px 8px; /* Smaller padding for table cells */
+        font-size: 0.9em;
+    }
+    .action-buttons {
+        flex-direction: column; /* Stack download/delete buttons */
+        gap: 5px;
+    }
+    .action-link, .action-button {
+        width: 100%; /* Full width for stacked buttons */
+        justify-content: center;
+    }
+}
