@@ -1,6 +1,7 @@
 from django import forms
 
 class LocalizationForm(forms.Form):
+<<<<<<< HEAD
     upload_po_file = forms.FileField(label='Upload .po File:', required=False)
     upload_zip_file = forms.FileField(label='Upload .zip File (optional):', required=False)
     upload_glossary_file = forms.FileField(label='Upload Glossary .csv File (optional):', required=False)
@@ -39,6 +40,29 @@ class LocalizationForm(forms.Form):
         choices=LANGUAGES,
         widget=forms.CheckboxSelectMultiple,
         required=True
+=======
+    pot_file = forms.FileField(label="Upload .pot File")
+    zip_file = forms.FileField(label="Upload .zip File (optional)", required=False)
+    csv_file = forms.FileField(label="Upload Glossary .csv File (optional)", required=False)
+
+    LANG_CHOICES = [
+        ('ar', 'Arabic'),
+        ('it', 'Italian'),
+        ('fr', 'French'),
+        ('de', 'German'),
+        ('pl', 'Polish'),
+        ('pt', 'Portuguese'),
+        ('ja', 'Japanese'),
+        ('nl', 'Dutch'),
+        ('ru', 'Russian'),
+        ('es', 'Spanish'),
+    ]
+
+    target_languages = forms.MultipleChoiceField(
+        label="Select Target Languages",
+        choices=LANG_CHOICES,
+        widget=forms.CheckboxSelectMultiple,
+>>>>>>> f5ec21d1cefd600bf0288d189b4411456f15e1f3
     )
 
 
