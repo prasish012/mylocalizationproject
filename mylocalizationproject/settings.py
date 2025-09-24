@@ -19,6 +19,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "localizationtool",
+    "modeltranslation",  
 ]
 
 MIDDLEWARE = [
@@ -74,10 +75,41 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = "en-us"
 TIME_ZONE = "UTC"
+
+from django.utils.translation import gettext_lazy as _
+
+LANGUAGES = (
+    ('en', _('English')),
+    ('en-us', _('American English')),
+    ('en-gb', _('British English')),
+    ('en-ca', _('Canadian English')),
+    ('en-au', _('Australian English')),
+    ('es', _('Spanish')),
+    ('es-es', _('Spanish (Spain)')),
+    ('es-mx', _('Spanish (Mexico)')),
+    ('es-ar', _('Spanish (Argentina)')),
+    ('de', _('German')),
+    ('de-de', _('German (Germany)')),
+    ('de-at', _('German (Austria)')),
+    ('de-ch', _('German (Switzerland)')),
+    ('fr', _('French')),
+    ('fr-fr', _('French (France)')),
+    ('fr-ca', _('French (Canada)')),
+    ('fr-be', _('French (Belgium)')),
+    ('pt', _('Portuguese')),
+    ('pt-br', _('Portuguese (Brazil)')),
+    ('pt-pt', _('Portuguese (Portugal)')),
+    ('hi', _('Hindi')),
+    ('ne', _('Nepali')),
+)
+
+MODELTRANSLATION_DEFAULT_LANGUAGE = 'en'
+
 USE_I18N = True
 USE_TZ = True
 
 STATIC_URL = "static/"
+# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'localizationtool', 'static')]
 
 MEDIA_URL = '/media/'
