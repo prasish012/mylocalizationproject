@@ -1445,29 +1445,12 @@ class ColabLocalizationTool:
 
         # Plural-Forms header map (gettext) for common locales
         # Add more as needed.
-<<<<<<< HEAD
-        
         self.plural_forms_header = {
             "en": "nplurals=2; plural=(n != 1);",
-            "en-us": "nplurals=2; plural=(n != 1);",
-            "en-gb": "nplurals=2; plural=(n != 1);",
-            "en-ca": "nplurals=2; plural=(n != 1);",
-            "en-au": "nplurals=2; plural=(n != 1);",
             "es": "nplurals=2; plural=(n != 1);",
-            "es-es": "nplurals=2; plural=(n != 1);",
-            "es-mx": "nplurals=2; plural=(n != 1);",
-            "es-ar": "nplurals=2; plural=(n != 1);",
             "de": "nplurals=2; plural=(n != 1);",
-            "de-de": "nplurals=2; plural=(n != 1);",
-            "de-at": "nplurals=2; plural=(n != 1);",
-            "de-ch": "nplurals=2; plural=(n != 1);",
             "fr": "nplurals=2; plural=(n > 1);",
-            "fr-fr": "nplurals=2; plural=(n > 1);",
-            "fr-ca": "nplurals=2; plural=(n > 1);",
-            "fr-be": "nplurals=2; plural=(n > 1);",
             "pt": "nplurals=2; plural=(n != 1);",
-            "pt-br": "nplurals=2; plural=(n > 1);",
-            "pt-pt": "nplurals=2; plural=(n != 1);",
             "hi": "nplurals=2; plural=(n != 1);",
             "ne": "nplurals=2; plural=(n != 1);",
             "ar": "nplurals=6; plural=(n==0?0 : n==1?1 : n==2?2 : n%100>=3 and n%100<=10?3 : n%100>=11 and n%100<=99?4 : 5);",
@@ -1476,23 +1459,10 @@ class ColabLocalizationTool:
             "pl": "nplurals=3; plural=(n==1 ? 0 : n%10>=2 and n%10<=4 and (n%100<10 or n%100>=20) ? 1 : 2);",
             "ru": "nplurals=3; plural=(n%10==1 and n%100!=11 ? 0 : n%10>=2 and n%10<=4 and (n%100<10 or n%100>=20) ? 1 : 2);",
             "nl": "nplurals=2; plural=(n != 1);",
-=======
-        self.plural_forms_header = {
-            "en": "nplurals=2; plural=(n != 1);",
-            "fr": "nplurals=2; plural=(n > 1);",
-            "de": "nplurals=2; plural=(n != 1);",
-            "it": "nplurals=2; plural=(n != 1);",
-            "nl": "nplurals=2; plural=(n != 1);",
-            "pl": "nplurals=3; plural=(n==1 ? 0 : n%10>=2 and n%10<=4 and (n%100<10 or n%100>=20) ? 1 : 2);",
-            "ru": "nplurals=3; plural=(n%10==1 and n%100!=11 ? 0 : n%10>=2 and n%10<=4 and (n%100<10 or n%100>=20) ? 1 : 2);",
+            # The following are inconsistent with the simplified forms.py but are kept for completeness
             "uk": "nplurals=3; plural=(n%10==1 and n%100!=11 ? 0 : n%10>=2 and n%10<=4 and (n%100<10 or n%100>=20) ? 1 : 2);",
-            "ar": "nplurals=6; plural=(n==0?0 : n==1?1 : n==2?2 : n%100>=3 and n%100<=10?3 : n%100>=11 and n%100<=99?4 : 5);",
-            "ja": "nplurals=1; plural=0;",
             "zh": "nplurals=1; plural=0;",
-            "pt": "nplurals=2; plural=(n != 1);",
             "pt_BR": "nplurals=2; plural=(n > 1);",
-            "es": "nplurals=2; plural=(n != 1);",
->>>>>>> f5ec21d1cefd600bf0288d189b4411456f15e1f3
         }
 
     # -----------------------
@@ -1930,7 +1900,7 @@ class ColabLocalizationTool:
             issues.append("placeholders")
         # HTML balance (very naive): count opening/closing tags
         tags = self.html_tag_regex.findall(translated)
-        opens = sum(1 for t in tags if not t.startswith("</") and not t.endswith("/>") )
+        opens = sum(1 for t in tags if not t.startswith("</") and not t.endswith("/>"))
         closes = sum(1 for t in tags if t.startswith("</"))
         if opens != closes:
             issues.append("html_unbalanced")

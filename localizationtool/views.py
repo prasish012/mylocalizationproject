@@ -336,23 +336,16 @@ def localize_tool_view(request):
     if request.method == 'POST':
         form = LocalizationForm(request.POST, request.FILES)
         if form.is_valid():
-<<<<<<< HEAD
             # Use .get() to safely retrieve files. This prevents KeyErrors if a file is not uploaded.
             pot_file = form.cleaned_data.get('upload_po_file')
             zip_file = form.cleaned_data.get('upload_zip_file')
-            glossary_file = form.cleaned_data.get('upload_glossary_file') # Corrected variable name
+            glossary_file = form.cleaned_data.get('upload_glossary_file')
             target_languages = form.cleaned_data['target_languages']
 
             # Ensure a .po or .pot file is uploaded
             if not pot_file:
                 messages.error(request, 'Please upload a .po or .pot file to translate.')
                 return redirect('localize_tool_view')
-=======
-            pot_file = form.cleaned_data['pot_file']
-            zip_file = form.cleaned_data['zip_file']
-            csv_file = form.cleaned_data['csv_file']
-            target_langs = form.cleaned_data['target_languages']
->>>>>>> f5ec21d1cefd600bf0288d189b4411456f15e1f3
 
             # Step 1: Get text domain and define project folder
             text_domain = os.path.splitext(pot_file.name)[0].split('.')[0]
@@ -375,49 +368,22 @@ def localize_tool_view(request):
                     for chunk in zip_file.chunks():
                         dest.write(chunk)
 
-<<<<<<< HEAD
-            glossary_save_path = None # Corrected variable name
-            if glossary_file: # Corrected variable name
-                glossary_save_path = os.path.join(new_dir_path, glossary_file.name) # Corrected variable name
+            glossary_save_path = None
+            if glossary_file:
+                glossary_save_path = os.path.join(new_dir_path, glossary_file.name)
                 with open(glossary_save_path, 'wb+') as dest:
-                    for chunk in glossary_file.chunks(): # Corrected variable name
+                    for chunk in glossary_file.chunks():
                         dest.write(chunk)
 
             # Step 3: Run localization tool
-            # The tool call now uses the correct variable names
-=======
-            csv_save_path = None
-            if csv_file:
-                csv_save_path = os.path.join(new_dir_path, csv_file.name)
-                with open(csv_save_path, 'wb+') as dest:
-                    for chunk in csv_file.chunks():
-                        dest.write(chunk)
-
-            # Step 3: Run localization tool
->>>>>>> f5ec21d1cefd600bf0288d189b4411456f15e1f3
             tool = ColabLocalizationTool()
             tool.run(
                 pot_save_path,
                 zip_save_path,
-<<<<<<< HEAD
-                glossary_save_path, # Corrected variable name
-                target_languages, # Corrected variable name from target_langs
-=======
-                csv_save_path,
-                target_langs,
->>>>>>> f5ec21d1cefd600bf0288d189b4411456f15e1f3
+                glossary_save_path,
+                target_languages,
                 new_dir_path
             )
-
-            # ⚠️ Do not delete uploaded files here — they are needed.
-            # If you want cleanup, uncomment below:
-            # if os.path.exists(pot_save_path): os.remove(pot_save_path)
-            # if zip_save_path and os.path.exists(zip_save_path): os.remove(zip_save_path)
-<<<<<<< HEAD
-            # if glossary_save_path and os.path.exists(glossary_save_path): os.remove(glossary_save_path)
-=======
-            # if csv_save_path and os.path.exists(csv_save_path): os.remove(csv_save_path)
->>>>>>> f5ec21d1cefd600bf0288d189b4411456f15e1f3
 
             messages.success(
                 request,
@@ -480,8 +446,4 @@ def delete_folder(request, folder_name):
         if os.path.isdir(folder_path):
             shutil.rmtree(folder_path)
         messages.success(request, f'Folder "{folder_name}" has been deleted.')
-<<<<<<< HEAD
     return redirect('localize_tool_view')
-=======
-    return redirect('localize_tool_view')
->>>>>>> f5ec21d1cefd600bf0288d189b4411456f15e1f3
