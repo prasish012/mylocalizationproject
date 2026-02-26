@@ -4,67 +4,28 @@
   },
   "%1$s thought on &ldquo;%2$s&rdquo;": "%1$s は &ldquo;%2$s&rdquo; について考えました",
   "%1$s thoughts on &ldquo;%2$s&rdquo;": "%1$s の &ldquo;%2$s&rdquo; についての意見",
-  "%d item": "%d 個のアイテム",
-  "%d items": "%d 個のアイテム",
-  "%s font: on or off||on": [
-    "★ の上"
-  ],
-  "%s min read": "%s 最小読み取り時間",
-  "<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>.": "<strong>%1$s %2$s</strong> が利用可能です。 <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">新機能を確認する</a>か、<a href=\"%5$s\"%6$s>今すぐ更新</a>してください。",
-  "Accepts any positive number.": "任意の正の数を受け入れます。",
+  "%d Item": "%d アイテム",
+  "%d Items": "%d 個のアイテム",
+  "%s comment": "%s コメント",
+  "%s comments": "%s コメント",
+  "%s minute read": "%s 分の読み取り",
+  "%s minutes read": "%s 分で読み取りました",
+  "%s view": "%s ビュー",
+  "%s views": "%s ビュー",
   "All <span class=\"count\">(%s)</span>": "すべての<span class=\"count\">(%s)</span>",
-  "An error occurred while installing %1$s: <strong>%2$s</strong>.": "%1$s のインストール中にエラーが発生しました: <strong>%2$s</strong>。",
   "Begin activating plugin": "プラグインの有効化を開始する",
   "Begin activating plugins": "プラグインの有効化を開始する",
   "Begin installing plugin": "プラグインのインストールを開始する",
   "Begin installing plugins": "プラグインのインストールを開始する",
   "Begin updating plugin": "プラグインの更新を開始する",
   "Begin updating plugins": "プラグインの更新を開始する",
-  "Carousel and Tabbed Section": "カルーセルとタブ付きセクション",
-  "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>": "続きを読む<span class=\"screen-reader-text\"> \"%s\"</span>",
-  "Edit <span class=\"screen-reader-text\">%s</span>": "<span class=\"screen-reader-text\">%s</span> を編集します",
-  "Editors Pick Category": "編集者がカテゴリを選択",
-  "Editors Pick Section Title": "編集者がセクションのタイトルを選択",
-  "Enable Editor Pick Section": "エディタ選択セクションを有効にする",
-  "Fonts & Typography": "フォントとタイポグラフィー",
   "Install/Update Status||%1$s, %2$s": [
     "★ %1$s、%2$s"
   ],
-  "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.": "あなたが探しているものは見つからないようです。おそらく検索すると役に立つかもしれません。",
-  "Lato font: on or off||on": [
-    "★ on"
-  ],
-  "Montserrat font: on or off||on": [
-    "★ on"
-  ],
-  "Newsphere Pro is a perfect news and magazine responsive WordPress theme that lets you write articles and blog posts with ease. Create a great news website the help of live customizer options and custom widgets, you can design your website as you like and preview the changes live. It is compatible with the Gutenberg and RTL along with WooCommerce plugin which helps you to integrate an online business with our newspaper template. As it includes many useful features that require to build an awesome looking newsportal, the theme is perfect for blogging and excellent for a news, newspaper, magazine, publishing or review site. The theme is well optimized that helps to rank your website in the top of search engines and users will get an outstanding support from the team if there will be any difficulties while using the theme. There are number of demos available in this theme so choose the one you like and start to build a website.  See our demos: https://afthemes.com/newsphere-pro-perfect-news-and-magazine-responsive-wordpress-theme/": "Newsphere Pro は、記事やブログ投稿を簡単に作成できる、ニュースや雑誌に最適なレスポンシブ WordPress テーマです。ライブ カスタマイザー オプションとカスタム ウィジェットを利用して、優れたニュース Web サイトを作成します。Web サイトを自由にデザインし、変更をライブでプレビューできます。これは、オンライン ビジネスを新聞テンプレートと統合するのに役立つ WooCommerce プラグインとともに、Gutenberg および RTL と互換性があります。見栄えの良いニュースポータルを構築するために必要な多くの便利な機能が含まれているため、このテーマはブログに最適であり、ニュース、新聞、雑誌、出版、またはレビュー サイトにも最適です。このテーマは適切に最適化されているため、Web サイトを検索エンジンの上位にランク付けするのに役立ちます。テーマの使用中に問題が発生した場合、ユーザーはチームから優れたサポートを受けることができます。このテーマには多数のデモが用意されているので、好きなものを選択して、Web サイトの構築を開始してください。  デモをご覧ください: https://afthemes.com/newsphere-pro-perfect-news-and-magazine-sensitive-wordpress-theme/",
-  "Number of editors pick news": "ニュースを選んだ編集者の数",
   "One thought on &ldquo;%1$s&rdquo;": "「%1$s」についての 1 つの意見",
-  "Oops! That page can&rsquo;t be found.": "おっと！そのページは見つかりません。",
-  "Oswald font: on or off||on": [
-    "○ の上"
-  ],
-  "Page Builder Gutenberg Blocks & Patterns": "ページビルダー Gutenberg のブロックとパターン",
-  "Please use your instagram app access token if you aleady have, Otherwise create new: \"https://developers.facebook.com/docs/instagram-api/": "Instagram アプリのアクセス トークンを既にお持ちの場合は使用してください。そうでない場合は、新しく作成してください:「https://developers.facebook.com/docs/instagram-api/」",
-  "Posts to be shown on editors pick section ": "編集者の選択セクションに表示される投稿",
-  "Posts to be shown on trending tab or on thumbs": "投稿はトレンドタブまたはサムズに表示されます",
-  "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>.": "最初の投稿を公開する準備はできましたか? <a href=\"%1$s\">ここから始めましょう</a>。",
   "Remove||X": [
-    "★ X"
+    "★ ×"
   ],
-  "Roboto Sans Pro font: on or off||on": [
-    "○ の上"
-  ],
-  "Rubik font: on or off||on": [
-    "○ の上"
-  ],
-  "Select Banner Section Mode": "バナーセクションモードの選択",
-  "Slider and Tabbed Section": "スライダーとタブ付きセクション",
-  "Source Sans Pro font: on or off||on": [
-    "★ on"
-  ],
-  "Spotlight Post Title Over Image Size": "画像サイズよりも投稿タイトルにスポットライトを当てる",
-  "Tabbed/Thumbs Section": "タブ付き/親指セクション",
   "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s.": "このテーマとの互換性を最大限に確保するには、次のプラグインを最新バージョンに更新する必要があります: %1$s。",
   "The following plugin was activated successfully:": "次のプラグインは正常に有効化されました:",
   "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s.": "このテーマとの互換性を最大限に確保するには、次のプラグインを最新バージョンに更新する必要があります: %1$s。",
@@ -79,7 +40,6 @@
   "This theme recommends the following plugins: %1$s.": "このテーマでは次のプラグインを推奨します: %1$s。",
   "This theme requires the following plugin: %1$s.": "このテーマにはプラグイン %1$s が必要です。",
   "This theme requires the following plugins: %1$s.": "このテーマには次のプラグインが必要です: %1$s。",
-  "Thumbs": "親指",
   "To Activate <span class=\"count\">(%s)</span>": "<span class=\"count\">(%s)</span> をアクティブにするには",
   "To Install <span class=\"count\">(%s)</span>": "<span class=\"count\">(%s)</span> をインストールするには",
   "Update Available <span class=\"count\">(%s)</span>": "利用可能なアップデート <span class=\"count\">(%s)</span>",
@@ -96,7 +56,7 @@
     "○ お客様の声"
   ],
   "as in: \"version nr unknown\"||unknown": [
-    "★ 不明"
+    "★ 未知"
   ],
   "breadcrumbs aria label||Breadcrumbs": [
     "★ パンくずリスト"
@@ -114,10 +74,6 @@
   "hour archives time format||g a": [
     "★ g a"
   ],
-  "https://afthemes.com/products/newsphere-pro/": "https://afthemes.com/products/newsphere-pro/",
-  "list item separator|| ": [
-    "★ "
-  ],
   "list item separator||, ": [
     "★ ,"
   ],
@@ -128,10 +84,10 @@
     "★ i"
   ],
   "monthly archives date format||F": [
-    "★ n月"
+    "★ F"
   ],
   "plugin A *and* plugin B||and": [
-    "★ と"
+    "★ そして"
   ],
   "plugins||All <span class=\"count\">(%s)</span>": [
     "★ すべての<span class=\"count\">(%s)</span>",
@@ -176,9 +132,6 @@
   "yearly archives date format||Y": [
     "★ Y年"
   ],
-  "|| %1$s": [
-    "○ %1$s"
-  ],
   "|| (Last updated: ": [
     "★ (最終更新日:"
   ],
@@ -192,7 +145,7 @@
     "★ %1$s\n                    %2$s サイト ライセンスをアップグレードしたり、永久アクセスを選択したり、すべてのテーマとプラグインを入手したりすることもできます。すべて素晴らしい %4$s で! 🚀 チェックアウト時にコード %3$s を使用してください。 %5$s すぐに行動しましょう - この期間限定オファーはあなたのために特別に作られています! 🎁✨ 楽しい休暇をお過ごしください。ウェブサイトを新たな高みに引き上げて、さらなる節約を満喫してください! 🌟🎄"
   ],
   "||%1$s by %2$s.": [
-    "★ %1$s by %2$s。"
+    "★ %1$s による %2$s。"
   ],
   "||%1$s done.": [
     "★ %1$s が完了しました。"
@@ -204,13 +157,13 @@
     "★ %1$s 🎁 無料の %2$s テーマを気に入っていただければ幸いです!アップグレードの準備はできていますか?特別なギフトでお祭り気分を満喫しましょう: %4$s のプレミアム機能!チェックアウト時にコード %3$s を使用してください。楽しい休暇と、さらに幸せな節約に満ちたシーズンになることを願っています。 🎄✨"
   ],
   "||%d Item": [
-    "★ %d アイテム"
+    "★ %d アイテム",
+    "★ %d 個のアイテム"
   ],
   "||%d comments": [
     "★ %d コメント"
   ],
   "||%d item": [
-    "★ %d 個のアイテム",
     "★ %d 個のアイテム"
   ],
   "||%d views": [
@@ -226,6 +179,7 @@
     "★ %s 前"
   ],
   "||%s comment": [
+    "★ %s コメント",
     "★ %s コメント"
   ],
   "||%s comments made": [
@@ -250,16 +204,17 @@
     "★ %s のインストールが完了し、使用可能になりました。使用を開始するためのリンク集をご利用ください。"
   ],
   "||%s min read": [
-    "★ %s 最小読み取り時間",
     "★ %s 最小読み取り時間"
   ],
   "||%s minute read": [
-    "★ %s 分の読み取り"
+    "★ %s 分の読み取り",
+    "★ %s 分で読み取りました"
   ],
   "||%s total views": [
     "★ 合計ビュー数 %s"
   ],
   "||%s view": [
+    "★ %s ビュー",
     "★ %s ビュー"
   ],
   "||%s views": [
@@ -279,9 +234,6 @@
   ],
   "||/": [
     "★ None"
-  ],
-  "||1": [
-    "★ 1"
   ],
   "||100": [
     "★ 100"
@@ -416,7 +368,7 @@
     "★ 9000"
   ],
   "||<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>.": [
-    "○ <strong>%1$s %2$s</strong> が利用可能です。 <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">新機能を確認する</a>か、<a href=\"%5$s\"%6$s>今すぐ更新</a>してください。"
+    "★ <strong>%1$s %2$s</strong> が利用可能です。 <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">新機能を確認する</a>か、<a href=\"%5$s\"%6$s>今すぐ更新</a>してください。"
   ],
   "||A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design and tile layouts of your posts.": [
     "★ WordPress 用の最新投稿 Gutenberg ブロックの美しいコレクション。投稿グリッド、投稿リスト、完全な投稿レイアウト、高度な高速投稿デザイン、投稿のタイル レイアウトをデザインするのに役立ちます。"
@@ -896,7 +848,7 @@
     "★ 有効化"
   ],
   "||Activate %2$s": [
-    "★ %2$s 有効化"
+    "★ %2$sを有効にする"
   ],
   "||Activate AF Companion": [
     "★ AFコンパニオンを有効にする"
@@ -918,6 +870,12 @@
   ],
   "||Ad Placement Areas (Header, Content, Footer, Archive)": [
     "★ 広告配置領域 (ヘッダー、コンテンツ、フッター、アーカイブ)"
+  ],
+  "||Ad after post content. You can rotate multiple ads with <!--next--> separator.": [
+    "★ 投稿コンテンツの後に広告が表示されます。 <!--next--> 区切り文字を使用して複数の広告をローテーションできます。"
+  ],
+  "||Ad before post content. Supports rotating multiple ads using <!--next-->.": [
+    "★ 投稿コンテンツの前に広告。 <!--next--> を使用した複数の広告のローテーションをサポートします。"
   ],
   "||Add": [
     "★ 追加"
@@ -1183,9 +1141,6 @@
   "||Ajax load more": [
     "★ Ajax をさらにロードする"
   ],
-  "||All": [
-    "★ すべて"
-  ],
   "||All (Pages, Posts, etc)": [
     "★ すべて (ページ、投稿など)"
   ],
@@ -1211,7 +1166,7 @@
     "★ すべてリストにあります"
   ],
   "||All installations and activations have been completed.": [
-    "★ すべてのインストールと有効化が完了しました。"
+    "★ すべてのインストールとアクティベーションが完了しました。"
   ],
   "||All installations have been completed.": [
     "★ すべてのインストールが完了しました。"
@@ -1223,7 +1178,7 @@
     "★ すべてのページ"
   ],
   "||All plugins installed and activated successfully. %1$s": [
-    "★ すべてのプラグインをインストールし、有効化しました。%1$s"
+    "★ すべてのプラグインが正常にインストールされ、有効化されました。 %1$s"
   ],
   "||Also Show Content Image in Archive": [
     "★ アーカイブ内のコンテンツ画像も表示"
@@ -1256,7 +1211,7 @@
     "○ 代替ボックスの背景"
   ],
   "||An error occurred while installing %1$s: <strong>%2$s</strong>.": [
-    "○ %1$s のインストール中にエラーが発生しました: <strong>%2$s</strong>。"
+    "★ %1$s のインストール中にエラーが発生しました: <strong>%2$s</strong>。"
   ],
   "||Analytics": [
     "★ アナリティクス"
@@ -1269,6 +1224,9 @@
   ],
   "||Appearance": [
     "★ 外観"
+  ],
+  "||Appearance & Structure": [
+    "★ 外観と構造"
   ],
   "||Approved Comments": [
     "★ 承認されたコメント"
@@ -1345,11 +1303,17 @@
   "||Author Info Widget": [
     "★ 著者情報ウィジェット"
   ],
+  "||Author Support & Donation": [
+    "★ 著者のサポートと寄付"
+  ],
   "||Author and Date Settings": [
     "★ 著者と日付の設定"
   ],
   "||Author's Other Posts": [
     "★ 著者の他の投稿"
+  ],
+  "||Authors & Links": [
+    "★ 著者とリンク"
   ],
   "||Autoplay Speed": [
     "★ 自動再生速度"
@@ -1738,15 +1702,6 @@
   "||Breaking Posts Category": [
     "★ 速報投稿カテゴリー"
   ],
-  "||BroadNews Pro": [
-    "★ ブロードニュース プロ"
-  ],
-  "||BroadNews Pro is a versatile WordPress theme designed for news, blogs, and magazines. The theme has a number of free starter sites that may be easily integrated to create a superb news center. The theme is fully widgetized, with 15+ unique widgets and widget sections that allow users to tailor site content. It also has a light and dark color mode for browsing articles and blog posts in a trendy way. It also contains a number of essential customizer options for constructing a visually beautiful news site. You may configure it whatever you want and preview how it looks before making any changes with the live customizer. It supports Gutenberg blocks, RTL, and the WooCommerce plugin, which allows you to combine an online store. The theme is suitable for use on a news, journal, magazine, publication, or review website, as well as for blogging. It's well-designed to help the website rank higher in search engines, and users will receive fantastic support from the team if they have any problems utilizing it.": [
-    "○ BroadNews Pro は、ニュース、ブログ、雑誌向けに設計された多用途の WordPress テーマです。このテーマには、優れたニュース センターを作成するために簡単に統合できる無料のスターター サイトが多数あります。このテーマは完全にウィジェット化されており、ユーザーがサイトのコンテンツをカスタマイズできる 15 以上の独自のウィジェットとウィジェット セクションが備わっています。また、記事やブログ投稿をトレンディな方法で閲覧するための明色および暗色モードもあります。また、視覚的に美しいニュース サイトを構築するために不可欠なカスタマイザー オプションも多数含まれています。ライブ カスタマイザーで変更を加える前に、必要に応じて構成し、外観をプレビューできます。 Gutenberg ブロック、RTL、およびオンライン ストアを組み合わせることができる WooCommerce プラグインをサポートしています。このテーマは、ブログだけでなく、ニュース、日記、雑誌、出版物、レビュー Web サイトでの使用にも適しています。 Web サイトが検索エンジンで上位にランクされるようにうまく設計されており、使用中に問題が発生した場合、ユーザーはチームから素晴らしいサポートを受けることができます。"
-  ],
-  "||BroadNews is a versatile WordPress theme designed for news, blogs, and magazines. The theme has a number of free starter sites that may be easily integrated to create a superb news center. The theme is fully widgetized, with 7+ unique widgets and 8+ widget areas that allow users to tailor site content. It also has a light and dark color mode for browsing articles and blog posts in a trendy way. It also contains a number of essential customizer options for constructing a visually beautiful news site. You may configure it whatever you want and preview how it looks before making any changes with the live customizer. It supports Gutenberg blocks, RTL, and the WooCommerce plugin, which allows you to combine an online store. The theme is suitable for use on a news, journal, magazine, publication, or review website, as well as for blogging. It's well-designed to help the website rank higher in search engines, and users will receive fantastic support from the team if they have any problems utilizing it.": [
-    "★ BroadNews は、ニュース、ブログ、雑誌向けに設計された多用途の WordPress テーマです。このテーマには、優れたニュース センターを作成するために簡単に統合できる無料のスターター サイトが多数あります。このテーマは完全にウィジェット化されており、7 つ以上の固有のウィジェットと 8 つ以上のウィジェット領域があり、ユーザーはサイトのコンテンツをカスタマイズできます。また、記事やブログ投稿をトレンディな方法で閲覧するための明色および暗色モードもあります。また、視覚的に美しいニュース サイトを構築するために不可欠なカスタマイザー オプションも多数含まれています。ライブ カスタマイザーで変更を加える前に、必要に応じて構成し、外観をプレビューできます。 Gutenberg ブロック、RTL、およびオンライン ストアを組み合わせることができる WooCommerce プラグインをサポートしています。このテーマは、ブログだけでなく、ニュース、日記、雑誌、出版物、レビュー Web サイトでの使用にも適しています。 Web サイトが検索エンジンで上位にランクされるようにうまく設計されており、ユーザーは、Web サイトの使用に問題がある場合にチームから素晴らしいサポートを受けることができます。"
-  ],
   "||Browse:": [
     "★ 続きを読む:"
   ],
@@ -1847,13 +1802,13 @@
     "○ カテゴリの色 %d"
   ],
   "||Category Color 1": [
-    "★ カテゴリーの色1"
+    "★ カテゴリー カラー 1"
   ],
   "||Category Color 2": [
-    "★ カテゴリーの色2"
+    "★ カテゴリカラー 2"
   ],
   "||Category Color 3": [
-    "★ カテゴリーの色3"
+    "★ カテゴリー カラー 3"
   ],
   "||Category Color 4": [
     "★ カテゴリーの色4"
@@ -1955,7 +1910,7 @@
     "★ 子テーマ"
   ],
   "||Choose Image": [
-    "★ 画像を選ぶ"
+    "★ 画像の選択"
   ],
   "||Choose an Element": [
     "★ 要素を選択してください"
@@ -1969,17 +1924,11 @@
   "||Choose the deepest heading level to include in TOC (H2-H6)": [
     "★ 目次に含める最も深い見出しレベルを選択します (H2 ～ H6)"
   ],
-  "||ChromeNews Pro": [
-    "★ Chromeニュース プロ"
-  ],
-  "||ChromeNews Pro is a powerful WordPress theme that's perfect for news, blogs, and magazines. The theme comes with a number of free starting pages that may be easily integrated to construct a fantastic news hub. The theme is fully widgetized, with 16+ custom widgets and widget sections, allowing users to customize site content. It also offers a light and dark color mode for viewing articles and blog posts in a fashionable manner. It also includes a variety of useful customizer choices for creating an aesthetically pleasing news site. You may set it up as you want and see how it looks before making any changes with the live customizer. It supports Gutenberg blocks and RTL, as well as the WooCommerce plugin, allowing you to combine an online store with our newspaper theme. The theme is appropriate for a news, journal, magazine, publishing, or review website, as well as blogging. It's well-designed to help the website rank higher in search engines, and users will receive excellent support from the staff if they run into any issues while using it.": [
-    "○ ChromeNews Pro は、ニュース、ブログ、雑誌に最適な強力な WordPress テーマです。このテーマには、素晴らしいニュース ハブを構築するために簡単に統合できる無料の開始ページが多数付属しています。このテーマは完全にウィジェット化されており、16 個以上のカスタム ウィジェットとウィジェット セクションがあり、ユーザーはサイト コンテンツをカスタマイズできます。記事やブログ投稿をファッショナブルに表示するための明暗カラーモードも提供します。また、見た目の美しいニュース サイトを作成するための、さまざまな便利なカスタマイザーの選択肢も含まれています。ライブ カスタマイザーで変更を加える前に、必要に応じて設定し、どのように見えるかを確認できます。 Gutenberg ブロックと RTL、および WooCommerce プラグインをサポートしているため、オンライン ストアと新聞のテーマを組み合わせることができます。このテーマは、ブログだけでなく、ニュース、雑誌、出版、レビュー Web サイトにも適しています。検索エンジンで上位に表示されるように設計されており、使用中に問題が発生した場合はスタッフによる手厚いサポートが受けられます。"
-  ],
-  "||ChromeNews is a powerful WordPress theme that's perfect for news, blogs, and magazines. The theme comes with a number of free starter sites that may be easily integrated to construct a fantastic news hub. The theme is fully widgetized, with 9+ custom widgets and widget sections, allowing users to customize site content. It also offers a light and dark color mode for viewing articles and blog posts in a fashionable manner. It also includes a variety of useful customizer choices for creating an aesthetically pleasing news site. You may set it up as you want and see how it looks before making any changes with the live customizer. It supports Gutenberg blocks and Elementor, as well as the WooCommerce plugin, allowing you to combine an online store with our newspaper theme. The RTL languages supported theme is appropriate for a news, journal, magazine, publishing, or review website, as well as blogging. It's well-designed to help the website rank higher in search engines, and users will receive excellent support from the staff if they run into any issues while using it. Find demos: https://afthemes.com/products/chromenews/#aft-view-starter-sites Videos: https://www.youtube.com/@wpafthemes/ Docs: https://docs.afthemes.com/chromenews/": [
-    "○ ChromeNews は、ニュース、ブログ、雑誌に最適な強力な WordPress テーマです。このテーマには、素晴らしいニュース ハブを構築するために簡単に統合できる、多数の無料のスターター サイトが付属しています。このテーマは完全にウィジェット化されており、9 個以上のカスタム ウィジェットとウィジェット セクションがあり、ユーザーはサイト コンテンツをカスタマイズできます。記事やブログ投稿をファッショナブルに表示するための明暗カラーモードも提供します。また、見た目の美しいニュース サイトを作成するための、さまざまな便利なカスタマイザーの選択肢も含まれています。ライブ カスタマイザーで変更を加える前に、必要に応じて設定し、どのように見えるかを確認できます。 Gutenberg ブロックと Elementor、および WooCommerce プラグインをサポートしているため、オンライン ストアと新聞のテーマを組み合わせることができます。 RTL 言語でサポートされているテーマは、ブログだけでなく、ニュース、雑誌、雑誌、出版、レビュー Web サイトにも適しています。検索エンジンで上位に表示されるように設計されており、使用中に問題が発生した場合にはスタッフによる手厚いサポートが受けられます。デモを見つける: https://afthemes.com/products/chromenews/#aft-view-starter-sites ビデオ: https://www.youtube.com/@wpafthemes/ ドキュメント: https://docs.afthemes.com/chromenews/"
-  ],
   "||Claim Your Discount": [
     "★ 割引を請求する"
+  ],
+  "||Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> on each element to customize its settings.": [
+    "★ 各要素の設定 <span class=\"dashicons dashicons-admin-generic\"></span> をクリックして、その設定をカスタマイズします。"
   ],
   "||Close Off Canvas Navigation": [
     "★ キャンバスナビゲーションを閉じる"
@@ -1991,7 +1940,7 @@
     "○ ウィンドウを閉じる [X]"
   ],
   "||Color Class": [
-    "★ 色クラス"
+    "★ カラークラス"
   ],
   "||Color Controls": [
     "○ カラーコントロール"
@@ -2063,7 +2012,7 @@
     "★ お問い合わせページセクション"
   ],
   "||Contact Support": [
-    "★ サポートに問い合わせる"
+    "★ サポートに連絡"
   ],
   "||Contact Us": [
     "★ お問い合わせ"
@@ -2126,16 +2075,16 @@
     "★ 続きを読む"
   ],
   "||Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>": [
-    "○ 続きを読む<span class=\"screen-reader-text\"> \"%s\"</span>"
+    "★ <span class=\"screen-reader-text\">\"%s\" の</span>続きを読む"
   ],
   "||Copy link to clipboard": [
     "★ リンクをクリップボードにコピー"
   ],
   "||Copyright": [
-    "★ 著作権表示"
+    "★ Copyright"
   ],
-  "||Copyright &copy; All rights reserved.": [
-    "★ Copyright &copy; All rights reserved."
+  "||Copyright &copy; {year} All rights reserved.": [
+    "★ Copyright &copy; {year} All rights reserved."
   ],
   "||Copyright Text": [
     "★ 著作権テキスト"
@@ -2148,54 +2097,6 @@
   ],
   "||Count On Content Scroll": [
     "★ コンテンツのスクロールに期待"
-  ],
-  "||CoverNews Author Info": [
-    "★ CoverNews 著者情報"
-  ],
-  "||CoverNews Double Categories Posts": [
-    "★ CoverNews ダブル カテゴリの投稿"
-  ],
-  "||CoverNews Options": [
-    "○ カバーニュースのオプション"
-  ],
-  "||CoverNews Posts Carousel": [
-    "★ カバーニュース投稿カルーセル"
-  ],
-  "||CoverNews Posts Grid": [
-    "★ カバーニュース投稿グリッド"
-  ],
-  "||CoverNews Posts Slider": [
-    "★ カバーニュース投稿スライダー"
-  ],
-  "||CoverNews Pro": [
-    "★ カバーニュースプロ"
-  ],
-  "||CoverNews Single Column ": [
-    "○ CoverNews シングルカラム"
-  ],
-  "||CoverNews Social": [
-    "★ カバーニュースソーシャル"
-  ],
-  "||CoverNews Social Contacts": [
-    "★ カバーニュース ソーシャルコンタクト"
-  ],
-  "||CoverNews Tabbed Posts": [
-    "★ カバーニュースのタブ付き投稿"
-  ],
-  "||CoverNews Trending Posts Carousel": [
-    "○ カバーニュース トレンド投稿 カルーセル"
-  ],
-  "||CoverNews Trending Posts Carousel (By Comment)": [
-    "○ CoverNews トレンド投稿カルーセル (コメント別)"
-  ],
-  "||CoverNews Trending Posts Carousel (By Tag)": [
-    "○ CoverNews トレンド投稿カルーセル (タグ別)"
-  ],
-  "||CoverNews Trending Posts Carousel (By View)": [
-    "○ CoverNews トレンド投稿カルーセル (ビュー別)"
-  ],
-  "||CoverNews YouTube Video Slider": [
-    "○ CoverNews YouTube ビデオ スライダー"
   ],
   "||Create Your Dream Website in Minutes!": [
     "★ 夢のウェブサイトを数分で作成しましょう!"
@@ -2288,7 +2189,7 @@
     "★ 完璧なブログ、ニュース、雑誌のウェブサイトをデザイン Elespare は、Elementor を使用して高度なカスタマイズ オプションを備えたウェブサイトの素晴らしいヘッダー、フッター、コンテンツを無料で作成できる、シンプルかつ効果的な WordPress プラグインです。"
   ],
   "||Dark": [
-    "★ ダーク"
+    "★ Dark"
   ],
   "||Dark Mode": [
     "★ ダークモード"
@@ -2301,15 +2202,6 @@
   ],
   "||Dark/Light Site Mode": [
     "★ ダーク/ライトサイトモード"
-  ],
-  "||DarkNews Pro": [
-    "★ ダークニュース プロ"
-  ],
-  "||DarkNews Pro is an advanced dark WordPress theme that's appropriate for a news, blog and magazine website. The theme includes a range of free starting pages that can be imported with a single click to create a great news portal. With 9+ custom widgets and widget areas, the theme is fully widgetized, allowing users to control site content. It also has a light and dark color mode, so you can view articles and blog posts in a trendy way. It also contains a number of helpful customizer options for building a visually appealing news site. You can configure it as you like to see how it looks before making any improvements using the live customizer. It's compatible with Gutenberg blocks and RTL, as well as the WooCommerce plugin, which enables you to blend an online shop with our newspaper theme. The theme is ideal for a news, journal, magazine, publishing, or review site, as well as blogging. It's well-designed to bring the website to the top of search engines, and people will get outstanding support from the team if they have any problems when using it.": [
-    "○ DarkNews Pro は、ニュース、ブログ、雑誌 Web サイトに適した高度なダーク WordPress テーマです。このテーマには、ワンクリックでインポートして優れたニュース ポータルを作成できる、さまざまな無料の開始ページが含まれています。 9 個以上のカスタム ウィジェットとウィジェット エリアを備えたテーマは完全にウィジェット化されており、ユーザーはサイト コンテンツを制御できます。また、明るいカラーモードと暗いカラーモードも備えているため、記事やブログ投稿をトレンディな方法で表示できます。また、視覚的に魅力的なニュース サイトを構築するための便利なカスタマイザー オプションも多数含まれています。ライブ カスタマイザーを使用して改善を加える前に、好みに合わせて設定して、どのように見えるかを確認できます。 Gutenberg ブロックと RTL だけでなく、オンライン ショップと新聞のテーマを融合できる WooCommerce プラグインとも互換性があります。このテーマは、ブログだけでなく、ニュース、日記、雑誌、出版、レビュー サイトにも最適です。 Web サイトを検索エンジンの上位に表示するようによく設計されており、使用中に問題が発生した場合はチームから優れたサポートが得られます。"
-  ],
-  "||DarkNews is an advanced dark WordPress theme that's appropriate for a news, blog and magazine website. The theme includes a range of free starting pages that can be imported with a single click to create a great news portal. With 9+ custom widgets and widget areas, the theme is fully widgetized, allowing users to control site content. It also has a light and dark color mode, so you can view articles and blog posts in a trendy way. It also contains a number of helpful customizer options for building a visually appealing news site. You can configure it as you like to see how it looks before making any improvements using the live customizer. It's compatible with Elementor, Gutenberg blocks and RTL, as well as the WooCommerce plugin, which enables you to blend an online shop with our newspaper theme. The theme is ideal for a news, journal, magazine, publishing, or review site, as well as blogging. It's well-designed to bring the website to the top of search engines, and people will get outstanding support from the team if they have any problems when using it.": [
-    "★ DarkNews は、ニュース、ブログ、雑誌 Web サイトに適した高度なダーク WordPress テーマです。このテーマには、ワンクリックでインポートして優れたニュース ポータルを作成できる、さまざまな無料の開始ページが含まれています。 9 個以上のカスタム ウィジェットとウィジェット エリアを備えたテーマは完全にウィジェット化されており、ユーザーはサイト コンテンツを制御できます。また、明るいカラーモードと暗いカラーモードも備えているため、記事やブログ投稿をトレンディな方法で表示できます。また、視覚的に魅力的なニュース サイトを構築するための便利なカスタマイザー オプションも多数含まれています。ライブ カスタマイザーを使用して改善を加える前に、好みに合わせて設定して、どのように見えるかを確認できます。 Elementor、Gutenberg ブロック、RTL と互換性があるだけでなく、オンライン ショップと新聞のテーマを融合できる WooCommerce プラグインとも互換性があります。このテーマは、ブログだけでなく、ニュース、日記、雑誌、出版、レビュー サイトにも最適です。 Web サイトを検索エンジンの上位に表示するようによく設計されており、使用中に問題が発生した場合はチームから優れたサポートが得られます。"
   ],
   "||Dashboard": [
     "★ ダッシュボード"
@@ -2492,10 +2384,16 @@
     "★ ブログアーカイブのメインバナーセクションを無効にする"
   ],
   "||Dismiss this notice": [
-    "★ この通知を非表示"
+    "★ この通知を無視する"
   ],
   "||Display Related Posts": [
     "★ 関連投稿を表示"
+  ],
+  "||Displayed at the bottom of the site above footer widgets. Rotating ads supported using <!--next-->.": [
+    "★ サイトの下部、フッター ウィジェットの上に表示されます。 <!--next--> を使用したローテーション広告がサポートされています。"
+  ],
+  "||Displayed below post content, before comments or related posts. Rotation via <!--next--> supported.": [
+    "★ 投稿コンテンツの下、コメントまたは関連投稿の前に表示されます。 <!--next--> による回転がサポートされています。"
   ],
   "||Displayed below the post title.": [
     "★ 投稿タイトルの下に表示されます。"
@@ -2573,7 +2471,7 @@
     "★ 選択したカテゴリからの投稿を 1 列で表示します。"
   ],
   "||Displays posts slider from selected category.": [
-    "★ 選択したカテゴリーから商品スライダーを表示します。"
+    "★ 選択したカテゴリの投稿スライダーを表示します。"
   ],
   "||Displays product categories from selected category in express column.": [
     "○ 選択したカテゴリの製品カテゴリをエクスプレス列に表示します。"
@@ -2696,7 +2594,7 @@
     "★ コードゼロで簡単にウェブサイトを構築"
   ],
   "||Edit <span class=\"screen-reader-text\">%s</span>": [
-    "○ <span class=\"screen-reader-text\">%s</span> を編集します"
+    "★ 編集 <span class=\"screen-reader-text\">%s</span>"
   ],
   "||Edit Account": [
     "★ アカウントの編集"
@@ -2754,9 +2652,6 @@
   ],
   "||Editors Picks on Banner Section": [
     "○ バナーセクションの編集者おすすめ"
-  ],
-  "||Elegant Magazine Pro": [
-    "★ エレガントマガジンプロ"
   ],
   "||Element Settings": [
     "★ 要素の設定"
@@ -2959,6 +2854,9 @@
   "||Engagement": [
     "★ 婚約"
   ],
+  "||Engagement & Performance": [
+    "★ エンゲージメントとパフォーマンス"
+  ],
   "||Enter your donation or support URL (e.g., PayPal.me, BuyMeACoffee, Ko-fi).": [
     "★ 寄付またはサポートの URL (PayPal.me、BuyMeACoffee、Ko-fi など) を入力します。"
   ],
@@ -2967,15 +2865,6 @@
   ],
   "||Enter your theme license key.": [
     "★ テーマのライセンス キーを入力します。"
-  ],
-  "||EnterNews Pro": [
-    "★ EnterNews Pro"
-  ],
-  "||EnterNews is the best responsive News and Magazine WordPress Theme. The theme includes two color modes: default and dark, allowing you to present articles and blog posts in a trendy manner.To make a fantastic news website, you can design it however you like and preview the changes using live customizer options and custom widgets.It works with Gutenberg WordPress blocks and RTL, as well as the WooCommerce plugin, which helps you to combine an online store with our newspaper style. It has a lot of helpful features, including the ability to build a fantastic-looking newsportal. The theme is perfect for a news, newspaper, magazine, publishing, or review platform, and it's also useful for blogging. It's well-designed to get the website to the top of search engines, and users can get excellent assistance from the team if they run into any issues when using the theme.This theme also includes a variety of demonstrations, so pick one that you like and start building your website. See our demos: https://afthemes.com/enternews-pro-wordpress-theme-for-the-best-responsive-news-magazine-sites/": [
-    "○ EnterNews は、最高の応答性の高いニュースと雑誌の WordPress テーマです。テーマには、デフォルトとダークの 2 つのカラー モードが含まれており、記事やブログ投稿をトレンディな方法で表示できます。素晴らしいニュース Web サイトを作成するには、好みに合わせてデザインし、ライブ カスタマイザー オプションとカスタム ウィジェットを使用して変更をプレビューできます。Gutenberg WordPress ブロックと RTL、およびオンライン ストアと新聞スタイルを組み合わせるのに役立つ WooCommerce プラグインで動作します。素晴らしい見た目のニュースポータルを構築する機能など、便利な機能がたくさんあります。このテーマは、ニュース、新聞、雑誌、出版、レビューのプラットフォームに最適であり、ブログにも役立ちます。 Web サイトを検索エンジンの上位に表示するようにうまく設計されており、テーマの使用中に問題が発生した場合、ユーザーはチームから優れたサポートを受けることができます。このテーマにはさまざまなデモも含まれているため、気に入ったものを選択して Web サイトの構築を開始してください。デモをご覧ください: https://afthemes.com/enternews-pro-wordpress-theme-for-the-best-sensitive-news-magazine-sites/"
-  ],
-  "||EnterNews is the best responsive News and Magazine WordPress Theme. To make a fantastic news website, the theme has a number of free starter sites with a single click import. The theme is completely widgetized, empowering users to control site content with 8+ custom widgets and widget areas. Also it includes default and dark color mode, allowing you to present articles and blog posts in a trendy manner. In addition, it comes with a variety of useful customizer options for creating a stunning newsportal. You can design it however you like and preview the changes using live customizer. It works with Gutenberg WordPress blocks and RTL, as well as the WooCommerce plugin, which helps you to combine an online store with our newspaper style. The theme is perfect for a news, newspaper, magazine, publishing, or review platform, and it's also useful for blogging. It's well-designed to get the website to the top of search engines, and users can get excellent assistance from the team if they run into any issues when using the theme. See more demos and documentaion at: https://afthemes.com/products/enternews/": [
-    "★ EnterNews は、最高の応答性の高いニュースと雑誌の WordPress テーマです。素晴らしいニュース Web サイトを作成するために、テーマにはワンクリックでインポートできる無料のスターター サイトが多数含まれています。このテーマは完全にウィジェット化されており、ユーザーは 8 つ以上のカスタム ウィジェットとウィジェット領域を使用してサイト コンテンツを制御できます。また、デフォルトとダークカラーモードが含まれており、記事やブログ投稿をトレンディな方法で表示できます。さらに、魅力的なニュースポータルを作成するためのさまざまな便利なカスタマイザー オプションが付属しています。好みに合わせてデザインし、ライブ カスタマイザーを使用して変更をプレビューできます。 Gutenberg WordPress ブロックと RTL、およびオンライン ストアと新聞スタイルを組み合わせるのに役立つ WooCommerce プラグインで動作します。このテーマは、ニュース、新聞、雑誌、出版、レビューのプラットフォームに最適であり、ブログにも役立ちます。 Web サイトを検索エンジンの上位に表示するようにうまく設計されており、テーマの使用中に問題が発生した場合、ユーザーはチームから優れたサポートを受けることができます。その他のデモとドキュメントについては、https://afthemes.com/products/enternews/ をご覧ください。"
   ],
   "||Error - unable to verify nonce, please try again.": [
     "★ エラー - nonce を検証できません。もう一度試してください。"
@@ -3131,7 +3020,7 @@
     "★ バナーセクションの注目ページ"
   ],
   "||Featured Posts": [
-    "★ おすすめ投稿"
+    "★ 注目の投稿"
   ],
   "||Featured Posts Category": [
     "★ 注目の投稿カテゴリー"
@@ -3254,7 +3143,7 @@
     "★ フォント素晴らしいアイコン"
   ],
   "||Fonts & Typography": [
-    "○ フォントとタイポグラフィー"
+    "★ フォントとタイポグラフィー"
   ],
   "||Fonts Source": [
     "★ フォントソース"
@@ -3419,7 +3308,7 @@
     "★ フロントページのコンテンツ表示"
   ],
   "||Front-page Content Section": [
-    "★ フロントページコンテンツ上セクション"
+    "★ フロントページのコンテンツセクション"
   ],
   "||Front-page Content alignment": [
     "★ フロントページのコンテンツの配置"
@@ -3443,7 +3332,7 @@
     "★ フロントページのサイドバー"
   ],
   "||Front-page Sidebar Section": [
-    "★ フロントページ左サイドバーセクション"
+    "★ フロントページのサイドバー セクション"
   ],
   "||Front-page Template": [
     "★ フロントページテンプレート"
@@ -3622,6 +3511,9 @@
   "||Funny": [
     "★ 面白い"
   ],
+  "||GDPR friendly & better performance": [
+    "★ GDPR に配慮し、パフォーマンスを向上"
+  ],
   "||GamerNews": [
     "★ GamerNews"
   ],
@@ -3761,7 +3653,7 @@
     "★ グローバルセクションのタイトルサイズ"
   ],
   "||Global Settings": [
-    "★ 全体設定"
+    "★ グローバル設定"
   ],
   "||Global Title Color": [
     "★ グローバルタイトルの色"
@@ -3965,7 +3857,7 @@
     "★ すべて非表示"
   ],
   "||Hide Builder": [
-    "★ ビルダーを表示しない"
+    "★ ビルダーを隠す"
   ],
   "||Hide Comment Count in List": [
     "★ リスト内のコメント数を非表示にする"
@@ -4241,7 +4133,7 @@
     "★ インストール"
   ],
   "||Install %2$s": [
-    "★ %2$s インストール"
+    "★ %2$sをインストールする"
   ],
   "||Install AF Companion": [
     "★ AFコンパニオンをインストールする"
@@ -4253,22 +4145,22 @@
     "★ プラグインのインストール"
   ],
   "||Install Required Plugins": [
-    "★ 必須プラグインをインストール"
+    "★ 必要なプラグインをインストールする"
   ],
   "||Installed But Not Activated": [
     "★ インストール済み、停止中"
   ],
   "||Installed version:": [
-    "★ インストール済みバージョン:"
+    "★ インストールされているバージョン:"
   ],
   "||Installing Plugin %1$s (%2$d/%3$d)": [
-    "★ プラグイン %1$s をインストール中 (%2$d/%3$d)"
+    "★ プラグイン %1$s (%2$d/%3$d) をインストールしています"
   ],
   "||Installing Plugin: %s": [
-    "★ プラグインをインストール中: %s"
+    "★ プラグインをインストールしています: %s"
   ],
   "||Installing and Activating Plugin %1$s (%2$d/%3$d)": [
-    "★ %1$s プラグインをインストール、有効化中 (%2$d/%3$d)"
+    "★ プラグイン %1$s (%2$d/%3$d) のインストールと有効化"
   ],
   "||Internal": [
     "★ 内部"
@@ -4286,10 +4178,10 @@
     "★ 投稿の作成者、ID による選択的な作成者、カスタム作成者用のさまざまなウィジェットがあります。著者プロフィールのショートコードも提供します。"
   ],
   "||It looks like nothing was found at this location. Maybe try one of the links below or a search?": [
-    "★ ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+    "★ この場所では何も見つからなかったようです。以下のリンクのいずれかを試してみるか、検索してみてください。"
   ],
   "||It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.": [
-    "○ あなたが探しているものは見つからないようです。おそらく検索すると役に立つかもしれません。"
+    "★ お探しのコンテンツを見つけられませんでした。検索をお試しください。"
   ],
   "||JetPack": [
     "★ ジェットパック"
@@ -4615,18 +4507,6 @@
   "||Magna aspernatur eget potenti molestias beatae!": [
     "○ 偉大な無力者は祝福された者の強力な悩みを必要としています！"
   ],
-  "||Magnitude Default": [
-    "○ 大きさのデフォルト"
-  ],
-  "||Magnitude Pro": [
-    "★ マグニチュード プロ"
-  ],
-  "||Magnitude Pro is a clean, elegant WordPress theme, ideal for blogging and magazine online. You can design your website as you like and preview the modifications live using live customizer options and custom widgets. It is compatible with the Gutenberg and RTL along with WooCommerce plugin which helps you to integrate an online business with our newspaper template. It also contains many helpful elements that require an amazing news portal to be built, the theme is ideal for blogging and great for news, newspaper, magazine, publication or review site. The theme is well-optimized that helps to rank your website in the top of search engines and users will get an outstanding support from the team if there will be any difficulties while using the theme. There are number of demos available in this theme so choose the one you like and start to build a website. See our demos: https://demos.afthemes.com/magnitude-pro/, https://demos.afthemes.com/magnitude-pro/newsportal-pro/, https://demos.afthemes.com/magnitude-pro/sport-pro/, https://demos.afthemes.com/magnitude-pro/magnitude-dark/, https://demos.afthemes.com/magnitude-pro/lifestyle-pro/, https://demos.afthemes.com/magnitude-pro/gadgets-pro/,": [
-    "○ Magnitude Pro は、クリーンでエレガントな WordPress テーマで、オンラインのブログや雑誌に最適です。 Web サイトを自由にデザインし、ライブ カスタマイザー オプションとカスタム ウィジェットを使用して変更をライブでプレビューできます。これは、オンライン ビジネスを新聞テンプレートと統合するのに役立つ WooCommerce プラグインとともに、Gutenberg および RTL と互換性があります。また、素晴らしいニュース ポータルの構築に必要な多くの役立つ要素も含まれており、このテーマはブログに最適であり、ニュース、新聞、雑誌、出版物、レビュー サイトにも最適です。テーマは適切に最適化されているため、Web サイトを検索エンジンの上位にランク付けできます。テーマの使用中に問題が発生した場合、ユーザーはチームから優れたサポートを受けることができます。このテーマには多数のデモが用意されているので、気に入ったものを選択して、Web サイトの構築を開始してください。デモをご覧ください: https://demos.afthemes.com/magnitude-pro/、https://demos.afthemes.com/magnitude-pro/newsportal-pro/、https://demos.afthemes.com/magnitude-pro/sport-pro/、https://demos.afthemes.com/magnitude-pro/magnitude-dark/、 https://demos.afthemes.com/magnitude-pro/lifestyle-pro/、https://demos.afthemes.com/magnitude-pro/gadgets-pro/、"
-  ],
-  "||Magnitude is a clean, elegant WordPress theme, ideal for blogging and magazine online. You can design your website as you like and preview the modifications live using live customizer options and custom widgets. It is compatible with the Gutenberg and RTL along with WooCommerce plugin which helps you to integrate an online business with our newspaper template. It also contains many helpful elements that require an amazing news portal to be built, the theme is ideal for blogging and great for news, newspaper, magazine, publication or review site. The theme is well-optimized that helps to rank your website in the top of search engines and users will get an outstanding support from the team if there will be any difficulties while using the theme. There are number of demos available in this theme so choose the one you like and start to build a website. See our demos: https://demos.afthemes.com/magnitude/, https://demos.afthemes.com/magnitude/newsportal/, https://demos.afthemes.com/magnitude/sport/": [
-    "★ Magnitude は、クリーンでエレガントな WordPress テーマで、オンラインのブログや雑誌に最適です。 Web サイトを自由にデザインし、ライブ カスタマイザー オプションとカスタム ウィジェットを使用して変更をライブでプレビューできます。これは、オンライン ビジネスを新聞テンプレートと統合するのに役立つ WooCommerce プラグインとともに、Gutenberg および RTL と互換性があります。また、素晴らしいニュース ポータルの構築に必要な多くの役立つ要素も含まれており、このテーマはブログに最適であり、ニュース、新聞、雑誌、出版物、レビュー サイトにも最適です。テーマは適切に最適化されているため、Web サイトを検索エンジンの上位にランク付けできます。テーマの使用中に問題が発生した場合、ユーザーはチームから優れたサポートを受けることができます。このテーマには多数のデモが用意されているので、好きなものを選択して、Web サイトの構築を開始してください。デモをご覧ください: https://demos.afthemes.com/magnitude/、https://demos.afthemes.com/magnitude/newsportal/、https://demos.afthemes.com/magnitude/sport/"
-  ],
   "||MailChimp Box in Single Post": [
     "★ 単一ポストの MailChimp ボックス"
   ],
@@ -4831,6 +4711,9 @@
   "||Manage widgets": [
     "★ ウィジェットを管理する"
   ],
+  "||Manually inserted between posts in archive loop using hooks/snippets. Rotate with <!--next--> if needed.": [
+    "★ フック/スニペットを使用して、アーカイブ ループ内の投稿の間に手動で挿入されます。必要に応じて、<!--next--> を使用して回転します。"
+  ],
   "||Mark as Sponsored": [
     "★ スポンサーとしてマークする"
   ],
@@ -4898,7 +4781,7 @@
     "★ ミニカート設定"
   ],
   "||Minimum required version:": [
-    "★ 最低必須バージョン:"
+    "★ 最低限必要なバージョン:"
   ],
   "||Minute %s": [
     "★ %s分"
@@ -4925,10 +4808,10 @@
     "★ 月と日の形式"
   ],
   "||More": [
-    "★ 詳細"
+    "★ More"
   ],
   "||More Details": [
-    "★ 詳細情報"
+    "★ さらに詳しく"
   ],
   "||More News": [
     "★ その他のニュース"
@@ -4938,15 +4821,6 @@
   ],
   "||MoreMag": [
     "○ モアマグ"
-  ],
-  "||MoreNews Options": [
-    "○ その他のニュースオプション"
-  ],
-  "||MoreNews Pro": [
-    "★ もっとニュースプロ"
-  ],
-  "||MoreNews Pro is a professional WordPress theme for news, blog, and magazine websites. The theme comes with a number of free demo sites that can be imported with a simple click to create a fantastic news hub. The theme is fully widgetized, allowing users to control site content with 16+ custom widgets and widget sections. It also offers a light and dark color option for reading articles and blog posts in a fashionable manner.It also includes a variety of useful customizer choices for creating an aesthetically pleasing news site. You may set it up as you want and see how it looks before publishing any changes with the live customizer. It works with Gutenberg blocks and RTL, as well as the WooCommerce plugin, allowing you to mix and match an online store with our newspaper theme. The theme is appropriate for a news, journal, magazine, publishing, or review website, as well as blogging. It's well-designed to help the website rank higher in search engines, and users will receive excellent support from the staff if they run into any issues while using it.": [
-    "○ MoreNews Pro は、ニュース、ブログ、雑誌 Web サイト向けのプロフェッショナルな WordPress テーマです。このテーマには、クリックするだけでインポートできる無料のデモ サイトが多数付属しており、素晴らしいニュース ハブを作成できます。テーマは完全にウィジェット化されており、ユーザーは 16 個以上のカスタム ウィジェットとウィジェット セクションを使用してサイト コンテンツを制御できます。また、記事やブログ投稿をファッショナブルに読むための明るい色と暗い色のオプションも提供しています。また、見た目の美しいニュース サイトを作成するための便利なカスタマイザーの選択肢も多数含まれています。ライブ カスタマイザーで変更を公開する前に、必要に応じて設定し、どのように見えるかを確認できます。 Gutenberg ブロックと RTL、および WooCommerce プラグインと連携して、オンライン ストアと新聞のテーマを組み合わせることができます。このテーマは、ブログだけでなく、ニュース、雑誌、出版、レビュー Web サイトにも適しています。検索エンジンで上位に表示されるように設計されており、使用中に問題が発生した場合はスタッフによる手厚いサポートが受けられます。"
   ],
   "||Most Linked External Sites": [
     "★ 最もリンクされている外部サイト"
@@ -5000,7 +4874,7 @@
     "★ ナビゲーション"
   ],
   "||Need Help?": [
-    "★ 助けが必要ですか?"
+    "★ お困りですか ?"
   ],
   "||Need Support?": [
     "○ サポートが必要ですか?"
@@ -5043,12 +4917,6 @@
   ],
   "||Newsical": [
     "○ ニュース"
-  ],
-  "||Newsium Pro": [
-    "○ ニュージアムプロ"
-  ],
-  "||Newsium Pro is a WordPress theme for the Best Responsive News Magazine that allows you to easily write articles and blog posts. Using live customizer options and custom widgets to create a great news website, you can design your website as you like and preview the changes. It is compatible with the Gutenberg and RTL along with WooCommerce plugin which helps you to integrate an online business with our newspaper template. As it includes many useful features that require to build an awesome looking newsportal, the theme is perfect for blogging and excellent for a news, newspaper, magazine, publishing or review site. The theme is well optimized that helps to rank your website in the top of search engines and users will get an outstanding support from the team if there will be any difficulties while using the theme. There are number of demos available in this theme so choose the one you like and start to build a website.  See our demos: https://afthemes.com/newsium-pro-wordpress-theme-for-the-best-responsive-news-magazine-sites/": [
-    "○ Newsium Pro は、記事やブログ投稿を簡単に作成できる、ベスト レスポンシブ ニュース マガジンの WordPress テーマです。ライブ カスタマイザー オプションとカスタム ウィジェットを使用して優れたニュース Web サイトを作成すると、Web サイトを自由にデザインし、変更をプレビューできます。これは、オンライン ビジネスを新聞テンプレートと統合するのに役立つ WooCommerce プラグインとともに、Gutenberg および RTL と互換性があります。見栄えの良いニュースポータルを構築するために必要な多くの便利な機能が含まれているため、このテーマはブログに最適であり、ニュース、新聞、雑誌、出版、またはレビュー サイトにも最適です。このテーマは適切に最適化されているため、Web サイトを検索エンジンの上位にランク付けするのに役立ちます。テーマの使用中に問題が発生した場合、ユーザーはチームから優れたサポートを受けることができます。このテーマには多数のデモが用意されているので、気に入ったものを選択して、Web サイトの構築を開始してください。  デモをご覧ください: https://afthemes.com/newsium-pro-wordpress-theme-for-the-best-sensitive-news-magazine-sites/"
   ],
   "||Newsphere": [
     "★ Newsphere"
@@ -5111,25 +4979,25 @@
     "★ メニューが割り当てられていません"
   ],
   "||No plugins are available to be activated at this time.": [
-    "★ 現時点で有効化できるプラグインはありません。"
+    "★ 現時点では有効化できるプラグインはありません。"
   ],
   "||No plugins are available to be installed at this time.": [
-    "★ 現在インストールできるプラグインはありません。"
+    "★ 現時点ではインストールできるプラグインはありません。"
   ],
   "||No plugins are available to be updated at this time.": [
-    "★ 現在更新できるプラグインはありません。"
+    "★ 現時点では更新できるプラグインはありません。"
   ],
   "||No plugins to install, update or activate.": [
     "★ インストール・更新・有効化可能なプラグインがありません。"
   ],
   "||No plugins were selected to be activated. No action taken.": [
-    "★ 有効化するプラグインが選択されていません。何も実行しませんでした。"
+    "★ 有効化するプラグインが選択されていません。何もアクションは取られませんでした。"
   ],
   "||No plugins were selected to be installed. No action taken.": [
-    "★ インストールするプラグインが選択されていません。何も実行しませんでした。"
+    "★ インストールするプラグインが選択されていません。何もアクションは取られませんでした。"
   ],
   "||No plugins were selected to be updated. No action taken.": [
-    "★ 更新するプラグインが選択されていません。何も実行しませんでした。"
+    "★ 更新するプラグインが選択されていませんでした。何もアクションは取られませんでした。"
   ],
   "||No products added in the compare table.": [
     "○ 比較表に製品は追加されませんでした。"
@@ -5174,7 +5042,7 @@
     "★ 通常サポート"
   ],
   "||Not Installed": [
-    "★ 未インストール"
+    "★ インストールされていません"
   ],
   "||Nothing Found": [
     "★ 何も見つかりませんでした"
@@ -5321,7 +5189,7 @@
     "★ ホームコンテンツのみ"
   ],
   "||Oops! That page can&rsquo;t be found.": [
-    "○ おっと！そのページは見つかりません。"
+    "★ お探しのページが見つかりません。"
   ],
   "||Open In New Tab": [
     "★ 新しいタブで開く"
@@ -5402,10 +5270,13 @@
     "★ ページビルダーエレメントウィジェット"
   ],
   "||Page Builder Full Width": [
-    "★ ページビルダー用全幅"
+    "★ ページビルダー全幅"
   ],
   "||Page Builder Gutenberg Blocks & Patterns": [
-    "○ ページビルダー Gutenberg のブロックとパターン"
+    "★ ページビルダー Gutenberg のブロックとパターン"
+  ],
+  "||Page Contents & Front-page Widgets": [
+    "★ ページコンテンツとフロントページウィジェット"
   ],
   "||Page Slider": [
     "★ ページスライダー"
@@ -5468,13 +5339,19 @@
     "★ テーマのセットアップおよびカスタマイズ方法の詳細については、完全なドキュメントを参照してください。"
   ],
   "||Please contact the administrator of this site for help.": [
-    "★ ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+    "★ サポートが必要な場合は、このサイトの管理者にお問い合わせください。"
   ],
   "||Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines.": [
-    "★ プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
+    "★ プラグインプロバイダーに連絡し、WordPress ガイドラインに従ってプラグインをパッケージ化するよう依頼してください。"
   ],
   "||Please ensure that you have enabled the plugin's breadcrumbs before choosing other than Default": [
     "★ デフォルト以外を選択する前に、プラグインのブレッドクラムが有効になっていることを確認してください。"
+  ],
+  "||Please go to Customize>Front-page Options for Homepage.": [
+    "★ [カスタマイズ] > [ホームページのフロントページ オプション] に移動してください。"
+  ],
+  "||Please go to Customize>Themes Options for Single Post/Page.": [
+    "★ [カスタマイズ] > [単一投稿/ページのテーマ オプション] に移動してください。"
   ],
   "||Please log in to bookmark this post.": [
     "★ この投稿をブックマークするにはログインしてください。"
@@ -5498,16 +5375,16 @@
     "★ プラグイン"
   ],
   "||Plugin activated successfully.": [
-    "★ プラグインを有効化しました。"
+    "★ プラグインが正常に有効化されました。"
   ],
   "||Plugin activation failed.": [
     "★ プラグインの有効化に失敗しました。"
   ],
   "||Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin.": [
-    "★ プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+    "★ プラグインが有効化されていません。このテーマには、%s の上位バージョンが必要です。プラグインを更新してください。"
   ],
   "||Popular": [
-    "★ 人気"
+    "★ 人気のある"
   ],
   "||Popular News": [
     "★ 人気ニュース"
@@ -5819,7 +5696,7 @@
     "★ パワーバンドル"
   ],
   "||Pre-Packaged": [
-    "★ パッケージ化済み"
+    "★ プレパッケージ化"
   ],
   "||Preloader": [
     "★ プリローダー"
@@ -5841,9 +5718,6 @@
   ],
   "||Premium Theme Tones (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, Newsical, NewsLight, NewsMore, SideNews)": [
     "○ プレミアム テーマ トーン (BlackNews、CelebNews、GamerNews、NewsCorp、NewsDay、Newsical、NewsLight、NewsMore、SideNews)"
-  ],
-  "||Premium Theme Tones (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, ReviewNews, NewsLight, NewsMore, SideNews)": [
-    "○ プレミアム テーマ トーン (BlackNews、CelebNews、GamerNews、NewsCorp、NewsDay、ReviewNews、NewsLight、NewsMore、SideNews)"
   ],
   "||Preview": [
     "★ プレビュー"
@@ -6035,7 +5909,7 @@
     "★ RTL の互換性"
   ],
   "||Rank Math": [
-    "★ Rank Math"
+    "★ ランク計算"
   ],
   "||Rate This Theme": [
     "★ このテーマを評価する"
@@ -6077,16 +5951,16 @@
     "★ 読書進行状況バーの色"
   ],
   "||Ready to publish your first post? <a href=\"%1$s\">Get started here</a>.": [
-    "○ 最初の投稿を公開する準備はできましたか? <a href=\"%1$s\">ここから始めましょう</a>。"
+    "★ 最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
   ],
   "||Recent": [
-    "★ 最近"
+    "★ 最近の"
   ],
   "||Recommended": [
     "★ 推奨"
   ],
   "||Recommended Size %1$s px X %2$s px": [
-    "★ %1$s px X %2$s px のサイズがおすすめです"
+    "★ 推奨サイズ %1$s ピクセル X %2$s ピクセル"
   ],
   "||Recommended if you use an SEO plugin": [
     "★ SEOプラグインを使用する場合に推奨"
@@ -6140,10 +6014,10 @@
     "★ 必須"
   ],
   "||Required Update not Available": [
-    "★ 必要な更新が利用できません"
+    "★ 必要なアップデートが利用できない"
   ],
   "||Requires Update": [
-    "★ 更新が必要です"
+    "★ アップデートが必要です"
   ],
   "||Responsive Layout": [
     "★ レスポンシブレイアウト"
@@ -6158,10 +6032,13 @@
     "★ ダッシュボードに戻る"
   ],
   "||ReviewNews Options": [
-    "★ レビューニュースのオプション"
+    "★ ReviewNews Options"
   ],
   "||ReviewNews Pro": [
     "★ ReviewNews Pro"
+  ],
+  "||ReviewNews Pro is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews": [
+    "★ ReviewNews Pro is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews"
   ],
   "||Revisions": [
     "★ リビジョン"
@@ -6269,7 +6146,7 @@
     "★ 二次境界線の色"
   ],
   "||Secondary Color": [
-    "★ サブカラー"
+    "★ 二次色"
   ],
   "||Secondary Color - Default": [
     "○ 二次色 - デフォルト"
@@ -6389,7 +6266,7 @@
     "○ カルーセルレイアウトの選択"
   ],
   "||Select Category": [
-    "★ カテゴリーを選択"
+    "★ カテゴリの選択"
   ],
   "||Select Category ": [
     "★ カテゴリの選択"
@@ -6428,7 +6305,7 @@
     "○ グリッドレイアウトの選択"
   ],
   "||Select Image": [
-    "★ 画像を選択"
+    "★ 画像の選択"
   ],
   "||Select Main Banner Layout": [
     "★ メインバナーレイアウトを選択"
@@ -6506,7 +6383,7 @@
     "★ テーマから組み込みのヘッダー レイアウトを選択します"
   ],
   "||Select category": [
-    "★ カテゴリーを選択"
+    "★ カテゴリを選択してください"
   ],
   "||Select category 1": [
     "★ カテゴリー1を選択"
@@ -7081,6 +6958,18 @@
   "||Show trending posts on": [
     "○ トレンドの投稿を表示"
   ],
+  "||Shown after posts in archive or blog listings. Supports ad rotation using <!--next--> tag.": [
+    "★ アーカイブまたはブログリストの投稿の後に表示されます。 <!--next--> タグを使用した広告のローテーションをサポートします。"
+  ],
+  "||Shown after the third paragraph in single post content. Supports rotating ads with <!--next-->.": [
+    "★ 単一投稿コンテンツの 3 番目の段落の後に表示されます。 <!--next--> によるローテーション広告をサポートします。"
+  ],
+  "||Shown before posts in blog or archive pages. Use <!--next--> to rotate multiple ads.": [
+    "★ ブログまたはアーカイブ ページの投稿の前に表示されます。 <!--next--> を使用して複数の広告をローテーションします。"
+  ],
+  "||Shown in sidebar globally. You may use widgets for better control. Supports <!--next--> for rotating ads.": [
+    "★ Shown in sidebar globally. You may use widgets for better control. Supports <!--next--> for rotating ads."
+  ],
   "||Side": [
     "★ 横位置"
   ],
@@ -7115,10 +7004,10 @@
     "○ サイドバーのカラーセクション"
   ],
   "||Sidebar Options": [
-    "★ サイドバー設定"
+    "★ サイドバーのオプション"
   ],
   "||Sidebar Settings": [
-    "★ サイドバー設定"
+    "★ サイドバーの設定"
   ],
   "||Sidebar Sticky Position": [
     "★ サイドバーの固定位置"
@@ -7215,6 +7104,9 @@
   ],
   "||Single page, posts, products, section title": [
     "★ 単一ページ、投稿、製品、セクションのタイトル"
+  ],
+  "||Site & Logo": [
+    "★ サイトとロゴ"
   ],
   "||Site Analytics": [
     "★ サイト分析"
@@ -7433,7 +7325,7 @@
     "★ このサイトにプラグインをインストールする権限がありません。"
   ],
   "||Sorry, you are not allowed to install plugins on this site.": [
-    "★ このサイトにプラグインをインストールする権限がありません。"
+    "★ 申し訳ありませんが、このサイトにプラグインをインストールすることはできません。"
   ],
   "||Source": [
     "★ ソース"
@@ -7595,7 +7487,7 @@
     "○ 微妙"
   ],
   "||Subscribe": [
-    "★ 購読"
+    "★ 購読する"
   ],
   "||Subscribe To  Our Newsletter": [
     "★ ニュースレターを購読する"
@@ -7764,13 +7656,13 @@
     "★ 次の必須プラグインは現在非アクティブです: %1$s。"
   ],
   "||The installation and activation process is starting. This process may take a while on some hosts, so please be patient.": [
-    "★ インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+    "★ インストールとアクティベーションのプロセスが開始されます。一部のホストではこのプロセスに時間がかかる場合がありますので、しばらくお待ちください。"
   ],
   "||The installation of %1$s failed.": [
     "★ %1$s のインストールに失敗しました。"
   ],
   "||The installation process is starting. This process may take a while on some hosts, so please be patient.": [
-    "★ 更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+    "★ インストールプロセスが開始されます。一部のホストではこのプロセスに時間がかかる場合がありますので、しばらくお待ちください。"
   ],
   "||The option will disable trending news, main slider, featured news, featured products from blog archive page.": [
     "★ このオプションを選択すると、ブログ アーカイブ ページからトレンド ニュース、メイン スライダー、注目のニュース、注目の製品が無効になります。"
@@ -7779,10 +7671,10 @@
     "★ オプションはブログ アーカイブ ページからのセクションです。"
   ],
   "||The remote plugin package consists of more than one file, but the files are not packaged in a folder.": [
-    "★ リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルが1つのフォルダー内にパッケージされていません。"
+    "★ リモート プラグイン パッケージは複数のファイルで構成されますが、ファイルはフォルダーにパッケージ化されていません。"
   ],
   "||The remote plugin package does not contain a folder with the desired slug and renaming did not work.": [
-    "★ リモートプラグインパッケージには指定されたスラッグのフォルダーがないため、名前の変更ができませんでした。"
+    "★ リモート プラグイン パッケージには、必要なスラッグを含むフォルダーが含まれていないため、名前の変更が機能しませんでした。"
   ],
   "||The {year} is used for current year": [
     "★ {year} は現在の年に使用されます"
@@ -7812,7 +7704,7 @@
     "★ テーマオプション"
   ],
   "||Theme Options": [
-    "★ テーマ設定"
+    "★ テーマのオプション"
   ],
   "||Theme Preview": [
     "★ テーマのプレビュー"
@@ -7842,6 +7734,9 @@
     "★ %1$s に利用可能なアップデートがあります。",
     "★ 次のプラグインに利用可能なアップデートがあります: %1$s。"
   ],
+  "||This ad appears after the first paragraph of single post content. Rotation supported via <!--next-->.": [
+    "★ この広告は、単一投稿コンテンツの最初の段落の後に表示されます。回転は <!--next--> 経由でサポートされます。"
+  ],
   "||This content is available after completing the promotion below.": [
     "★ このコンテンツは、以下のプロモーションを完了すると利用可能になります。"
   ],
@@ -7858,7 +7753,7 @@
     "★ このプラグインは、さまざまな方法で Mailchimp リストを増やし、より良いニュースレターを作成するのに役立ちます。見栄えの良いオプトイン フォームを作成したり、コメント、連絡先、チェックアウト フォームなどのサイト上の既存のフォームと統合したりできます。"
   ],
   "||This plugin needs to be updated to be compatible with your theme.": [
-    "★ 使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+    "★ このプラグインは、テーマと互換性を持たせるために更新する必要があります。"
   ],
   "||This theme recommends the following plugin: %1$s.": [
     "★ このテーマでは次のプラグインを推奨します: %1$s。",
@@ -8019,6 +7914,9 @@
   ],
   "||Top - Default": [
     "★ 上 - デフォルト"
+  ],
+  "||Top Authors & Link Stats": [
+    "★ トップ著者とリンク統計"
   ],
   "||Top Authors by Views": [
     "★ 閲覧数トップの著者"
@@ -8243,10 +8141,10 @@
     "★ PRO 機能のロックを解除する"
   ],
   "||Update": [
-    "★ 更新"
+    "★ アップデート"
   ],
   "||Update %2$s": [
-    "★ %2$s 更新"
+    "★ %2$sを更新"
   ],
   "||Update Available <span class=\"count\">(%s)</span>": [
     "★ 利用可能なアップデート <span class=\"count\">(%s)</span>",
@@ -8268,7 +8166,7 @@
     "★ Elespare Pro をアップデートする"
   ],
   "||Update Required": [
-    "★ 更新が必要です"
+    "★ アップデートが必要です"
   ],
   "||Update Section": [
     "○ 更新セクション"
@@ -8280,7 +8178,7 @@
     "○ トピックを更新"
   ],
   "||Update recommended": [
-    "★ 更新が推奨されています"
+    "★ アップデートを推奨"
   ],
   "||Updated: ": [
     "★ 更新日:"
@@ -8289,10 +8187,10 @@
     "★ アップデートセクション"
   ],
   "||Updating Plugin %1$s (%2$d/%3$d)": [
-    "★ %1$s プラグインを更新中 (%2$d/%3$d)"
+    "★ プラグイン %1$s (%2$d/%3$d) を更新しています"
   ],
   "||Updating Plugin: %s": [
-    "★ プラグインの更新中: %s"
+    "★ プラグインを更新しています: %s"
   ],
   "||Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update.": [
     "★ このテーマを更新すると、行ったカスタマイズはすべて失われます。 「キャンセル」で停止し、「OK」で更新します。"
@@ -8308,9 +8206,6 @@
   ],
   "||Upgrade now": [
     "★ 今すぐアップグレード"
-  ],
-  "||Upgrade to MoreNews Pro - More Power, More Control!": [
-    "○ MoreNews Pro にアップグレード - さらなるパワー、さらなるコントロール!"
   ],
   "||Upgrade to Pro": [
     "★ プロ版にアップグレード"
@@ -8699,6 +8594,9 @@
   "||You can change Site Identity from %s.": [
     "★ サイト ID は %s から変更できます。"
   ],
+  "||You can change date from general settings (Settings > General > Date Format). %s": [
+    "★ 日付は一般設定 (設定 > 一般 > 日付形式) から変更できます。 %s"
+  ],
   "||You can check out the theme demos for reference to find out what you can achieve using the theme and how it can be customized.": [
     "★ テーマのデモを参照して、テーマを使用して何が達成できるか、またどのようにカスタマイズできるかを確認できます。"
   ],
@@ -8926,6 +8824,9 @@
   ],
   "||👋 Welcome, and Thank You!": [
     "★ 👋 ようこそ、そしてありがとう!"
+  ],
+  "||💡 Tip: You can rotate multiple ads by separating them with <!--next-->. One ad will be shown randomly per page load. Works with HTML, JavaScript, and shortcodes.": [
+    "★ 💡 ヒント: <!--next--> で区切ることで、複数の広告をローテーションできます。ページ読み込みごとに 1 つの広告がランダムに表示されます。 HTML、JavaScript、ショートコードで動作します。"
   ],
   "||📊 Site Analytics": [
     "★ 📊 サイト分析"

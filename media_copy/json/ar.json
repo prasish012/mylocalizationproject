@@ -4,69 +4,27 @@
   },
   "%1$s thought on &ldquo;%2$s&rdquo;": "%1$s فكر في &ldquo;%2$s&rdquo;",
   "%1$s thoughts on &ldquo;%2$s&rdquo;": "%1$s أفكار حول &ldquo;%2$s&rdquo;",
-  "%d item": "%d عنصر",
-  "%d items": "%d عنصر",
-  "%s font: on or off||on": [
-    "★ على"
-  ],
+  "%d Item": "%d عنصر",
+  "%d Items": "%d عنصر",
+  "%s comment": "تعليق %s",
+  "%s comments": "%s تعليقات",
   "%s minute read": "قراءة %s دقيقة",
   "%s minutes read": "تمت قراءة %s دقيقة",
-  "Ad after post content. You can rotate multiple ads with <!--next--> separator.": "الإعلان بعد نشر المحتوى. يمكنك تدوير عدة إعلانات باستخدام الفاصل <!--next-->.",
-  "Ad before post content. Supports rotating multiple ads using <!--next-->.": "الإعلان قبل نشر المحتوى. يدعم تدوير إعلانات متعددة باستخدام <!--next-->.",
+  "%s view": "عرض %s",
+  "%s views": "%s مشاهدات",
   "All <span class=\"count\">(%s)</span>": "الكل <span class=\"count\">(%s)</span>",
-  "An error occurred while installing %1$s: <strong>%2$s</strong>.": "حدث خطأ أثناء تثبيت %1$s: <strong>%2$s</strong>.",
   "Begin activating plugin": "البدء في تفعيل البرنامج المساعد",
   "Begin activating plugins": "البدء في تفعيل المكونات الإضافية",
   "Begin installing plugin": "البدء في تثبيت البرنامج المساعد",
   "Begin installing plugins": "البدء في تثبيت المكونات الإضافية",
   "Begin updating plugin": "البدء في تحديث البرنامج المساعد",
   "Begin updating plugins": "البدء في تحديث المكونات الإضافية",
-  "Cheatin&#8217; huh?": "الغشاش&#8217; هاه؟",
-  "Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> on each element to customize its settings.": "انقر فوق الإعداد <span class=\"dashicons Dashicons-admin-generic\"></span> في كل عنصر لتخصيص إعداداته.",
-  "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>": "متابعة القراءة<span class=\"screen-reader-text\"> \"%s\"</span>",
-  "Copyright &copy; {year} All rights reserved.": "حقوق النشر والنسخ؛ {سنة} جميع الحقوق محفوظة.",
-  "Displayed at the bottom of the site above footer widgets. Rotating ads supported using <!--next-->.": "يتم عرضها في الجزء السفلي من الموقع فوق عناصر واجهة المستخدم للتذييل. يتم دعم الإعلانات الدورية باستخدام <!--next-->.",
-  "Displayed below post content, before comments or related posts. Rotation via <!--next--> supported.": "يتم عرضه أسفل محتوى المنشور، قبل التعليقات أو المنشورات ذات الصلة. التدوير عبر <!--next--> مدعوم.",
-  "Edit <span class=\"screen-reader-text\">%s</span>": "قم بتحرير <span class=\"screen-reader-text\">%s</span>",
-  "Fonts & Typography": "الخطوط والطباعة",
-  "GDPR friendly & better performance": "متوافق مع اللائحة العامة لحماية البيانات وأداء أفضل",
-  "Global Layout enforcement applied. Please go to Customize > Theme Options.": "تم تطبيق فرض التخطيط العام. يرجى الانتقال إلى تخصيص > خيارات السمة.",
   "Install/Update Status||%1$s, %2$s": [
     "★ %1$s، %2$s"
   ],
-  "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.": "يبدو أننا لا نستطيع العثور على ما تبحث عنه. ربما البحث يمكن أن يساعد.",
-  "Lato font: on or off||on": [
-    "★ on"
-  ],
-  "Manually inserted between posts in archive loop using hooks/snippets. Rotate with <!--next--> if needed.": "تم إدراجها يدويًا بين المشاركات في حلقة الأرشيف باستخدام الخطافات/المقتطفات. قم بالتدوير باستخدام <!--next--> إذا لزم الأمر.",
-  "Montserrat font: on or off||on": [
-    "★ على"
-  ],
   "One thought on &ldquo;%1$s&rdquo;": "فكرة واحدة عن &ldquo;%1$s&rdquo;",
-  "Oops! That page can&rsquo;t be found.": "أُووبس! لا يمكن العثور على تلك الصفحة.",
-  "Oswald font: on or off||on": [
-    "○ على"
-  ],
-  "Page Builder Gutenberg Blocks & Patterns": "كتل وأنماط منشئ الصفحة جوتنبرج",
-  "Please go to Customize > Themes Options for Single Post/Page.": "يرجى الانتقال إلى تخصيص > خيارات السمات لمنشور/صفحة واحدة.",
-  "Please go to Customize>Front-page Options for Homepage.": "يرجى الانتقال إلى تخصيص>خيارات الصفحة الأمامية للصفحة الرئيسية.",
-  "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>.": "هل أنت مستعد لنشر مشاركتك الأولى؟ <a href=\"%1$s\">ابدأ هنا</a>.",
   "Remove||X": [
     "★ X"
-  ],
-  "Roboto Sans Pro font: on or off||on": [
-    "○ على"
-  ],
-  "Rubik font: on or off||on": [
-    "○ على"
-  ],
-  "Shown after posts in archive or blog listings. Supports ad rotation using <!--next--> tag.": "تظهر بعد المشاركات في الأرشيف أو قوائم المدونة. يدعم عرض الإعلانات بالتناوب باستخدام العلامة <!--next-->.",
-  "Shown after the third paragraph in single post content. Supports rotating ads with <!--next-->.": "تظهر بعد الفقرة الثالثة في محتوى المنشور الواحد. يدعم تدوير الإعلانات باستخدام <!--next-->.",
-  "Shown before posts in blog or archive pages. Use <!--next--> to rotate multiple ads.": "تظهر قبل المشاركات في صفحات المدونة أو الأرشيف. استخدم <!--next--> لتدوير إعلانات متعددة.",
-  "Shown in sidebar globally. You may use widgets for better control. Supports <!--next--> for rotating ads.": "يظهر في الشريط الجانبي عالميًا. يمكنك استخدام الأدوات للتحكم بشكل أفضل. يدعم <!--next--> للإعلانات الدورية.",
-  "Site & Logo": "الموقع والشعار",
-  "Source Sans Pro font: on or off||on": [
-    "★ تفعيل"
   ],
   "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s.": "يجب تحديث المكون الإضافي التالي إلى أحدث إصدار له لضمان أقصى قدر من التوافق مع هذا المظهر: %1$s.",
   "The following plugin was activated successfully:": "تم تفعيل الإضافة التالية بنجاح:",
@@ -78,7 +36,6 @@
   "The following required plugins are currently inactive: %1$s.": "المكونات الإضافية المطلوبة التالية غير نشطة حاليًا: %1$s.",
   "There are updates available for the following plugins: %1$s.": "هناك تحديثات متاحة للمكونات الإضافية التالية: %1$s.",
   "There is an update available for: %1$s.": "هناك تحديث متاح لـ: %1$s.",
-  "This ad appears after the first paragraph of single post content. Rotation supported via <!--next-->.": "يظهر هذا الإعلان بعد الفقرة الأولى من محتوى المنشور الواحد. يتم دعم التدوير عبر <!--next-->.",
   "This theme recommends the following plugin: %1$s.": "يوصي هذا الموضوع بالمكون الإضافي التالي: %1$s.",
   "This theme recommends the following plugins: %1$s.": "يوصي هذا الموضوع بالمكونات الإضافية التالية: %1$s.",
   "This theme requires the following plugin: %1$s.": "يتطلب هذا المظهر المكوّن الإضافي التالي: %1$s.",
@@ -86,7 +43,6 @@
   "To Activate <span class=\"count\">(%s)</span>": "لتنشيط <span class=\"count\">(%s)</span>",
   "To Install <span class=\"count\">(%s)</span>": "لتثبيت <span class=\"count\">(%s)</span>",
   "Update Available <span class=\"count\">(%s)</span>": "التحديث متاح <span class=\"count\">(%s)</span>",
-  "You can change date from general settings (Settings > General > Date Format). %s": "يمكنك تغيير التاريخ من الإعدادات العامة (الإعدادات > عام > تنسيق التاريخ). %s",
   "add new on admin bar||FAQ": [
     "○ التعليمات"
   ],
@@ -117,9 +73,6 @@
   ],
   "hour archives time format||g a": [
     "★ g a"
-  ],
-  "list item separator|| ": [
-    "★ "
   ],
   "list item separator||, ": [
     "★ ,"
@@ -179,9 +132,6 @@
   "yearly archives date format||Y": [
     "★ Y"
   ],
-  "|| %1$s": [
-    "★ %1$s"
-  ],
   "|| (Last updated: ": [
     "★ (آخر تحديث:"
   ],
@@ -207,13 +157,13 @@
     "○ %1$s 🎁 أتمنى أن ينال موضوع %2$s المجاني إعجابك! هل أنت مستعد للترقية؟ استمتع بالروح الاحتفالية مع هدية حصرية: ميزات %4$s المميزة! استخدم الكود %3$s عند الدفع. أتمنى لك موسمًا مليئًا بالعطلات السعيدة وحتى التوفير الأكثر سعادة! 🎄✨"
   ],
   "||%d Item": [
+    "★ %d عنصر",
     "★ %d عنصر"
   ],
   "||%d comments": [
     "★ %d تعليق"
   ],
   "||%d item": [
-    "★ %d عنصر",
     "★ %d عنصر"
   ],
   "||%d views": [
@@ -229,7 +179,8 @@
     "★ قبل %s"
   ],
   "||%s comment": [
-    "★ تعليق %s"
+    "★ تعليق %s",
+    "★ %s تعليقات"
   ],
   "||%s comments made": [
     "★ تم تقديم %s من التعليقات"
@@ -263,7 +214,8 @@
     "★ إجمالي %s من المشاهدات"
   ],
   "||%s view": [
-    "★ عرض %s"
+    "★ عرض %s",
+    "★ %s مشاهدات"
   ],
   "||%s views": [
     "★ %s مشاهدات"
@@ -282,9 +234,6 @@
   ],
   "||/": [
     "★ None"
-  ],
-  "||1": [
-    "★ 1"
   ],
   "||100": [
     "★ 100"
@@ -417,6 +366,9 @@
   ],
   "||9000": [
     "★ 9000"
+  ],
+  "||<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>.": [
+    "★ <strong>%1$s %2$s</strong> متاح. <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">اطلع على الجديد</a> أو <a href=\"%5$s\"%6$s>قم بالتحديث الآن</a>."
   ],
   "||A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design and tile layouts of your posts.": [
     "★ مجموعة جميلة من أحدث منشورات كتل Gutenberg لـ WordPress، والتي تساعدك على تصميم شبكة المنشورات وقائمة المنشورات وتخطيط المنشورات الكاملة وتصميم المنشورات السريعة المتقدمة وتخطيطات البلاط لمشاركاتك."
@@ -920,10 +872,10 @@
     "★ مناطق موضع الإعلان (الرأس، المحتوى، التذييل، الأرشيف)"
   ],
   "||Ad after post content. You can rotate multiple ads with <!--next--> separator.": [
-    "○ الإعلان بعد نشر المحتوى. يمكنك تدوير عدة إعلانات باستخدام الفاصل <!--next-->."
+    "★ الإعلان بعد نشر المحتوى. يمكنك تدوير عدة إعلانات باستخدام الفاصل <!--next-->."
   ],
   "||Ad before post content. Supports rotating multiple ads using <!--next-->.": [
-    "○ الإعلان قبل نشر المحتوى. يدعم تدوير إعلانات متعددة باستخدام <!--next-->."
+    "★ الإعلان قبل نشر المحتوى. يدعم تدوير إعلانات متعددة باستخدام <!--next-->."
   ],
   "||Add": [
     "★ أضف"
@@ -1189,9 +1141,6 @@
   "||Ajax load more": [
     "★ اياكس تحميل المزيد"
   ],
-  "||All": [
-    "★ الكل"
-  ],
   "||All (Pages, Posts, etc)": [
     "★ الكل (الصفحات، المشاركات، الخ)"
   ],
@@ -1262,7 +1211,7 @@
     "○ خلفية الصندوق البديل"
   ],
   "||An error occurred while installing %1$s: <strong>%2$s</strong>.": [
-    "○ حدث خطأ أثناء تثبيت %1$s: <strong>%2$s</strong>."
+    "★ حدث خطا أثناء تثبيت %1$s: <strong>%2$s</strong>."
   ],
   "||Analytics": [
     "★ التحليلات"
@@ -1275,6 +1224,9 @@
   ],
   "||Appearance": [
     "★ المظهر"
+  ],
+  "||Appearance & Structure": [
+    "★ المظهر والهيكل"
   ],
   "||Approved Comments": [
     "★ التعليقات المعتمدة"
@@ -1351,11 +1303,17 @@
   "||Author Info Widget": [
     "★ القطعة معلومات المؤلف"
   ],
+  "||Author Support & Donation": [
+    "★ دعم المؤلف والتبرع"
+  ],
   "||Author and Date Settings": [
     "★ إعدادات المؤلف والتاريخ"
   ],
   "||Author's Other Posts": [
     "★ مشاركات المؤلف الأخرى"
+  ],
+  "||Authors & Links": [
+    "★ المؤلفون والروابط"
   ],
   "||Autoplay Speed": [
     "★ سرعة التشغيل التلقائي"
@@ -1744,15 +1702,6 @@
   "||Breaking Posts Category": [
     "★ فئة المشاركات العاجلة"
   ],
-  "||BroadNews Pro": [
-    "★ برود نيوز برو"
-  ],
-  "||BroadNews Pro is a versatile WordPress theme designed for news, blogs, and magazines. The theme has a number of free starter sites that may be easily integrated to create a superb news center. The theme is fully widgetized, with 15+ unique widgets and widget sections that allow users to tailor site content. It also has a light and dark color mode for browsing articles and blog posts in a trendy way. It also contains a number of essential customizer options for constructing a visually beautiful news site. You may configure it whatever you want and preview how it looks before making any changes with the live customizer. It supports Gutenberg blocks, RTL, and the WooCommerce plugin, which allows you to combine an online store. The theme is suitable for use on a news, journal, magazine, publication, or review website, as well as for blogging. It's well-designed to help the website rank higher in search engines, and users will receive fantastic support from the team if they have any problems utilizing it.": [
-    "★ BroadNews Pro عبارة عن سمة WordPress متعددة الاستخدامات مصممة للأخبار والمدونات والمجلات. يحتوي الموضوع على عدد من المواقع المجانية التي يمكن دمجها بسهولة لإنشاء مركز أخبار رائع. تم تصميم الموضوع بالكامل، مع أكثر من 15 عنصر واجهة مستخدم وأقسام عناصر واجهة مستخدم فريدة تسمح للمستخدمين بتخصيص محتوى الموقع. كما أن لديها وضع الألوان الفاتحة والداكنة لتصفح المقالات ومنشورات المدونات بطريقة عصرية. كما يحتوي أيضًا على عدد من خيارات التخصيص الأساسية لإنشاء موقع إخباري جميل المظهر. يمكنك تهيئته كما تريد ومعاينة شكله قبل إجراء أي تغييرات باستخدام أداة التخصيص المباشرة. وهو يدعم كتل Gutenberg، وRTL، والمكون الإضافي WooCommerce، والذي يسمح لك بدمج متجر عبر الإنترنت. الموضوع مناسب للاستخدام في موقع إخباري أو مجلة أو مجلة أو منشور أو مراجعة، وكذلك للتدوين. إنه مصمم جيدًا لمساعدة موقع الويب في الحصول على مرتبة أعلى في محركات البحث، وسيتلقى المستخدمون دعمًا رائعًا من الفريق إذا واجهوا أي مشاكل في استخدامه."
-  ],
-  "||BroadNews is a versatile WordPress theme designed for news, blogs, and magazines. The theme has a number of free starter sites that may be easily integrated to create a superb news center. The theme is fully widgetized, with 7+ unique widgets and 8+ widget areas that allow users to tailor site content. It also has a light and dark color mode for browsing articles and blog posts in a trendy way. It also contains a number of essential customizer options for constructing a visually beautiful news site. You may configure it whatever you want and preview how it looks before making any changes with the live customizer. It supports Gutenberg blocks, RTL, and the WooCommerce plugin, which allows you to combine an online store. The theme is suitable for use on a news, journal, magazine, publication, or review website, as well as for blogging. It's well-designed to help the website rank higher in search engines, and users will receive fantastic support from the team if they have any problems utilizing it.": [
-    "★ BroadNews عبارة عن سمة WordPress متعددة الاستخدامات مصممة للأخبار والمدونات والمجلات. يحتوي الموضوع على عدد من المواقع المجانية التي يمكن دمجها بسهولة لإنشاء مركز أخبار رائع. الموضوع مُصمم بالكامل لعناصر واجهة المستخدم، مع أكثر من 7 عناصر واجهة مستخدم فريدة وأكثر من 8 مناطق عناصر واجهة مستخدم تسمح للمستخدمين بتخصيص محتوى الموقع. كما أن لديها وضع الألوان الفاتحة والداكنة لتصفح المقالات ومنشورات المدونات بطريقة عصرية. كما يحتوي أيضًا على عدد من خيارات التخصيص الأساسية لإنشاء موقع إخباري جميل المظهر. يمكنك تهيئته كما تريد ومعاينة شكله قبل إجراء أي تغييرات باستخدام أداة التخصيص المباشرة. وهو يدعم كتل Gutenberg، وRTL، والمكون الإضافي WooCommerce، والذي يسمح لك بدمج متجر عبر الإنترنت. الموضوع مناسب للاستخدام في موقع إخباري أو مجلة أو مجلة أو منشور أو مراجعة، وكذلك للتدوين. إنه مصمم جيدًا لمساعدة موقع الويب في الحصول على مرتبة أعلى في محركات البحث، وسيتلقى المستخدمون دعمًا رائعًا من الفريق إذا واجهوا أي مشاكل في استخدامه."
-  ],
   "||Browse:": [
     "★ استعراض:"
   ],
@@ -1978,23 +1927,11 @@
   "||Choose the deepest heading level to include in TOC (H2-H6)": [
     "★ اختر أعمق مستوى عنوان لتضمينه في جدول المحتويات (H2-H6)"
   ],
-  "||ChromeNews": [
-    "★ ChromeNews"
-  ],
-  "||ChromeNews Pro": [
-    "★ كروم نيوز برو"
-  ],
-  "||ChromeNews Pro is a powerful WordPress theme that's perfect for news, blogs, and magazines. The theme comes with a number of free starting pages that may be easily integrated to construct a fantastic news hub. The theme is fully widgetized, with 16+ custom widgets and widget sections, allowing users to customize site content. It also offers a light and dark color mode for viewing articles and blog posts in a fashionable manner. It also includes a variety of useful customizer choices for creating an aesthetically pleasing news site. You may set it up as you want and see how it looks before making any changes with the live customizer. It supports Gutenberg blocks and RTL, as well as the WooCommerce plugin, allowing you to combine an online store with our newspaper theme. The theme is appropriate for a news, journal, magazine, publishing, or review website, as well as blogging. It's well-designed to help the website rank higher in search engines, and users will receive excellent support from the staff if they run into any issues while using it.": [
-    "★ ChromeNews Pro هو قالب WordPress قوي ومثالي للأخبار والمدونات والمجلات. يأتي الموضوع مع عدد من صفحات البداية المجانية التي يمكن دمجها بسهولة لإنشاء مركز أخبار رائع. تم تصميم الموضوع بالكامل، مع أكثر من 16 عنصر واجهة مستخدم مخصص وأقسام عناصر واجهة المستخدم، مما يسمح للمستخدمين بتخصيص محتوى الموقع. كما يوفر أيضًا وضع الألوان الفاتحة والداكنة لعرض المقالات ومنشورات المدونات بطريقة عصرية. ويتضمن أيضًا مجموعة متنوعة من خيارات التخصيص المفيدة لإنشاء موقع إخباري جذاب من الناحية الجمالية. يمكنك إعداده كما تريد ومعرفة كيف يبدو قبل إجراء أي تغييرات باستخدام أداة التخصيص المباشرة. وهو يدعم كتل Gutenberg وRTL، بالإضافة إلى مكون WooCommerce الإضافي، مما يسمح لك بدمج متجر عبر الإنترنت مع موضوع صحيفتنا. يكون الموضوع مناسبًا لموقع إخباري أو مجلة أو مجلة أو نشر أو مراجعة، بالإضافة إلى المدونات. إنه مصمم جيدًا لمساعدة موقع الويب في الحصول على مرتبة أعلى في محركات البحث، وسيتلقى المستخدمون دعمًا ممتازًا من الموظفين إذا واجهوا أي مشكلات أثناء استخدامه."
-  ],
-  "||ChromeNews is a powerful WordPress theme that's perfect for news, blogs, and magazines. The theme comes with a number of free starter sites that may be easily integrated to construct a fantastic news hub. The theme is fully widgetized, with 9+ custom widgets and widget sections, allowing users to customize site content. It also offers a light and dark color mode for viewing articles and blog posts in a fashionable manner. It also includes a variety of useful customizer choices for creating an aesthetically pleasing news site. You may set it up as you want and see how it looks before making any changes with the live customizer. It supports Gutenberg blocks and Elementor, as well as the WooCommerce plugin, allowing you to combine an online store with our newspaper theme. The RTL languages supported theme is appropriate for a news, journal, magazine, publishing, or review website, as well as blogging. It's well-designed to help the website rank higher in search engines, and users will receive excellent support from the staff if they run into any issues while using it. Find demos: https://afthemes.com/products/chromenews/#aft-view-starter-sites Videos: https://www.youtube.com/@wpafthemes/ Docs: https://docs.afthemes.com/chromenews/": [
-    "★ يعد ChromeNews سمة WordPress قوية ومثالية للأخبار والمدونات والمجلات. يأتي الموضوع مع عدد من المواقع المجانية التي يمكن دمجها بسهولة لإنشاء مركز أخبار رائع. تم تصميم الموضوع بالكامل، مع أكثر من 9 عناصر واجهة مستخدم مخصصة وأقسام عناصر واجهة المستخدم، مما يسمح للمستخدمين بتخصيص محتوى الموقع. كما يوفر أيضًا وضع الألوان الفاتحة والداكنة لعرض المقالات ومنشورات المدونات بطريقة عصرية. ويتضمن أيضًا مجموعة متنوعة من خيارات التخصيص المفيدة لإنشاء موقع إخباري جذاب من الناحية الجمالية. يمكنك إعداده كما تريد ومعرفة كيف يبدو قبل إجراء أي تغييرات باستخدام أداة التخصيص المباشرة. وهو يدعم كتل Gutenberg وElementor، بالإضافة إلى مكون WooCommerce الإضافي، مما يسمح لك بدمج متجر عبر الإنترنت مع موضوع صحيفتنا. يعد الموضوع المدعوم باللغات RTL مناسبًا لموقع ويب إخباري أو مجلة أو مجلة أو نشر أو مراجعة، بالإضافة إلى المدونات. إنه مصمم جيدًا لمساعدة موقع الويب في الحصول على مرتبة أعلى في محركات البحث، وسيتلقى المستخدمون دعمًا ممتازًا من الموظفين إذا واجهوا أي مشكلات أثناء استخدامه. ابحث عن العروض التوضيحية: https://afthemes.com/products/chromenews/#aft-view-starter-sites مقاطع الفيديو: https://www.youtube.com/@wpafthemes/ المستندات: https://docs.afthemes.com/chromenews/"
-  ],
   "||Claim Your Discount": [
     "★ المطالبة بالخصم الخاص بك"
   ],
   "||Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> on each element to customize its settings.": [
-    "○ انقر فوق الإعداد <span class=\"dashicons Dashicons-admin-generic\"></span> في كل عنصر لتخصيص إعداداته."
+    "★ انقر فوق الإعداد <span class=\"dashicons Dashicons-admin-generic\"></span> في كل عنصر لتخصيص إعداداته."
   ],
   "||Close Off Canvas Navigation": [
     "★ قم بإغلاق التنقل في اللوحة القماشية"
@@ -2141,16 +2078,16 @@
     "★ متابعة القراءة"
   ],
   "||Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>": [
-    "○ متابعة القراءة<span class=\"screen-reader-text\"> \"%s\"</span>"
+    "★ تابع القراءة <span class=\"screen-reader-text\"> \"%s\"</span>"
   ],
   "||Copy link to clipboard": [
     "★ انسخ الرابط إلى الحافظة"
   ],
   "||Copyright": [
-    "★ حقوق النشر"
+    "★ Copyright"
   ],
   "||Copyright &copy; {year} All rights reserved.": [
-    "○ حقوق النشر والنسخ؛ {سنة} جميع الحقوق محفوظة."
+    "★ Copyright &copy; {year} All rights reserved."
   ],
   "||Copyright Text": [
     "★ نص حقوق النشر"
@@ -2163,54 +2100,6 @@
   ],
   "||Count On Content Scroll": [
     "★ الاعتماد على تمرير المحتوى"
-  ],
-  "||CoverNews Author Info": [
-    "★ معلومات المؤلف CoverNews"
-  ],
-  "||CoverNews Double Categories Posts": [
-    "★ CoverNews فئات مزدوجة المشاركات"
-  ],
-  "||CoverNews Options": [
-    "★ خيارات أخبار الغلاف"
-  ],
-  "||CoverNews Posts Carousel": [
-    "★ أخبار الغلاف المشاركات دائري"
-  ],
-  "||CoverNews Posts Grid": [
-    "★ شبكة منشورات CoverNews"
-  ],
-  "||CoverNews Posts Slider": [
-    "★ شريط تمرير منشورات الغلاف"
-  ],
-  "||CoverNews Pro": [
-    "★ أخبار الغلاف برو"
-  ],
-  "||CoverNews Single Column ": [
-    "★ CoverNews عمود واحد"
-  ],
-  "||CoverNews Social": [
-    "★ أخبار الغلاف الاجتماعية"
-  ],
-  "||CoverNews Social Contacts": [
-    "★ CoverNews جهات الاتصال الاجتماعية"
-  ],
-  "||CoverNews Tabbed Posts": [
-    "★ أخبار الغلاف المشاركات المبوبة"
-  ],
-  "||CoverNews Trending Posts Carousel": [
-    "★ أخبار الغلاف المنشورات الرائجة دائري"
-  ],
-  "||CoverNews Trending Posts Carousel (By Comment)": [
-    "★ أخبار الغلاف، المشاركات الرائجة، دائري (حسب التعليق)"
-  ],
-  "||CoverNews Trending Posts Carousel (By Tag)": [
-    "★ أخبار الغلاف، المنشورات الرائجة، دائري (حسب العلامة)"
-  ],
-  "||CoverNews Trending Posts Carousel (By View)": [
-    "★ أخبار الغلاف، المنشورات الرائجة، دائري (حسب العرض)"
-  ],
-  "||CoverNews YouTube Video Slider": [
-    "★ CoverNews يوتيوب فيديو المنزلق"
   ],
   "||Create Your Dream Website in Minutes!": [
     "★ قم بإنشاء موقع أحلامك في دقائق!"
@@ -2303,7 +2192,7 @@
     "★ تصميم مواقع ويب للمدونات أو الأخبار أو المجلات بشكل مثالي Elespare هو مكون إضافي بسيط ولكنه فعال في WordPress يتيح لك استخدام Elementor لإنشاء رأس وتذييل ومحتويات رائعة لمواقع الويب مع خيارات تخصيص عالية مجانًا."
   ],
   "||Dark": [
-    "★ داكن"
+    "★ Dark"
   ],
   "||Dark Mode": [
     "★ الوضع الداكن"
@@ -2316,15 +2205,6 @@
   ],
   "||Dark/Light Site Mode": [
     "★ وضع الموقع الداكن/الفاتح"
-  ],
-  "||DarkNews Pro": [
-    "★ دارك نيوز برو"
-  ],
-  "||DarkNews Pro is an advanced dark WordPress theme that's appropriate for a news, blog and magazine website. The theme includes a range of free starting pages that can be imported with a single click to create a great news portal. With 9+ custom widgets and widget areas, the theme is fully widgetized, allowing users to control site content. It also has a light and dark color mode, so you can view articles and blog posts in a trendy way. It also contains a number of helpful customizer options for building a visually appealing news site. You can configure it as you like to see how it looks before making any improvements using the live customizer. It's compatible with Gutenberg blocks and RTL, as well as the WooCommerce plugin, which enables you to blend an online shop with our newspaper theme. The theme is ideal for a news, journal, magazine, publishing, or review site, as well as blogging. It's well-designed to bring the website to the top of search engines, and people will get outstanding support from the team if they have any problems when using it.": [
-    "○ DarkNews Pro عبارة عن سمة WordPress داكنة متقدمة ومناسبة لموقع ويب للأخبار والمدونات والمجلات. يتضمن الموضوع مجموعة من صفحات البداية المجانية التي يمكن استيرادها بنقرة واحدة لإنشاء بوابة أخبار رائعة. مع أكثر من 9 عناصر واجهة مستخدم مخصصة ومناطق عناصر واجهة المستخدم، يتم دمج السمة بالكامل، مما يسمح للمستخدمين بالتحكم في محتوى الموقع. كما أن لديها وضع الألوان الفاتحة والداكنة، حتى تتمكن من عرض المقالات ومنشورات المدونات بطريقة عصرية. كما يحتوي أيضًا على عدد من خيارات التخصيص المفيدة لإنشاء موقع إخباري جذاب بصريًا. يمكنك تهيئته كما تريد لترى كيف يبدو قبل إجراء أي تحسينات باستخدام أداة التخصيص المباشرة. إنه متوافق مع كتل Gutenberg وRTL، بالإضافة إلى مكون WooCommerce الإضافي، الذي يمكّنك من دمج متجر عبر الإنترنت مع موضوع صحيفتنا. يعتبر الموضوع مثاليًا لموقع أخبار أو مجلة أو مجلة أو نشر أو مراجعة، بالإضافة إلى التدوين. إنه مصمم جيدًا لجلب موقع الويب إلى أعلى محركات البحث، وسيحصل الأشخاص على دعم متميز من الفريق إذا واجهوا أي مشاكل عند استخدامه."
-  ],
-  "||DarkNews is an advanced dark WordPress theme that's appropriate for a news, blog and magazine website. The theme includes a range of free starting pages that can be imported with a single click to create a great news portal. With 9+ custom widgets and widget areas, the theme is fully widgetized, allowing users to control site content. It also has a light and dark color mode, so you can view articles and blog posts in a trendy way. It also contains a number of helpful customizer options for building a visually appealing news site. You can configure it as you like to see how it looks before making any improvements using the live customizer. It's compatible with Elementor, Gutenberg blocks and RTL, as well as the WooCommerce plugin, which enables you to blend an online shop with our newspaper theme. The theme is ideal for a news, journal, magazine, publishing, or review site, as well as blogging. It's well-designed to bring the website to the top of search engines, and people will get outstanding support from the team if they have any problems when using it.": [
-    "★ DarkNews عبارة عن سمة WordPress داكنة متقدمة ومناسبة لموقع ويب للأخبار والمدونات والمجلات. يتضمن الموضوع مجموعة من صفحات البداية المجانية التي يمكن استيرادها بنقرة واحدة لإنشاء بوابة أخبار رائعة. مع أكثر من 9 عناصر واجهة مستخدم مخصصة ومناطق عناصر واجهة المستخدم، يتم دمج السمة بالكامل، مما يسمح للمستخدمين بالتحكم في محتوى الموقع. كما أن لديها وضع الألوان الفاتحة والداكنة، حتى تتمكن من عرض المقالات ومنشورات المدونات بطريقة عصرية. كما يحتوي أيضًا على عدد من خيارات التخصيص المفيدة لإنشاء موقع إخباري جذاب بصريًا. يمكنك تهيئته كما تريد لترى كيف يبدو قبل إجراء أي تحسينات باستخدام أداة التخصيص المباشرة. إنه متوافق مع Elementor وكتل Gutenberg وRTL، بالإضافة إلى البرنامج الإضافي WooCommerce، الذي يمكّنك من دمج متجر عبر الإنترنت مع موضوع صحيفتنا. يعتبر الموضوع مثاليًا لموقع أخبار أو مجلة أو مجلة أو نشر أو مراجعة، بالإضافة إلى التدوين. إنه مصمم جيدًا لجلب موقع الويب إلى أعلى محركات البحث، وسيحصل الأشخاص على دعم متميز من الفريق إذا واجهوا أي مشاكل عند استخدامه."
   ],
   "||Dashboard": [
     "★ لوحة التحكم"
@@ -2513,10 +2393,10 @@
     "★ عرض المشاركات ذات الصلة"
   ],
   "||Displayed at the bottom of the site above footer widgets. Rotating ads supported using <!--next-->.": [
-    "○ يتم عرضها في الجزء السفلي من الموقع فوق عناصر واجهة المستخدم للتذييل. يتم دعم الإعلانات الدورية باستخدام <!--next-->."
+    "★ يتم عرضها في الجزء السفلي من الموقع فوق عناصر واجهة المستخدم للتذييل. يتم دعم الإعلانات الدورية باستخدام <!--next-->."
   ],
   "||Displayed below post content, before comments or related posts. Rotation via <!--next--> supported.": [
-    "○ يتم عرضه أسفل محتوى المنشور، قبل التعليقات أو المنشورات ذات الصلة. التدوير عبر <!--next--> مدعوم."
+    "★ يتم عرضه أسفل محتوى المنشور، قبل التعليقات أو المنشورات ذات الصلة. التدوير عبر <!--next--> مدعوم."
   ],
   "||Displayed below the post title.": [
     "★ يظهر أسفل عنوان المشاركة."
@@ -2717,7 +2597,7 @@
     "★ إنشاء موقع ويب سهل باستخدام رمز صفري"
   ],
   "||Edit <span class=\"screen-reader-text\">%s</span>": [
-    "○ قم بتحرير <span class=\"screen-reader-text\">%s</span>"
+    "★ تحرير <span class=\"screen-reader-text\">%s</span>"
   ],
   "||Edit Account": [
     "★ تحرير الحساب"
@@ -2775,9 +2655,6 @@
   ],
   "||Editors Picks on Banner Section": [
     "○ اختيارات المحررين في قسم اللافتة"
-  ],
-  "||Elegant Magazine Pro": [
-    "★ مجلة أنيقة برو"
   ],
   "||Element Settings": [
     "★ إعدادات العنصر"
@@ -2980,6 +2857,9 @@
   "||Engagement": [
     "★ ارتباط"
   ],
+  "||Engagement & Performance": [
+    "★ المشاركة والأداء"
+  ],
   "||Enter your donation or support URL (e.g., PayPal.me, BuyMeACoffee, Ko-fi).": [
     "★ أدخل عنوان URL للتبرع أو الدعم الخاص بك (على سبيل المثال، PayPal.me، BuyMeACoffee، Ko-fi)."
   ],
@@ -2988,15 +2868,6 @@
   ],
   "||Enter your theme license key.": [
     "★ أدخل مفتاح ترخيص السمة الخاصة بك."
-  ],
-  "||EnterNews Pro": [
-    "★ أدخل الأخبار برو"
-  ],
-  "||EnterNews is the best responsive News and Magazine WordPress Theme. The theme includes two color modes: default and dark, allowing you to present articles and blog posts in a trendy manner.To make a fantastic news website, you can design it however you like and preview the changes using live customizer options and custom widgets.It works with Gutenberg WordPress blocks and RTL, as well as the WooCommerce plugin, which helps you to combine an online store with our newspaper style. It has a lot of helpful features, including the ability to build a fantastic-looking newsportal. The theme is perfect for a news, newspaper, magazine, publishing, or review platform, and it's also useful for blogging. It's well-designed to get the website to the top of search engines, and users can get excellent assistance from the team if they run into any issues when using the theme.This theme also includes a variety of demonstrations, so pick one that you like and start building your website. See our demos: https://afthemes.com/enternews-pro-wordpress-theme-for-the-best-responsive-news-magazine-sites/": [
-    "○ EnterNews هو أفضل موضوع WordPress للأخبار والمجلات استجابةً. يشتمل الموضوع على وضعين للألوان: افتراضي وداكن، مما يسمح لك بتقديم المقالات ومنشورات المدونة بطريقة عصرية. لإنشاء موقع إخباري رائع، يمكنك تصميمه كيفما تشاء ومعاينة التغييرات باستخدام خيارات التخصيص المباشرة والأدوات المخصصة. وهو يعمل مع كتل Gutenberg WordPress وRTL، بالإضافة إلى مكون WooCommerce الإضافي، الذي يساعدك على الجمع بين متجر عبر الإنترنت ونمط الصحف الخاص بنا. فهو يحتوي على الكثير من الميزات المفيدة، بما في ذلك القدرة على إنشاء مجلة إخبارية رائعة المظهر. يعتبر هذا الموضوع مثاليًا لمنصة أخبار أو صحيفة أو مجلة أو نشر أو مراجعة، كما أنه مفيد أيضًا للتدوين. إنه مصمم جيدًا لإيصال موقع الويب إلى أعلى محركات البحث، ويمكن للمستخدمين الحصول على مساعدة ممتازة من الفريق إذا واجهوا أي مشكلات عند استخدام السمة. يتضمن هذا المظهر أيضًا مجموعة متنوعة من العروض التوضيحية، لذا اختر العرض الذي يعجبك وابدأ في إنشاء موقع الويب الخاص بك. شاهد عروضنا التوضيحية: https://afthemes.com/enternews-pro-wordpress-theme-for-the-best-response-news-magazine-sites/"
-  ],
-  "||EnterNews is the best responsive News and Magazine WordPress Theme. To make a fantastic news website, the theme has a number of free starter sites with a single click import. The theme is completely widgetized, empowering users to control site content with 8+ custom widgets and widget areas. Also it includes default and dark color mode, allowing you to present articles and blog posts in a trendy manner. In addition, it comes with a variety of useful customizer options for creating a stunning newsportal. You can design it however you like and preview the changes using live customizer. It works with Gutenberg WordPress blocks and RTL, as well as the WooCommerce plugin, which helps you to combine an online store with our newspaper style. The theme is perfect for a news, newspaper, magazine, publishing, or review platform, and it's also useful for blogging. It's well-designed to get the website to the top of search engines, and users can get excellent assistance from the team if they run into any issues when using the theme. See more demos and documentaion at: https://afthemes.com/products/enternews/": [
-    "★ EnterNews هو أفضل موضوع WordPress للأخبار والمجلات استجابةً. لإنشاء موقع إخباري رائع، يحتوي الموضوع على عدد من المواقع المجانية التي يمكن استيرادها بنقرة واحدة. تم تصميم الموضوع بالكامل، مما يمكّن المستخدمين من التحكم في محتوى الموقع باستخدام أكثر من 8 عناصر واجهة مستخدم مخصصة ومناطق عناصر واجهة المستخدم. كما أنه يتضمن وضع الألوان الافتراضي والداكن، مما يسمح لك بتقديم المقالات ومنشورات المدونات بطريقة عصرية. بالإضافة إلى ذلك، فهو يأتي مزودًا بمجموعة متنوعة من خيارات التخصيص المفيدة لإنشاء بوابة إخبارية مذهلة. يمكنك تصميمه كيفما تشاء ومعاينة التغييرات باستخدام أداة التخصيص المباشرة. إنه يعمل مع كتل Gutenberg WordPress وRTL، بالإضافة إلى البرنامج الإضافي WooCommerce، الذي يساعدك على الجمع بين متجر عبر الإنترنت وأسلوب الصحف الخاص بنا. يعتبر هذا الموضوع مثاليًا لمنصة أخبار أو صحيفة أو مجلة أو نشر أو مراجعة، كما أنه مفيد أيضًا للتدوين. إنه مصمم جيدًا لإيصال موقع الويب إلى أعلى محركات البحث، ويمكن للمستخدمين الحصول على مساعدة ممتازة من الفريق إذا واجهوا أي مشكلات عند استخدام السمة. شاهد المزيد من العروض التوضيحية والوثائق على: https://afthemes.com/products/enternews/"
   ],
   "||Error - unable to verify nonce, please try again.": [
     "★ خطأ - غير قادر على التحقق من الرقم، يرجى المحاولة مرة أخرى."
@@ -3275,7 +3146,7 @@
     "★ أيقونة الخط رائع"
   ],
   "||Fonts & Typography": [
-    "○ الخطوط والطباعة"
+    "★ الخطوط والطباعة"
   ],
   "||Fonts Source": [
     "★ مصدر الخطوط"
@@ -3644,7 +3515,7 @@
     "★ مضحك"
   ],
   "||GDPR friendly & better performance": [
-    "○ متوافق مع اللائحة العامة لحماية البيانات وأداء أفضل"
+    "★ متوافق مع اللائحة العامة لحماية البيانات وأداء أفضل"
   ],
   "||GamerNews": [
     "★ أخبار اللاعب"
@@ -4316,7 +4187,7 @@
     "★ يبدو أنه لا يوجد نتائج هنا . ربما تحاول إحدى الروابط أدناه أو البحث؟"
   ],
   "||It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.": [
-    "○ يبدو أننا لا نستطيع العثور على ما تبحث عنه. ربما البحث يمكن أن يساعد."
+    "★ يبدو أننا لا نستطيع العثور على ما تبحث عنه. ربما قد يساعدك البحث."
   ],
   "||JetPack": [
     "★ جيتباك"
@@ -4642,18 +4513,6 @@
   "||Magna aspernatur eget potenti molestias beatae!": [
     "○ إن المنشق العظيم يحتاج إلى متاعب المباركين القوية!"
   ],
-  "||Magnitude Default": [
-    "○ الحجم الافتراضي"
-  ],
-  "||Magnitude Pro": [
-    "★ الحجم برو"
-  ],
-  "||Magnitude Pro is a clean, elegant WordPress theme, ideal for blogging and magazine online. You can design your website as you like and preview the modifications live using live customizer options and custom widgets. It is compatible with the Gutenberg and RTL along with WooCommerce plugin which helps you to integrate an online business with our newspaper template. It also contains many helpful elements that require an amazing news portal to be built, the theme is ideal for blogging and great for news, newspaper, magazine, publication or review site. The theme is well-optimized that helps to rank your website in the top of search engines and users will get an outstanding support from the team if there will be any difficulties while using the theme. There are number of demos available in this theme so choose the one you like and start to build a website. See our demos: https://demos.afthemes.com/magnitude-pro/, https://demos.afthemes.com/magnitude-pro/newsportal-pro/, https://demos.afthemes.com/magnitude-pro/sport-pro/, https://demos.afthemes.com/magnitude-pro/magnitude-dark/, https://demos.afthemes.com/magnitude-pro/lifestyle-pro/, https://demos.afthemes.com/magnitude-pro/gadgets-pro/,": [
-    "○ Magnitude Pro عبارة عن سمة WordPress نظيفة وأنيقة، ومثالية للتدوين والمجلات عبر الإنترنت. يمكنك تصميم موقع الويب الخاص بك كما تريد ومعاينة التعديلات مباشرةً باستخدام خيارات أدوات التخصيص المباشرة والأدوات المخصصة. وهو متوافق مع Gutenberg وRTL بالإضافة إلى البرنامج الإضافي WooCommerce الذي يساعدك على دمج الأعمال التجارية عبر الإنترنت مع قالب الصحيفة الخاص بنا. يحتوي أيضًا على العديد من العناصر المفيدة التي تتطلب إنشاء بوابة إخبارية مذهلة، والموضوع مثالي للتدوين ورائع للأخبار أو الصحف أو المجلات أو المنشورات أو مواقع المراجعة. تم تحسين السمة بشكل جيد مما يساعد على تصنيف موقع الويب الخاص بك في أعلى محركات البحث وسيحصل المستخدمون على دعم متميز من الفريق إذا كانت هناك أي صعوبات أثناء استخدام السمة. هناك عدد من العروض التوضيحية المتوفرة في هذا الموضوع، لذا اختر العرض الذي يعجبك وابدأ في إنشاء موقع ويب. شاهد عروضنا التوضيحية: https://demos.afthemes.com/magnitude-pro/، https://demos.afthemes.com/magnitude-pro/newsportal-pro/، https://demos.afthemes.com/magnitude-pro/sport-pro/، https://demos.afthemes.com/magnitude-pro/magnitude-dark/، https://demos.afthemes.com/magnitude-pro/lifestyle-pro/، https://demos.afthemes.com/magnitude-pro/gadgets-pro/،"
-  ],
-  "||Magnitude is a clean, elegant WordPress theme, ideal for blogging and magazine online. You can design your website as you like and preview the modifications live using live customizer options and custom widgets. It is compatible with the Gutenberg and RTL along with WooCommerce plugin which helps you to integrate an online business with our newspaper template. It also contains many helpful elements that require an amazing news portal to be built, the theme is ideal for blogging and great for news, newspaper, magazine, publication or review site. The theme is well-optimized that helps to rank your website in the top of search engines and users will get an outstanding support from the team if there will be any difficulties while using the theme. There are number of demos available in this theme so choose the one you like and start to build a website. See our demos: https://demos.afthemes.com/magnitude/, https://demos.afthemes.com/magnitude/newsportal/, https://demos.afthemes.com/magnitude/sport/": [
-    "★ Magnitude عبارة عن سمة WordPress نظيفة وأنيقة، ومثالية للتدوين والمجلات عبر الإنترنت. يمكنك تصميم موقع الويب الخاص بك كما تريد ومعاينة التعديلات مباشرةً باستخدام خيارات أدوات التخصيص المباشرة والأدوات المخصصة. وهو متوافق مع Gutenberg وRTL بالإضافة إلى البرنامج الإضافي WooCommerce الذي يساعدك على دمج الأعمال التجارية عبر الإنترنت مع قالب الصحيفة الخاص بنا. يحتوي أيضًا على العديد من العناصر المفيدة التي تتطلب إنشاء بوابة إخبارية مذهلة، والموضوع مثالي للتدوين ورائع للأخبار أو الصحف أو المجلات أو المنشورات أو مواقع المراجعة. تم تحسين السمة بشكل جيد مما يساعد على تصنيف موقع الويب الخاص بك في أعلى محركات البحث وسيحصل المستخدمون على دعم متميز من الفريق إذا كانت هناك أي صعوبات أثناء استخدام السمة. هناك عدد من العروض التوضيحية المتوفرة في هذا الموضوع، لذا اختر العرض الذي يعجبك وابدأ في إنشاء موقع ويب. شاهد عروضنا التوضيحية: https://demos.afthemes.com/magnitude/، https://demos.afthemes.com/magnitude/newsportal/، https://demos.afthemes.com/magnitude/sport/"
-  ],
   "||MailChimp Box in Single Post": [
     "★ صندوق MailChimp في مشاركة واحدة"
   ],
@@ -4859,7 +4718,7 @@
     "★ إدارة الودجات"
   ],
   "||Manually inserted between posts in archive loop using hooks/snippets. Rotate with <!--next--> if needed.": [
-    "○ تم إدراجها يدويًا بين المشاركات في حلقة الأرشيف باستخدام الخطافات/المقتطفات. قم بالتدوير باستخدام <!--next--> إذا لزم الأمر."
+    "★ تم إدراجها يدويًا بين المشاركات في حلقة الأرشيف باستخدام الخطافات/المقتطفات. قم بالتدوير باستخدام <!--next--> إذا لزم الأمر."
   ],
   "||Mark as Sponsored": [
     "★ وضع علامة كدعائية"
@@ -4955,7 +4814,7 @@
     "★ تنسيق الشهر واليوم"
   ],
   "||More": [
-    "★ المزيد"
+    "★ More"
   ],
   "||More Details": [
     "★ تفاصيل أكثر"
@@ -4968,15 +4827,6 @@
   ],
   "||MoreMag": [
     "★ المزيد ماج"
-  ],
-  "||MoreNews Options": [
-    "★ المزيد من خيارات الأخبار"
-  ],
-  "||MoreNews Pro": [
-    "★ المزيد من الأخبار برو"
-  ],
-  "||MoreNews Pro is a professional WordPress theme for news, blog, and magazine websites. The theme comes with a number of free demo sites that can be imported with a simple click to create a fantastic news hub. The theme is fully widgetized, allowing users to control site content with 16+ custom widgets and widget sections. It also offers a light and dark color option for reading articles and blog posts in a fashionable manner.It also includes a variety of useful customizer choices for creating an aesthetically pleasing news site. You may set it up as you want and see how it looks before publishing any changes with the live customizer. It works with Gutenberg blocks and RTL, as well as the WooCommerce plugin, allowing you to mix and match an online store with our newspaper theme. The theme is appropriate for a news, journal, magazine, publishing, or review website, as well as blogging. It's well-designed to help the website rank higher in search engines, and users will receive excellent support from the staff if they run into any issues while using it.": [
-    "★ MoreNews Pro هو قالب WordPress احترافي لمواقع الأخبار والمدونات والمجلات. يأتي الموضوع مع عدد من المواقع التجريبية المجانية التي يمكن استيرادها بنقرة بسيطة لإنشاء مركز أخبار رائع. تم تصميم القالب بالكامل، مما يسمح للمستخدمين بالتحكم في محتوى الموقع من خلال أكثر من 16 عنصر واجهة مستخدم مخصص وأقسام عناصر واجهة المستخدم. كما أنه يوفر خيار الألوان الفاتحة والداكنة لقراءة المقالات ومنشورات المدونات بطريقة عصرية. ويتضمن أيضًا مجموعة متنوعة من خيارات التخصيص المفيدة لإنشاء موقع إخباري ممتع من الناحية الجمالية. يمكنك إعداده كما تريد ومعرفة كيف يبدو قبل نشر أي تغييرات باستخدام أداة التخصيص المباشرة. إنه يعمل مع كتل Gutenberg وRTL، بالإضافة إلى البرنامج الإضافي WooCommerce، مما يسمح لك بمزج ومطابقة متجر عبر الإنترنت مع موضوع صحيفتنا. يكون الموضوع مناسبًا لموقع إخباري أو مجلة أو مجلة أو نشر أو مراجعة، بالإضافة إلى المدونات. إنه مصمم جيدًا لمساعدة موقع الويب في الحصول على مرتبة أعلى في محركات البحث، وسيتلقى المستخدمون دعمًا ممتازًا من الموظفين إذا واجهوا أي مشكلات أثناء استخدامه."
   ],
   "||Most Linked External Sites": [
     "★ المواقع الخارجية الأكثر ارتباطًا"
@@ -5073,12 +4923,6 @@
   ],
   "||Newsical": [
     "★ نيوزيكال"
-  ],
-  "||Newsium Pro": [
-    "○ نيوسيوم برو"
-  ],
-  "||Newsium Pro is a WordPress theme for the Best Responsive News Magazine that allows you to easily write articles and blog posts. Using live customizer options and custom widgets to create a great news website, you can design your website as you like and preview the changes. It is compatible with the Gutenberg and RTL along with WooCommerce plugin which helps you to integrate an online business with our newspaper template. As it includes many useful features that require to build an awesome looking newsportal, the theme is perfect for blogging and excellent for a news, newspaper, magazine, publishing or review site. The theme is well optimized that helps to rank your website in the top of search engines and users will get an outstanding support from the team if there will be any difficulties while using the theme. There are number of demos available in this theme so choose the one you like and start to build a website.  See our demos: https://afthemes.com/newsium-pro-wordpress-theme-for-the-best-responsive-news-magazine-sites/": [
-    "○ Newsium Pro هو أحد سمات WordPress لمجلة الأخبار الأفضل استجابةً والذي يسمح لك بكتابة المقالات ومنشورات المدونات بسهولة. باستخدام خيارات أداة التخصيص المباشرة والأدوات المخصصة لإنشاء موقع ويب إخباري رائع، يمكنك تصميم موقع الويب الخاص بك كما تريد ومعاينة التغييرات. وهو متوافق مع Gutenberg وRTL بالإضافة إلى البرنامج الإضافي WooCommerce الذي يساعدك على دمج الأعمال التجارية عبر الإنترنت مع قالب الصحيفة الخاص بنا. نظرًا لأنه يشتمل على العديد من الميزات المفيدة التي تتطلب إنشاء بوابة إخبارية رائعة المظهر، فإن القالب مثالي للتدوين وممتاز لموقع أخبار أو صحيفة أو مجلة أو نشر أو مراجعة. تم تحسين السمة بشكل جيد مما يساعد على تصنيف موقع الويب الخاص بك في أعلى محركات البحث وسيحصل المستخدمون على دعم متميز من الفريق إذا كانت هناك أي صعوبات أثناء استخدام السمة. هناك عدد من العروض التوضيحية المتوفرة في هذا الموضوع، لذا اختر العرض الذي يعجبك وابدأ في إنشاء موقع ويب.  شاهد عروضنا التوضيحية: https://afthemes.com/newsium-pro-wordpress-theme-for-the-best-response-news-magazine-sites/"
   ],
   "||Newsphere": [
     "○ نيوسفير"
@@ -5351,7 +5195,7 @@
     "★ المحتوى المنزلي فقط"
   ],
   "||Oops! That page can&rsquo;t be found.": [
-    "○ أُووبس! لا يمكن العثور على تلك الصفحة."
+    "★ عذراً! لايمكن العثور على تلك الصفحة."
   ],
   "||Open In New Tab": [
     "★ فتح في علامة تبويب جديدة"
@@ -5414,7 +5258,7 @@
     "★ فوق الصورة"
   ],
   "||Overlay Transparancy(%)": [
-    "★ تراكب الشفافية(%%)"
+    "★ تراكب الشفافية(%)"
   ],
   "||Override for all post/page on your site.": [
     "★ تجاوز لجميع المنشورات/الصفحات على موقعك."
@@ -5435,7 +5279,10 @@
     "★ مُنشئ الصفحة كامل العرض"
   ],
   "||Page Builder Gutenberg Blocks & Patterns": [
-    "○ كتل وأنماط منشئ الصفحة جوتنبرج"
+    "★ كتل وأنماط منشئ الصفحة جوتنبرج"
+  ],
+  "||Page Contents & Front-page Widgets": [
+    "★ محتويات الصفحة وأدوات الصفحة الأولى"
   ],
   "||Page Slider": [
     "○ شريط تمرير الصفحة"
@@ -5510,7 +5357,10 @@
     "○ يرجى الانتقال إلى تخصيص > خيارات السمات لمنشور/صفحة واحدة."
   ],
   "||Please go to Customize>Front-page Options for Homepage.": [
-    "○ يرجى الانتقال إلى تخصيص>خيارات الصفحة الأمامية للصفحة الرئيسية."
+    "★ يرجى الانتقال إلى تخصيص>خيارات الصفحة الأمامية للصفحة الرئيسية."
+  ],
+  "||Please go to Customize>Themes Options for Single Post/Page.": [
+    "★ يرجى الانتقال إلى تخصيص>خيارات السمات لمنشور/صفحة واحدة."
   ],
   "||Please log in to bookmark this post.": [
     "★ الرجاء تسجيل الدخول لوضع إشارة مرجعية على هذا المنصب."
@@ -5878,9 +5728,6 @@
   "||Premium Theme Tones (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, Newsical, NewsLight, NewsMore, SideNews)": [
     "○ نغمات السمات المتميزة (BlackNews، وCelebNews، وGamerNews، وNewsCorp، وNewsDay، وNewsical، وNewsLight، وNewsMore، وSideNews)"
   ],
-  "||Premium Theme Tones (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, ReviewNews, NewsLight, NewsMore, SideNews)": [
-    "○ نغمات السمات المميزة (BlackNews، CelebNews، GamerNews، NewsCorp، NewsDay، ReviewNews، NewsLight، NewsMore، SideNews)"
-  ],
   "||Preview": [
     "★ معاينة"
   ],
@@ -6113,7 +5960,7 @@
     "★ قراءة لون شريط التقدم"
   ],
   "||Ready to publish your first post? <a href=\"%1$s\">Get started here</a>.": [
-    "○ هل أنت مستعد لنشر مشاركتك الأولى؟ <a href=\"%1$s\">ابدأ هنا</a>."
+    "★ هل أنت مستعدّ لنشر مقالتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
   ],
   "||Recent": [
     "★ حُدِّث مؤخرا"
@@ -6194,10 +6041,13 @@
     "★ العودة إلى لوحة القيادة الخاصة بك"
   ],
   "||ReviewNews Options": [
-    "★ مراجعة خيارات الأخبار"
+    "★ ReviewNews Options"
   ],
   "||ReviewNews Pro": [
-    "★ مراجعة الأخبار برو"
+    "★ ReviewNews Pro"
+  ],
+  "||ReviewNews Pro is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews": [
+    "★ ReviewNews Pro is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews"
   ],
   "||Revisions": [
     "★ المراجعات"
@@ -7118,16 +6968,16 @@
     "○ عرض المشاركات الشائعة على"
   ],
   "||Shown after posts in archive or blog listings. Supports ad rotation using <!--next--> tag.": [
-    "○ تظهر بعد المشاركات في الأرشيف أو قوائم المدونة. يدعم عرض الإعلانات بالتناوب باستخدام العلامة <!--next-->."
+    "★ تظهر بعد المشاركات في الأرشيف أو قوائم المدونة. يدعم عرض الإعلانات بالتناوب باستخدام العلامة <!--next-->."
   ],
   "||Shown after the third paragraph in single post content. Supports rotating ads with <!--next-->.": [
-    "○ تظهر بعد الفقرة الثالثة في محتوى المنشور الواحد. يدعم تدوير الإعلانات باستخدام <!--next-->."
+    "★ تظهر بعد الفقرة الثالثة في محتوى المنشور الواحد. يدعم تدوير الإعلانات باستخدام <!--next-->."
   ],
   "||Shown before posts in blog or archive pages. Use <!--next--> to rotate multiple ads.": [
-    "○ تظهر قبل المشاركات في صفحات المدونة أو الأرشيف. استخدم <!--next--> لتدوير إعلانات متعددة."
+    "★ تظهر قبل المشاركات في صفحات المدونة أو الأرشيف. استخدم <!--next--> لتدوير إعلانات متعددة."
   ],
   "||Shown in sidebar globally. You may use widgets for better control. Supports <!--next--> for rotating ads.": [
-    "○ يظهر في الشريط الجانبي عالميًا. يمكنك استخدام الأدوات للتحكم بشكل أفضل. يدعم <!--next--> للإعلانات الدورية."
+    "★ يظهر في الشريط الجانبي عالميًا. يمكنك استخدام الأدوات للتحكم بشكل أفضل. يدعم <!--next--> للإعلانات الدورية."
   ],
   "||Side": [
     "★ جانب"
@@ -7265,7 +7115,7 @@
     "★ صفحة واحدة، منشورات، منتجات، عنوان القسم"
   ],
   "||Site & Logo": [
-    "○ الموقع والشعار"
+    "★ الموقع والشعار"
   ],
   "||Site Analytics": [
     "★ تحليلات الموقع"
@@ -7894,7 +7744,7 @@
     "★ هناك تحديثات متاحة للمكونات الإضافية التالية: %1$s."
   ],
   "||This ad appears after the first paragraph of single post content. Rotation supported via <!--next-->.": [
-    "○ يظهر هذا الإعلان بعد الفقرة الأولى من محتوى المنشور الواحد. يتم دعم التدوير عبر <!--next-->."
+    "★ يظهر هذا الإعلان بعد الفقرة الأولى من محتوى المنشور الواحد. يتم دعم التدوير عبر <!--next-->."
   ],
   "||This content is available after completing the promotion below.": [
     "★ هذا المحتوى متاح بعد إكمال العرض الترويجي أدناه."
@@ -8073,6 +7923,9 @@
   ],
   "||Top - Default": [
     "★ أعلى - افتراضي"
+  ],
+  "||Top Authors & Link Stats": [
+    "★ كبار المؤلفين وإحصائيات الارتباط"
   ],
   "||Top Authors by Views": [
     "★ أفضل المؤلفين حسب المشاهدات"
@@ -8362,9 +8215,6 @@
   ],
   "||Upgrade now": [
     "★ قم بالترقية الآن"
-  ],
-  "||Upgrade to MoreNews Pro - More Power, More Control!": [
-    "○ الترقية إلى MoreNews Pro - المزيد من القوة والمزيد من التحكم!"
   ],
   "||Upgrade to Pro": [
     "★ الترقية إلى احترافي"
@@ -8754,7 +8604,7 @@
     "★ يمكنك تغيير هوية الموقع من %s."
   ],
   "||You can change date from general settings (Settings > General > Date Format). %s": [
-    "○ يمكنك تغيير التاريخ من الإعدادات العامة (الإعدادات > عام > تنسيق التاريخ). %s"
+    "★ يمكنك تغيير التاريخ من الإعدادات العامة (الإعدادات > عام > تنسيق التاريخ). %s"
   ],
   "||You can check out the theme demos for reference to find out what you can achieve using the theme and how it can be customized.": [
     "★ يمكنك الاطلاع على العروض التوضيحية للموضوع كمرجع لمعرفة ما يمكنك تحقيقه باستخدام السمة وكيف يمكن تخصيصها."
@@ -8985,7 +8835,7 @@
     "★ 👋 مرحبًا، شكرًا لك!"
   ],
   "||💡 Tip: You can rotate multiple ads by separating them with <!--next-->. One ad will be shown randomly per page load. Works with HTML, JavaScript, and shortcodes.": [
-    "○ 💡 نصيحة: يمكنك تدوير عدة إعلانات عن طريق فصلها بـ <!--next-->. سيتم عرض إعلان واحد بشكل عشوائي لكل تحميل للصفحة. يعمل مع HTML وJavaScript والأكواد القصيرة."
+    "★ 💡 نصيحة: يمكنك تدوير عدة إعلانات عن طريق فصلها بـ <!--next-->. سيتم عرض إعلان واحد بشكل عشوائي لكل تحميل للصفحة. يعمل مع HTML وJavaScript والأكواد القصيرة."
   ],
   "||📊 Site Analytics": [
     "★ 📊تحليلات الموقع"
@@ -8995,6 +8845,5 @@
   ],
   "||🤝 We're Here for You": [
     "★ 🤝 نحن هنا من أجلك"
-  ],
-  "💡 Tip: You can rotate multiple ads by separating them with <!--next-->. One ad will be shown randomly per page load. Works with HTML, JavaScript, and shortcodes.": "💡 نصيحة: يمكنك تدوير عدة إعلانات عن طريق فصلها بـ <!--next-->. سيتم عرض إعلان واحد بشكل عشوائي لكل تحميل للصفحة. يعمل مع HTML وJavaScript والأكواد القصيرة."
+  ]
 }
