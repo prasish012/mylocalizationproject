@@ -1,0 +1,1410 @@
+{
+  "": {
+    "lang": "es"
+  },
+  "%1$s We're happy to see you using %2$s. If the theme has been helpful for your website, a quick %3$sreview on WordPress.org%4$s would mean a lot to our team. Your feedback helps us improve the theme and continue releasing new features and updates for free.": "%1$s Nos alegra verte usando %2$s. Si el tema ha sido útil para su sitio web, una %3$srevisión rápida en WordPress.org%4$s significaría mucho para nuestro equipo. Sus comentarios nos ayudan a mejorar el tema y continuar lanzando nuevas funciones y actualizaciones de forma gratuita.",
+  "%1$s 🎁 You're currently using the free version of %2$s — thank you!! Upgrade to Pro to access advanced layouts, blocks, premium demos, and many powerful features designed to help you build a faster, more professional news or magazine site. As a thank-you for using our theme, you can unlock %4$s premium features using this exclusive coupon: %3$s": "%1$s 🎁 Actualmente estás usando la versión gratuita de %2$s. ¡¡Gracias!! Actualice a Pro para acceder a diseños avanzados, bloques, demostraciones premium y muchas funciones poderosas diseñadas para ayudarlo a crear un sitio de revistas o noticias más rápido y profesional. Como agradecimiento por usar nuestro tema, puedes desbloquear %4$s funciones premium usando este cupón exclusivo: %3$s",
+  "3CX Free Live Chat": "Chat en Vivo Gratis 3CX",
+  "A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design and tile layouts of your posts.": "Una hermosa colección de bloques de Gutenberg de las últimas publicaciones para WordPress, que le ayuda a diseñar la cuadrícula de publicaciones, la lista de publicaciones, el diseño completo de las publicaciones, el diseño avanzado de publicaciones exprés y los diseños de mosaicos de sus publicaciones.",
+  "A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design, and tile layouts of your posts.": "Una hermosa colección de bloques de Gutenberg de las últimas publicaciones para WordPress, que le ayuda a diseñar la cuadrícula de publicaciones, la lista de publicaciones, el diseño completo de las publicaciones, el diseño avanzado de publicaciones exprés y los diseños de mosaicos de sus publicaciones.",
+  "A stunning assortment of WordPress post widgets. It allows you to display your posts in many formats such as grid, list, tile, full, express, and so on.": "Una impresionante variedad de widgets de publicaciones de WordPress. Le permite mostrar sus publicaciones en muchos formatos, como cuadrícula, lista, mosaico, completo, rápido, etc.",
+  "Access over the years of investigative journalism and breaking reports": "Acceso a los años de periodismo de investigación y reportajes de última hora.",
+  "Ad after post content. You can rotate multiple ads with <!--next--> separator.": "Anuncio tras publicación de contenido. Puede rotar varios anuncios con el separador <!--next-->.",
+  "Ad before post content. Supports rotating multiple ads using <!--next-->.": "Anuncio antes de publicar contenido. Admite la rotación de múltiples anuncios usando <!--next-->.",
+  "Add pages effortlessly with expertly crafted Elementor widgets for blogs, magazines, newspapers, and agency sites using the Elespare plugin!": "Agregue páginas sin esfuerzo con widgets de Elementor diseñados por expertos para blogs, revistas, periódicos y sitios de agencias utilizando el complemento Elespare.",
+  "Add pages effortlessly with expertly crafted Gutenberg patterns and blocks for blogs, magazines, newspapers, and agency sites using the Blockspare plugin!": "Agregue páginas sin esfuerzo con patrones y bloques de Gutenberg diseñados por expertos para blogs, revistas, periódicos y sitios de agencias utilizando el complemento Blockspare.",
+  "Add your HTML, JavaScript, or shortcode to display an ad at the very top of your site (header area).": "Agregue su HTML, JavaScript o código corto para mostrar un anuncio en la parte superior de su sitio (área de encabezado).",
+  "Ads Settings": "Configuración de anuncios",
+  "Ads settings saved.": "Configuración de anuncios guardada.",
+  "After Post List": "Después de la lista de publicaciones",
+  "After Third Paragraph": "Después del tercer párrafo",
+  "All <span class=\"count\">(%s)</span>": "Todos <span class=\"count\">(%s)</span>",
+  "An error occurred while installing %1$s: <strong>%2$s</strong>.": "Se produjo un error al instalar %1$s: <strong>%2$s</strong>.",
+  "Archive / Blog Ads": "Anuncios de archivo/blog",
+  "Available Attributes": "Atributos disponibles",
+  "Beautiful Page Building Gutenberg Blocks for WordPress": "Hermosas páginas de construcción de bloques Gutenberg para WordPress",
+  "Before First Paragraph": "Antes del primer párrafo",
+  "Before Post List": "Antes de la lista de publicaciones",
+  "Begin activating plugin": "Comenzar a activar el complemento",
+  "Begin activating plugins": "Comience a activar complementos",
+  "Begin installing plugin": "Comience a instalar el complemento",
+  "Begin installing plugins": "Comience a instalar complementos",
+  "Begin updating plugin": "Comenzar a actualizar el complemento",
+  "Begin updating plugins": "Comenzar a actualizar complementos",
+  "Between Posts": "Entre publicaciones",
+  "Blank Page": "Página en blanco",
+  "Blockspare Pro": "Bloques de repuesto Pro",
+  "Blog Homepage (Latest Posts)": "Página de inicio del blog (últimas publicaciones)",
+  "Browse and insert beautiful pre-designed sections like news grids, sliders, carousel,  hero banners and article layouts.": "Explore e inserte hermosas secciones prediseñadas como cuadrículas de noticias, controles deslizantes, carrusel, pancartas de héroes y diseños de artículos.",
+  "Browse and insert pre-designed layout sections like hero banners, grids and news blocks.": "Explore e inserte secciones de diseño prediseñadas como pancartas de héroe, cuadrículas y bloques de noticias.",
+  "Build a professional news site fast with no coding needed.": "Cree un sitio de noticias profesional rápidamente sin necesidad de codificación.",
+  "Call-to-action button text": "Texto del botón de llamada a la acción",
+  "Category / Archive": "Categoría / Archivo",
+  "Change Log": "Registro de cambios",
+  "Change the overall appearance of your website including colors, typography, spacing and layout.": "Cambie la apariencia general de su sitio web, incluidos colores, tipografía, espaciado y diseño.",
+  "Cheatin&#8217; huh?": "Hacer trampa&#8217; ¿eh?",
+  "Choose whether your homepage displays latest posts or a static page.": "Elija si su página de inicio muestra las últimas publicaciones o una página estática.",
+  "Color name||Primary": [
+    "★ Principal"
+  ],
+  "Color name||Quaternary": [
+    "★ Cuaternario"
+  ],
+  "Color name||Quinary": [
+    "★ Quinario"
+  ],
+  "Color name||Secondary": [
+    "★ Secundario"
+  ],
+  "Color name||Senary": [
+    "★ Senario"
+  ],
+  "Color name||Tertiary": [
+    "★ Terciario"
+  ],
+  "Copyright © %3$s. All rights reserved. | <a href=\"%1$s\">NewSpare</a> by %2$s.": "Derechos de autor © %3$s. Reservados todos los derechos. | <a href=\"%1$s\">NuevoRepuesto</a> por %2$s.",
+  "Create Your Dream Website in Minutes!": "¡Cree el sitio web de sus sueños en minutos!",
+  "Create and edit pages such as Homepage, About and Contact.": "Cree y edite páginas como la página de inicio, Acerca de y Contacto.",
+  "Create and manage navigation menus for your header and footer.": "Cree y administre menús de navegación para su encabezado y pie de página.",
+  "Custom template name||Blank": [
+    "★ En blanco"
+  ],
+  "Custom template name||Homepage (Default)": [
+    "○ Página de inicio (predeterminada)"
+  ],
+  "Custom template name||Homepage (Grid Magazine)": [
+    "○ Página de inicio (Revista Grid)"
+  ],
+  "Custom template name||Homepage (Magazine)": [
+    "○ Página de inicio (revista)"
+  ],
+  "Custom template name||Homepage (News Portal)": [
+    "○ Página de inicio (Portal de noticias)"
+  ],
+  "Custom template name||Homepage (Personal Blog)": [
+    "○ Página de inicio (blog personal)"
+  ],
+  "Custom template name||Homepage (Video News)": [
+    "○ Página de inicio (videonoticias)"
+  ],
+  "Custom template name||No Title": [
+    "★ Sin título"
+  ],
+  "Custom template name||Page - Left Sidebar": [
+    "○ Página - Barra lateral izquierda"
+  ],
+  "Custom template name||Page - Right Sidebar": [
+    "○ Página - Barra lateral derecha"
+  ],
+  "Custom template name||Single - Left Sidebar": [
+    "○ Sencillo - Barra lateral izquierda"
+  ],
+  "Custom template name||Single - No Sidebar": [
+    "○ Sencillo - Sin barra lateral"
+  ],
+  "Customize Archive & Utility Templates": "Personalizar plantillas de archivos y utilidades",
+  "Customize Homepage Templates": "Personalizar plantillas de página de inicio",
+  "Customize Page Templates": "Personalizar plantillas de página",
+  "Customize Single Post Templates": "Personalizar plantillas de publicación única",
+  "Customize how posts, pages, archives, search results and other content are displayed.": "Personalice cómo se muestran las publicaciones, páginas, archivos, resultados de búsqueda y otro contenido.",
+  "Customize the footer layout including copyright text and widgets.": "Personalice el diseño del pie de página, incluido el texto de derechos de autor y los widgets.",
+  "DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet effective WordPress plugin that lets you use Elementor to create fantastic Header, Footer and Contents of websites with highly customization options for FREE. ": "DISEÑE SITIOS WEB PERFECTOS DE BLOG, NOTICIAS O REVISTAS Elespare es un complemento de WordPress simple pero efectivo que le permite usar Elementor para crear encabezados, pies de página y contenidos fantásticos de sitios web con opciones altamente personalizadas de forma GRATUITA.",
+  "Demo Sites": "Sitios de demostración",
+  "Demos/product": "Demostraciones/producto",
+  "Destination link (required)": "Enlace de destino (obligatorio)",
+  "Discover advanced layouts, monetization tools and premium features available in Newspare.": "Descubra diseños avanzados, herramientas de monetización y funciones premium disponibles en Newspare.",
+  "Displayed at the bottom of the site above footer widgets. Rotating ads supported using <!--next-->.": "Se muestra en la parte inferior del sitio, encima de los widgets del pie de página. Anuncios rotativos compatibles con <!--next-->.",
+  "Displayed below post content, before comments or related posts. Rotation via <!--next--> supported.": "Se muestra debajo del contenido de la publicación, antes de los comentarios o publicaciones relacionadas. Se admite la rotación a través de <!--next-->.",
+  "Easily import templates and patterns for consistent layouts.": "Importe fácilmente plantillas y patrones para diseños consistentes.",
+  "Easy WordPress Websites Builder: Versatile Demos for Blogs, News, eCommerce and More - One-Click Import, No Coding! 1000+ Ready-made Templates for Stunning Newspaper, Magazine, Blog, and Publishing Websites.": "Creador sencillo de sitios web de WordPress: demostraciones versátiles para blogs, noticias, comercio electrónico y más: importación con un solo clic, ¡sin codificación! Más de 1000 plantillas listas para usar para impresionantes sitios web de periódicos, revistas, blogs y publicaciones.",
+  "Edit your entire website layout visually including templates, headers, footers and page layouts.": "Edite visualmente todo el diseño de su sitio web, incluidas plantillas, encabezados, pies de página y diseños de página.",
+  "Edit your website header layout including logo placement and navigation.": "Edite el diseño del encabezado de su sitio web, incluida la ubicación del logotipo y la navegación.",
+  "Elementor Tutorial for Beginners": "Tutorial de Elementor para principiantes",
+  "Elespare Pro": "Elespare Pro",
+  "Explore Newspare Features": "Explorar las funciones de repuesto",
+  "Explore Our Pre-Built Starter Websites!": "¡Explore nuestros sitios web iniciales prediseñados!",
+  "Featured Videos": "Vídeos destacados",
+  "Font family name||Inter": [
+    "★ Inter"
+  ],
+  "Font family name||Lato": [
+    "○ lato"
+  ],
+  "Font family name||Noto Sans": [
+    "○ Noto Sans"
+  ],
+  "Font family name||Open Sans": [
+    "★ Open Sans"
+  ],
+  "Font family name||Oswald": [
+    "★ Oswald"
+  ],
+  "Font family name||Source Sans 3": [
+    "○ Fuente Sans 3"
+  ],
+  "Font family name||System Font": [
+    "★ Fuente del sistema"
+  ],
+  "Font size name||Extra Extra Large": [
+    "★ Extra extra grande"
+  ],
+  "Font size name||Extra Large": [
+    "★ Muy grande"
+  ],
+  "Font size name||Extra Small": [
+    "★ Muy pequeño"
+  ],
+  "Font size name||Large": [
+    "★ Grande"
+  ],
+  "Font size name||Medium": [
+    "★ Mediana"
+  ],
+  "Font size name||Normal": [
+    "★ Normal"
+  ],
+  "Font size name||Small": [
+    "★ Pequeña"
+  ],
+  "Footer Ad": "Anuncio de pie de página",
+  "Front-page Banner": "Banner de portada",
+  "Get Started with Beautiful Starter Templates.": "Comience con hermosas plantillas de inicio.",
+  "Get ready-to-use Starter Sites instantly and build modern websites in minutes.": "Obtenga sitios de inicio listos para usar al instante y cree sitios web modernos en minutos.",
+  "Global Ads Placement": "Ubicación de anuncios globales",
+  "Got theme support question or found bug or got some feedbacks? Best place to ask your query is the dedicated Support forum for the theme.": "¿Tiene alguna pregunta sobre soporte técnico del tema, encontró un error o recibió algunos comentarios? El mejor lugar para realizar su consulta es el foro de soporte dedicado al tema.",
+  "Header Ad": "Anuncio de encabezado",
+  "Hello ": "Hola",
+  "Helpful YouTube Videos": "Vídeos útiles de YouTube",
+  "Highlight Promotion Box": "Cuadro de promoción resaltado",
+  "Highlight Promotion Boxes let you display ads, affiliate offers, products, services, or important notices in a clean and eye-catching layout.": "Los cuadros de promoción destacados le permiten mostrar anuncios, ofertas de afiliados, productos, servicios o avisos importantes en un diseño limpio y llamativo.",
+  "Homepage (Default)": "Página de inicio (predeterminada)",
+  "Homepage (Grid Magazine)": "Página de inicio (Revista Grid)",
+  "Homepage (Magazine)": "Página de inicio (revista)",
+  "Homepage (News Portal)": "Página de inicio (Portal de noticias)",
+  "Homepage (Personal Blog)": "Página de inicio (blog personal)",
+  "Homepage (Video News)": "Página de inicio (videonoticias)",
+  "Homepage Layout - Grid Magazine": "Diseño de página de inicio - Revista Grid",
+  "Homepage Layout - Magazine": "Diseño de página de inicio - Revista",
+  "Homepage Layout - News Portal": "Diseño de página de inicio - Portal de noticias",
+  "Homepage Layout - Personal Blog": "Diseño de página de inicio - Blog personal",
+  "Homepage Layout - Video News": "Diseño de página de inicio - Videonoticias",
+  "Howdy!": "¡Hola!",
+  "Image ID or image URL": "ID de imagen o URL de imagen",
+  "Import Gutenberg Patterns": "Importar patrones de Gutenberg",
+  "Import complete demo websites including homepage layouts, posts and blocks.": "Importe sitios web de demostración completos, incluidos diseños de página de inicio, publicaciones y bloques.",
+  "Import ready-made Elementor page designs and template kits for building custom pages.": "Importe diseños de páginas de Elementor y kits de plantillas ya preparados para crear páginas personalizadas.",
+  "Index Template": "Plantilla de índice",
+  "Insert a highlight box anywhere using the shortcode below:": "Inserte un cuadro resaltado en cualquier lugar usando el código corto a continuación:",
+  "Install/Update Status||%1$s, %2$s": [
+    "★ %1$s, %2$s"
+  ],
+  "It has 3 different widgets for post's author, selective author by id and custom author. It also provides shortcodes for the author profile.": "Tiene 3 widgets diferentes para el autor de la publicación, autor selectivo por identificación y autor personalizado. También proporciona códigos cortos para el perfil del autor.",
+  "Latest Posts Block for WordPress (Gutenberg)": "Bloque de últimas publicaciones para WordPress (Gutenberg)",
+  "Latest Videos": "Últimos vídeos",
+  "Lato": "lato",
+  "Launch Your News Website Quickly": "Inicie su sitio web de noticias rápidamente",
+  "Learn how to manage multiple authors smoothly with our plugin.": "Aprenda a gestionar varios autores sin problemas con nuestro complemento.",
+  "Let your imagination soar! Designed with User-Friendly features, incorporating the Latest Trends and SEO-Friendly Markups. We genuinely appreciate you choosing our theme!": "¡Deja volar tu imaginación! Diseñado con funciones fáciles de usar, incorporando las últimas tendencias y marcas compatibles con SEO. ¡Realmente apreciamos que haya elegido nuestro tema!",
+  "Link rel attribute (default: nofollow sponsored)": "Atributo link rel (predeterminado: patrocinado nofollow)",
+  "Link target (default: _blank)": "Destino del enlace (predeterminado: _en blanco)",
+  "Magic Content Box Block": "Bloque de caja de contenido mágico",
+  "Main Story": "Historia principal",
+  "Main heading or product/service name (required)": "Encabezado principal o nombre del producto/servicio (obligatorio)",
+  "Manage reusable layout sections like headers, footers and sidebar components.": "Administre secciones de diseño reutilizables como encabezados, pies de página y componentes de la barra lateral.",
+  "Manually inserted between posts in archive loop using hooks/snippets. Rotate with <!--next--> if needed.": "Insertado manualmente entre publicaciones en el bucle de archivo usando ganchos/fragmentos. Gire con <!--next--> si es necesario.",
+  "MoreNews Options": "Más opciones de noticias",
+  "Multi-Author Collaboration": "Colaboración de varios autores",
+  "Multilingual Translation Guide": "Guía de traducción multilingüe",
+  "NewSpare": "NuevoRepuesto",
+  "NewSpare Patterns": "NuevoPatrones de repuesto",
+  "NewSpare is a high-performance, Full Site Editing (FSE) WordPress theme expertly crafted for news, magazines, and professional blogs. Built to leverage the full power of the Gutenberg block editor, it offers unparalleled flexibility with a wide range of pre-built starter sites and seamless integration with the BlockSpare plugin. NewSpare features elegant light and dark color modes to enhance the reading experience, alongside full WooCommerce support for integrated e-commerce capabilities. Optimized for speed and SEO to boost search engine rankings, the theme includes RTL language support, responsive design, and live preview customization. Whether you are building a publishing hub, a review site, or a personal blog, NewSpare provides a sophisticated, user-friendly foundation with dedicated support and comprehensive documentation available at https://afthemes.com/products/newspare/.": "NewSpare es un tema de WordPress de edición completa del sitio (FSE) de alto rendimiento diseñado por expertos para noticias, revistas y blogs profesionales. Creado para aprovechar todo el poder del editor de bloques de Gutenberg, ofrece una flexibilidad incomparable con una amplia gama de sitios de inicio prediseñados y una integración perfecta con el complemento BlockSpare. NewSpare presenta elegantes modos de color claro y oscuro para mejorar la experiencia de lectura, junto con soporte completo de WooCommerce para capacidades integradas de comercio electrónico. Optimizado para velocidad y SEO para mejorar la clasificación en los motores de búsqueda, el tema incluye soporte para lenguaje RTL, diseño responsivo y personalización de vista previa en vivo. Ya sea que esté creando un centro de publicación, un sitio de reseñas o un blog personal, NewSpare proporciona una base sofisticada y fácil de usar con soporte dedicado y documentación completa disponible en https://afthemes.com/products/newspare/.",
+  "Newspare": "periódico",
+  "No coding needed. One-click import of expert-made starter sites with customizer, widgets, Elementor Template Kits, and Gutenberg Patterns. Start now with Templatespare Plugin!": "No se necesita codificación. Importación con un solo clic de sitios iniciales creados por expertos con personalizador, widgets, kits de plantillas de Elementor y patrones de Gutenberg. ¡Empiece ahora con el complemento Templatespare!",
+  "Noto Sans": "Noto Sans",
+  "One-click Import, No Coding Hassle!": "Importación con un clic, ¡sin problemas de codificación!",
+  "Optional disclosure or disclaimer text": "Texto de divulgación o exención de responsabilidad opcional",
+  "Optional label such as Pro, Sponsored, New, or Featured": "Etiqueta opcional como Pro, Patrocinado, Nuevo o Destacado",
+  "Page - Left Sidebar": "Página - Barra lateral izquierda",
+  "Page - No Title": "Página - Sin título",
+  "Page - Right Sidebar": "Página - Barra lateral derecha",
+  "Page Builder Elementor Widgets": "Widgets de Elementor del creador de páginas",
+  "Page Builder Gutenberg Blocks & Patterns": "Bloques y patrones de Gutenberg del constructor de páginas",
+  "Patterns for NewSpare Theme": "Patrones para el tema NewSpare",
+  "Please check our full documentation for detailed information on how to setup and customize the theme.": "Consulte nuestra documentación completa para obtener información detallada sobre cómo configurar y personalizar el tema.",
+  "Post Author Box, Multi-Authors, Co-Author & Guest Authors, Post Rating, Top & Recommended Posts, and a User-Friendly Registration Form Builder": "Cuadro de autor de publicaciones, autores múltiples, coautores y autores invitados, calificación de publicaciones, publicaciones principales y recomendadas y un creador de formularios de registro fácil de usar",
+  "Premium Plugins": "Complementos premium",
+  "Price, offer, or supporting text": "Precio, oferta o texto de respaldo",
+  "Pricing Table Block for WordPress (Gutenberg)": "Bloque de tabla de precios para WordPress (Gutenberg)",
+  "Rate This Theme": "Califica este tema",
+  "Save Ads Settings": "Guardar configuración de anuncios",
+  "Search the Archives": "Buscar en los archivos",
+  "Security check failed": "Error en la comprobación de seguridad",
+  "See author's post": "Ver publicación del autor",
+  "Short description, tagline, or message": "Breve descripción, eslogan o mensaje",
+  "Shown after posts in archive or blog listings. Supports ad rotation using <!--next--> tag.": "Se muestra después de las publicaciones en archivos o listados de blogs. Admite la rotación de anuncios mediante la etiqueta <!--next-->.",
+  "Shown after the third paragraph in single post content. Supports rotating ads with <!--next-->.": "Se muestra después del tercer párrafo en el contenido de una sola publicación. Admite anuncios rotativos con <!--next-->.",
+  "Shown before posts in blog or archive pages. Use <!--next--> to rotate multiple ads.": "Se muestra antes de las publicaciones en blogs o páginas de archivo. Utilice <!--next--> para rotar varios anuncios.",
+  "Shown in sidebar globally. You may use widgets for better control. Supports <!--next--> for rotating ads.": "Se muestra en la barra lateral a nivel mundial. Puede utilizar widgets para un mejor control. Admite <!--next--> para anuncios rotativos.",
+  "Sidebar Ad": "Anuncio de la barra lateral",
+  "Single - Left Sidebar": "Sencillo - Barra lateral izquierda",
+  "Single - No Sidebar": "Sencillo - Sin barra lateral",
+  "Single Post - Default": "Publicación única: predeterminada",
+  "Single Post - Left Sidebar": "Publicación única: barra lateral izquierda",
+  "Single Post - No Sidebar": "Publicación única: sin barra lateral",
+  "Sorry, we can't find the page you're looking for. Try searching the site below, or head back to the homepage.": "Lo sentimos, no podemos encontrar la página que estás buscando. Intente buscar en el sitio a continuación o regrese a la página de inicio.",
+  "Source Sans 3": "Fuente Sans 3",
+  "Space size name||Large": [
+    "★ Grande"
+  ],
+  "Space size name||Medium": [
+    "★ Mediano"
+  ],
+  "Space size name||Small": [
+    "★ Pequeño"
+  ],
+  "Space size name||X-Large": [
+    "★ Extragrande"
+  ],
+  "Space size name||X-Small": [
+    "★ Extra pequeño"
+  ],
+  "Space size name||XX-Large": [
+    "★ XX Grande"
+  ],
+  "Space size name||XX-Small": [
+    "○ XX-Pequeño"
+  ],
+  "Sports": "Deportes",
+  "Static Front Page (Default Layout)": "Portada estática (diseño predeterminado)",
+  "Stay Connected": "Manténgase conectado",
+  "Step-by-step guide to translate your site into multiple languages.": "Guía paso a paso para traducir su sitio a varios idiomas.",
+  "Sticky Bottom": "Fondo pegajoso",
+  "Sticky Top": "Parte superior adhesiva",
+  "Team and Testimonial Block for WordPress (Gutenberg)": "Bloque de equipo y testimonios para WordPress (Gutenberg)",
+  "Template part name||Footer": [
+    "★ Pie de página"
+  ],
+  "Template part name||Header": [
+    "★ Cabecera"
+  ],
+  "Template part name||Sidebar": [
+    "★ Barra lateral"
+  ],
+  "Thank you for installing [theme] — a fast, flexible, and modern Full Site Editing (FSE) theme designed for blogs, news websites and online magazines. You can launch a professional website in minutes using our 100+ one-click starter templates and sites, or customize every part of your website visually using the WordPress Site Editor. Choose how you'd like to get started below.": "Gracias por instalar [tema], un tema de edición de sitio completo (FSE) rápido, flexible y moderno diseñado para blogs, sitios web de noticias y revistas en línea. Puede iniciar un sitio web profesional en minutos utilizando nuestras más de 100 plantillas y sitios de inicio con un solo clic, o personalizar visualmente cada parte de su sitio web utilizando el Editor de sitios de WordPress. Elija cómo le gustaría comenzar a continuación.",
+  "The \"Get Started\" action will install/activate the Templatespare  plugin for Starter Sites and Templates.": "La acción \"Comenzar\" instalará/activará el complemento Templatespare para sitios y plantillas de inicio.",
+  "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s.": "El siguiente complemento debe actualizarse a su última versión para garantizar la máxima compatibilidad con este tema: %1$s.",
+  "The following plugin was activated successfully:": "El siguiente complemento se activó exitosamente:",
+  "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s.": "Los siguientes complementos deben actualizarse a su última versión para garantizar la máxima compatibilidad con este tema: %1$s.",
+  "The following plugins were activated successfully:": "Los siguientes complementos se activaron exitosamente:",
+  "The following recommended plugin is currently inactive: %1$s.": "El siguiente complemento recomendado está actualmente inactivo: %1$s.",
+  "The following recommended plugins are currently inactive: %1$s.": "Los siguientes complementos recomendados están actualmente inactivos: %1$s.",
+  "The following required plugin is currently inactive: %1$s.": "El siguiente complemento requerido está actualmente inactivo: %1$s.",
+  "The following required plugins are currently inactive: %1$s.": "Los siguientes complementos requeridos están actualmente inactivos: %1$s.",
+  "Theme Patterns": "Patrones temáticos",
+  "There are updates available for the following plugins: %1$s.": "Hay actualizaciones disponibles para los siguientes complementos: %1$s.",
+  "There is an update available for: %1$s.": "Hay una actualización disponible para: %1$s.",
+  "This ad appears after the first paragraph of single post content. Rotation supported via <!--next-->.": "Este anuncio aparece después del primer párrafo del contenido de una sola publicación. Rotación admitida a través de <!--next-->.",
+  "This free plugin offers a free live chat solution for your website visitors to contact you via live chat or a live call - all for free! Engage with your customers and increase sales.": "Este complemento gratuito ofrece una solución gratuita de chat en vivo para que los visitantes de su sitio web se comuniquen con usted a través de un chat en vivo o una llamada en vivo, ¡todo gratis! Interactúe con sus clientes y aumente las ventas.",
+  "This theme recommends the following plugin: %1$s.": "Este tema recomienda el siguiente complemento: %1$s.",
+  "This theme recommends the following plugins: %1$s.": "Este tema recomienda los siguientes complementos: %1$s.",
+  "This theme requires the following plugin: %1$s.": "Este tema requiere el siguiente complemento: %1$s.",
+  "This theme requires the following plugins: %1$s.": "Este tema requiere los siguientes complementos: %1$s.",
+  "To Activate <span class=\"count\">(%s)</span>": "Para activar <span class=\"count\">(%s)</span>",
+  "To Install <span class=\"count\">(%s)</span>": "Para instalar <span class=\"count\">(%s)</span>",
+  "Trending Videos": "Vídeos populares",
+  "Update Available <span class=\"count\">(%s)</span>": "Actualización disponible <span class=\"count\">(%s)</span>",
+  "Update Blockspare": "Actualizar bloques de repuesto",
+  "Update Blockspare Pro": "Actualizar Blockspare Pro",
+  "Update Elespare": "Actualizar Elespare",
+  "Update Elespare Pro": "Actualizar Elespare Pro",
+  "Update Templatespare": "Actualizar plantilla de repuesto",
+  "Use AF Companion to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": "Utilice AF Companion para importar rápidamente contenido de demostración en vivo, widgets y configuraciones. Este complemento brinda un diseño fundamental para crear su sitio web y acelerar el proceso de desarrollo.",
+  "Use blockspare to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": "Utilice blockspare para importar rápidamente contenido de demostración en vivo, widgets y configuraciones. Este complemento brinda un diseño fundamental para crear su sitio web y acelerar el proceso de desarrollo.",
+  "Use our free accessible theme to build a news site without coding.": "Utilice nuestro tema de acceso gratuito para crear un sitio de noticias sin codificación.",
+  "Use templatespare to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": "Utilice plantillas de repuesto para importar rápidamente contenido de demostración en vivo, widgets y configuraciones. Este complemento brinda un diseño fundamental para crear su sitio web y acelerar el proceso de desarrollo.",
+  "View All Themes": "Ver todos los temas",
+  "WP Post Author Pro": "Autor de publicaciones de WP Pro",
+  "Watch the videos for an easy learning on customizing the theme.": "Mire los videos para aprender fácilmente a personalizar el tema.",
+  "We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you have always desired..": "Creamos una hermosa serie de bloques Gutenberg de secciones de página para contenido de WordPress para ayudarlo a crear rápidamente el sitio web que siempre ha deseado.",
+  "We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you've always desired.": "Creamos una hermosa serie de bloques Gutenberg de secciones de página para contenido de WordPress para ayudarlo a crear rápidamente el sitio web que siempre ha deseado.",
+  "We have built a new live chat solution called 3CX Startup! This gives you completely free live chat, voice capability plus a team communication system!": "¡Hemos creado una nueva solución de chat en vivo llamada 3CX Startup! ¡Esto le brinda chat en vivo completamente gratuito, capacidad de voz y un sistema de comunicación en equipo!",
+  "Welcome to ": "Bienvenido a",
+  "With the Pricing Table Block for Gutenberg, you can quickly create a beautiful, responsive, and high-converting pricing table. There is no need to code anything.": "Con el bloque de tabla de precios para Gutenberg, puede crear rápidamente una tabla de precios hermosa, responsiva y de alta conversión. No es necesario codificar nada.",
+  "With the Team and Testimonial Block for Gutenberg, you can quickly create a beautiful, responsive, and high-converting team, members, review, rating, etc, sections. There is no need to code anything.": "Con el bloque de equipo y testimonios para Gutenberg, puede crear rápidamente secciones de equipo, miembros, reseñas, calificaciones, etc. hermosas, receptivas y de alta conversión. No es necesario codificar nada.",
+  "Works in all content areas and Ads placements, including Header, Sidebar, Before or After Content, and Archive sections.": "Funciona en todas las áreas de contenido y ubicaciones de anuncios, incluidas las secciones Encabezado, Barra lateral, Contenido anterior o posterior y Archivo.",
+  "World": "Mundo",
+  "XX-Small": "XX-Pequeño",
+  "You may design complicated layouts for your website in just a few minutes with our adaptable and inventive blocks.": "Puede diseñar diseños complicados para su sitio web en tan solo unos minutos con nuestros bloques adaptables e inventivos.",
+  "as in: \"version nr unknown\"||unknown": [
+    "★ desconocida"
+  ],
+  "https://afthemes.com/products/newspare/": "https://afthemes.com/products/newspare/",
+  "plugin A *and* plugin B||and": [
+    "★ y"
+  ],
+  "plugins||All <span class=\"count\">(%s)</span>": [
+    "★ Todos <span class=\"count\">(%s)</span>",
+    "★ Todos <span class=\"count\">(%s)</span>"
+  ],
+  "||%1$s We're happy to see you using %2$s. If the theme has been helpful for your website, a quick %3$sreview on WordPress.org%4$s would mean a lot to our team. Your feedback helps us improve the theme and continue releasing new features and updates for free.": [
+    "○ %1$s Nos alegra verte usando %2$s. Si el tema ha sido útil para su sitio web, una %3$srevisión rápida en WordPress.org%4$s significaría mucho para nuestro equipo. Sus comentarios nos ayudan a mejorar el tema y continuar lanzando nuevas funciones y actualizaciones de forma gratuita."
+  ],
+  "||%1$s done.": [
+    "★ %1$s hecho."
+  ],
+  "||%1$s 🎁 You're currently using the free version of %2$s — thank you!! Upgrade to Pro to access advanced layouts, blocks, premium demos, and many powerful features designed to help you build a faster, more professional news or magazine site. As a thank-you for using our theme, you can unlock %4$s premium features using this exclusive coupon: %3$s": [
+    "○ %1$s 🎁 Actualmente estás usando la versión gratuita de %2$s. ¡¡Gracias!! Actualice a Pro para acceder a diseños avanzados, bloques, demostraciones premium y muchas funciones poderosas diseñadas para ayudarlo a crear un sitio de revistas o noticias más rápido y profesional. Como agradecimiento por usar nuestro tema, puedes desbloquear %4$s funciones premium usando este cupón exclusivo: %3$s"
+  ],
+  "||%s is now installed and ready to use. We've assembled some links to get you started.": [
+    "★ %s ya está instalado y listo para usar. Hemos reunido algunos enlaces para que empieces."
+  ],
+  "||3CX Free Live Chat": [
+    "○ Chat en Vivo Gratis 3CX"
+  ],
+  "||404 Page": [
+    "★ Página 404"
+  ],
+  "||A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design and tile layouts of your posts.": [
+    "○ Una hermosa colección de bloques de Gutenberg de las últimas publicaciones para WordPress, que le ayuda a diseñar la cuadrícula de publicaciones, la lista de publicaciones, el diseño completo de las publicaciones, el diseño avanzado de publicaciones exprés y los diseños de mosaicos de sus publicaciones."
+  ],
+  "||A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design, and tile layouts of your posts.": [
+    "○ Una hermosa colección de bloques de Gutenberg de las últimas publicaciones para WordPress, que le ayuda a diseñar la cuadrícula de publicaciones, la lista de publicaciones, el diseño completo de las publicaciones, el diseño avanzado de publicaciones exprés y los diseños de mosaicos de sus publicaciones."
+  ],
+  "||A stunning assortment of WordPress post widgets. It allows you to display your posts in many formats such as grid, list, tile, full, express, and so on.": [
+    "○ Una impresionante variedad de widgets de publicaciones de WordPress. Le permite mostrar sus publicaciones en muchos formatos, como cuadrícula, lista, mosaico, completo, rápido, etc."
+  ],
+  "||AF themes": [
+    "★ AF themes"
+  ],
+  "||About Us": [
+    "★ Sobre nosotros"
+  ],
+  "||About the Author": [
+    "★ Acerca del autor"
+  ],
+  "||Access over the years of investigative journalism and breaking reports": [
+    "○ Acceso a los años de periodismo de investigación y reportajes de última hora."
+  ],
+  "||Action failed. Please refresh the page and retry.": [
+    "★ La acción ha fallado. Por favor, recarga la página e inténtalo de nuevo."
+  ],
+  "||Activate": [
+    "★ Activar"
+  ],
+  "||Activate %2$s": [
+    "★ Activar %2$s"
+  ],
+  "||Activated": [
+    "★ Activo"
+  ],
+  "||Active": [
+    "★ Activo"
+  ],
+  "||Ad after post content. You can rotate multiple ads with <!--next--> separator.": [
+    "○ Anuncio tras publicación de contenido. Puede rotar varios anuncios con el separador <!--next-->."
+  ],
+  "||Ad before post content. Supports rotating multiple ads using <!--next-->.": [
+    "○ Anuncio antes de publicar contenido. Admite la rotación de múltiples anuncios usando <!--next-->."
+  ],
+  "||Add pages effortlessly with expertly crafted Elementor widgets for blogs, magazines, newspapers, and agency sites using the Elespare plugin!": [
+    "○ Agregue páginas sin esfuerzo con widgets de Elementor diseñados por expertos para blogs, revistas, periódicos y sitios de agencias utilizando el complemento Elespare."
+  ],
+  "||Add pages effortlessly with expertly crafted Gutenberg patterns and blocks for blogs, magazines, newspapers, and agency sites using the Blockspare plugin!": [
+    "○ Agregue páginas sin esfuerzo con patrones y bloques de Gutenberg diseñados por expertos para blogs, revistas, periódicos y sitios de agencias utilizando el complemento Blockspare."
+  ],
+  "||Add your HTML, JavaScript, or shortcode to display an ad at the very top of your site (header area).": [
+    "○ Agregue su HTML, JavaScript o código corto para mostrar un anuncio en la parte superior de su sitio (área de encabezado)."
+  ],
+  "||Ads Settings": [
+    "○ Configuración de anuncios"
+  ],
+  "||Ads settings saved.": [
+    "○ Configuración de anuncios guardada."
+  ],
+  "||After Content": [
+    "★ Después del contenido"
+  ],
+  "||After Post Content": [
+    "★ Después del contenido de la entrada"
+  ],
+  "||After Post List": [
+    "○ Después de la lista de publicaciones"
+  ],
+  "||After Third Paragraph": [
+    "○ Después del tercer párrafo"
+  ],
+  "||All Themes Plan": [
+    "★ Plan All Themes"
+  ],
+  "||All installations and activations have been completed.": [
+    "★ Todas las instalaciones y activaciones han sido completadas."
+  ],
+  "||All installations have been completed.": [
+    "★ Todas las instalaciones han sido completadas."
+  ],
+  "||All plugins installed and activated successfully. %1$s": [
+    "★ Todos los plugins han sido instalados y activados correctamente. %1$s"
+  ],
+  "||An error occurred while installing %1$s: <strong>%2$s</strong>.": [
+    "○ Se produjo un error al instalar %1$s: <strong>%2$s</strong>."
+  ],
+  "||Analytics": [
+    "★ Analítica"
+  ],
+  "||Archive / Blog Ads": [
+    "○ Anuncios de archivo/blog"
+  ],
+  "||Are you sure you want to install this plugin?": [
+    "★ ¿Estás seguro de querer instalar este plugin?"
+  ],
+  "||Available Attributes": [
+    "○ Atributos disponibles"
+  ],
+  "||Available version:": [
+    "★ Versión disponible:"
+  ],
+  "||Beautiful Page Building Gutenberg Blocks for WordPress": [
+    "○ Hermosas páginas de construcción de bloques Gutenberg para WordPress"
+  ],
+  "||Before Content": [
+    "★ Antes del contenido"
+  ],
+  "||Before First Paragraph": [
+    "○ Antes del primer párrafo"
+  ],
+  "||Before Post List": [
+    "○ Antes de la lista de publicaciones"
+  ],
+  "||Begin activating plugin": [
+    "★ Comenzar a activar el complemento",
+    "★ Comience a activar complementos"
+  ],
+  "||Begin installing plugin": [
+    "★ Comience a instalar el complemento",
+    "★ Comience a instalar complementos"
+  ],
+  "||Begin updating plugin": [
+    "★ Comenzar a actualizar el complemento",
+    "★ Comenzar a actualizar complementos"
+  ],
+  "||Between Posts": [
+    "○ Entre publicaciones"
+  ],
+  "||Blank Page": [
+    "○ Página en blanco"
+  ],
+  "||Block Pattern Library": [
+    "★ Biblioteca de patrones de bloques"
+  ],
+  "||Block Patterns": [
+    "★ Patrones de bloques"
+  ],
+  "||Blockspare": [
+    "★ Blockspare"
+  ],
+  "||Blockspare Pro": [
+    "○ Bloques de repuesto Pro"
+  ],
+  "||Blockspare plugin version should be more than %s.": [
+    "★ La versión del plugin Blockspare debe ser superior a %s."
+  ],
+  "||Blog": [
+    "★ Blog"
+  ],
+  "||Blog Homepage (Latest Posts)": [
+    "○ Página de inicio del blog (últimas publicaciones)"
+  ],
+  "||Browse and insert beautiful pre-designed sections like news grids, sliders, carousel,  hero banners and article layouts.": [
+    "○ Explore e inserte hermosas secciones prediseñadas como cuadrículas de noticias, controles deslizantes, carrusel, pancartas de héroes y diseños de artículos."
+  ],
+  "||Browse and insert pre-designed layout sections like hero banners, grids and news blocks.": [
+    "○ Explore e inserte secciones de diseño prediseñadas como pancartas de héroe, cuadrículas y bloques de noticias."
+  ],
+  "||Build a professional news site fast with no coding needed.": [
+    "○ Cree un sitio de noticias profesional rápidamente sin necesidad de codificación."
+  ],
+  "||Business": [
+    "★ Negocio"
+  ],
+  "||Buy Now": [
+    "★ Comprar ahora"
+  ],
+  "||By": [
+    "★ Por"
+  ],
+  "||Call-to-action button text": [
+    "○ Texto del botón de llamada a la acción"
+  ],
+  "||Categories": [
+    "★ Categorías"
+  ],
+  "||Category / Archive": [
+    "○ Categoría / Archivo"
+  ],
+  "||Change Log": [
+    "○ Registro de cambios"
+  ],
+  "||Change the overall appearance of your website including colors, typography, spacing and layout.": [
+    "○ Cambie la apariencia general de su sitio web, incluidos colores, tipografía, espaciado y diseño."
+  ],
+  "||Cheatin&#8217; huh?": [
+    "○ Hacer trampa&#8217; ¿eh?"
+  ],
+  "||Choose whether your homepage displays latest posts or a static page.": [
+    "○ Elija si su página de inicio muestra las últimas publicaciones o una página estática."
+  ],
+  "||Contact": [
+    "★ Contacto"
+  ],
+  "||Copyright © %3$s. All rights reserved. | <a href=\"%1$s\">NewSpare</a> by %2$s.": [
+    "○ Derechos de autor © %3$s. Reservados todos los derechos. | <a href=\"%1$s\">NuevoRepuesto</a> por %2$s."
+  ],
+  "||Create Your Dream Website in Minutes!": [
+    "○ ¡Cree el sitio web de sus sueños en minutos!"
+  ],
+  "||Create and edit pages such as Homepage, About and Contact.": [
+    "○ Cree y edite páginas como la página de inicio, Acerca de y Contacto."
+  ],
+  "||Create and manage navigation menus for your header and footer.": [
+    "○ Cree y administre menús de navegación para su encabezado y pie de página."
+  ],
+  "||Customize Archive & Utility Templates": [
+    "○ Personalizar plantillas de archivos y utilidades"
+  ],
+  "||Customize Homepage Templates": [
+    "○ Personalizar plantillas de página de inicio"
+  ],
+  "||Customize Page Templates": [
+    "○ Personalizar plantillas de página"
+  ],
+  "||Customize Single Post Templates": [
+    "○ Personalizar plantillas de publicación única"
+  ],
+  "||Customize how posts, pages, archives, search results and other content are displayed.": [
+    "○ Personalice cómo se muestran las publicaciones, páginas, archivos, resultados de búsqueda y otro contenido."
+  ],
+  "||Customize the footer layout including copyright text and widgets.": [
+    "○ Personalice el diseño del pie de página, incluido el texto de derechos de autor y los widgets."
+  ],
+  "||DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet effective WordPress plugin that lets you use Elementor to create fantastic Header, Footer and Contents of websites with highly customization options for FREE. ": [
+    "○ DISEÑE SITIOS WEB PERFECTOS DE BLOG, NOTICIAS O REVISTAS Elespare es un complemento de WordPress simple pero efectivo que le permite usar Elementor para crear encabezados, pies de página y contenidos fantásticos de sitios web con opciones altamente personalizadas de forma GRATUITA."
+  ],
+  "||Dashboard": [
+    "★ Escritorio"
+  ],
+  "||Default Page": [
+    "★ Página por defecto"
+  ],
+  "||Demo Sites": [
+    "○ Sitios de demostración"
+  ],
+  "||Demos/product": [
+    "○ Demostraciones/producto"
+  ],
+  "||Destination link (required)": [
+    "○ Enlace de destino (obligatorio)"
+  ],
+  "||Discover advanced layouts, monetization tools and premium features available in Newspare.": [
+    "○ Descubra diseños avanzados, herramientas de monetización y funciones premium disponibles en Newspare."
+  ],
+  "||Dismiss this notice": [
+    "★ Descartar este aviso"
+  ],
+  "||Displayed at the bottom of the site above footer widgets. Rotating ads supported using <!--next-->.": [
+    "○ Se muestra en la parte inferior del sitio, encima de los widgets del pie de página. Anuncios rotativos compatibles con <!--next-->."
+  ],
+  "||Displayed below post content, before comments or related posts. Rotation via <!--next--> supported.": [
+    "○ Se muestra debajo del contenido de la publicación, antes de los comentarios o publicaciones relacionadas. Se admite la rotación a través de <!--next-->."
+  ],
+  "||Docs": [
+    "★ Documentación"
+  ],
+  "||Documentation": [
+    "★ Documentación"
+  ],
+  "||Easily import templates and patterns for consistent layouts.": [
+    "○ Importe fácilmente plantillas y patrones para diseños consistentes."
+  ],
+  "||Easy WordPress Websites Builder: Versatile Demos for Blogs, News, eCommerce and More - One-Click Import, No Coding! 1000+ Ready-made Templates for Stunning Newspaper, Magazine, Blog, and Publishing Websites.": [
+    "○ Creador sencillo de sitios web de WordPress: demostraciones versátiles para blogs, noticias, comercio electrónico y más: importación con un solo clic, ¡sin codificación! Más de 1000 plantillas listas para usar para impresionantes sitios web de periódicos, revistas, blogs y publicaciones."
+  ],
+  "||Edit your entire website layout visually including templates, headers, footers and page layouts.": [
+    "○ Edite visualmente todo el diseño de su sitio web, incluidas plantillas, encabezados, pies de página y diseños de página."
+  ],
+  "||Edit your website header layout including logo placement and navigation.": [
+    "○ Edite el diseño del encabezado de su sitio web, incluida la ubicación del logotipo y la navegación."
+  ],
+  "||Editor's Picks": [
+    "★ Selecciones del editor"
+  ],
+  "||Elementor Kits": [
+    "★ Elementor Kits"
+  ],
+  "||Elementor Tutorial for Beginners": [
+    "○ Tutorial de Elementor para principiantes"
+  ],
+  "||Elespare": [
+    "★ Elespare"
+  ],
+  "||Elespare Pro": [
+    "○ Elespare Pro"
+  ],
+  "||Elespare plugin version should be more than %s.": [
+    "★ La versión del plugin Elespare debe ser superior a %s."
+  ],
+  "||Error - unable to verify nonce, please try again.": [
+    "★ Error: no se puede verificar el nonce, inténtalo de nuevo."
+  ],
+  "||Explore More": [
+    "★ Explorar más"
+  ],
+  "||Explore Newspare Features": [
+    "○ Explorar las funciones de repuesto"
+  ],
+  "||Explore Our Pre-Built Starter Websites!": [
+    "○ ¡Explore nuestros sitios web iniciales prediseñados!"
+  ],
+  "||External Source": [
+    "★ Fuente externa"
+  ],
+  "||Featured News": [
+    "★ Noticias destacadas"
+  ],
+  "||Featured Videos": [
+    "○ Vídeos destacados"
+  ],
+  "||Footer Ad": [
+    "○ Anuncio de pie de página"
+  ],
+  "||Footer Builder": [
+    "★ Maquetador de pies de página"
+  ],
+  "||Footers": [
+    "★ Pies de página"
+  ],
+  "||Free Live Chat using 3CX": [
+    "★ Chat en vivo gratuito con 3CX"
+  ],
+  "||Front-page Banner": [
+    "○ Banner de portada"
+  ],
+  "||Get Started": [
+    "★ Primeros pasos"
+  ],
+  "||Get Started with Beautiful Starter Templates.": [
+    "○ Comience con hermosas plantillas de inicio."
+  ],
+  "||Get Starter Sites": [
+    "★ Obtén sitios de inicio"
+  ],
+  "||Get ready-to-use Starter Sites instantly and build modern websites in minutes.": [
+    "○ Obtenga sitios de inicio listos para usar al instante y cree sitios web modernos en minutos."
+  ],
+  "||Get started": [
+    "★ Comenzar"
+  ],
+  "||Global Ads Placement": [
+    "○ Ubicación de anuncios globales"
+  ],
+  "||Global Styles": [
+    "★ Estilos globales"
+  ],
+  "||Got any support queries?": [
+    "★ ¿Tienes alguna consulta de soporte?"
+  ],
+  "||Got theme support question or found bug or got some feedbacks? Best place to ask your query is the dedicated Support forum for the theme.": [
+    "○ ¿Tiene alguna pregunta sobre soporte técnico del tema, encontró un error o recibió algunos comentarios? El mejor lugar para realizar su consulta es el foro de soporte dedicado al tema."
+  ],
+  "||Header Ad": [
+    "○ Anuncio de encabezado"
+  ],
+  "||Header Builder": [
+    "★ Maquetador de cabeceras"
+  ],
+  "||Headers": [
+    "★ Cabeceras"
+  ],
+  "||Hello ": [
+    "○ Hola"
+  ],
+  "||Helpful YouTube Videos": [
+    "○ Vídeos útiles de YouTube"
+  ],
+  "||Highlight Promotion Box": [
+    "○ Cuadro de promoción resaltado"
+  ],
+  "||Highlight Promotion Boxes let you display ads, affiliate offers, products, services, or important notices in a clean and eye-catching layout.": [
+    "○ Los cuadros de promoción destacados le permiten mostrar anuncios, ofertas de afiliados, productos, servicios o avisos importantes en un diseño limpio y llamativo."
+  ],
+  "||Home": [
+    "★ Inicio"
+  ],
+  "||Homepage Layout - Grid Magazine": [
+    "○ Diseño de página de inicio - Revista Grid"
+  ],
+  "||Homepage Layout - Magazine": [
+    "○ Diseño de página de inicio - Revista"
+  ],
+  "||Homepage Layout - News Portal": [
+    "○ Diseño de página de inicio - Portal de noticias"
+  ],
+  "||Homepage Layout - Personal Blog": [
+    "○ Diseño de página de inicio - Blog personal"
+  ],
+  "||Homepage Layout - Video News": [
+    "○ Diseño de página de inicio - Videonoticias"
+  ],
+  "||Homepage Settings": [
+    "★ Ajustes de página de inicio"
+  ],
+  "||Howdy!": [
+    "○ ¡Hola!"
+  ],
+  "||I've already done.": [
+    "★ Ya lo he hecho."
+  ],
+  "||Image ID or image URL": [
+    "○ ID de imagen o URL de imagen"
+  ],
+  "||Import Gutenberg Patterns": [
+    "○ Importar patrones de Gutenberg"
+  ],
+  "||Import a Starter Site, Personalize, and Live it in 3 Easy Steps!": [
+    "★ ¡Importa un sitio de inicio, personalízalo y publícalo en 3 sencillos pasos!"
+  ],
+  "||Import complete demo websites including homepage layouts, posts and blocks.": [
+    "○ Importe sitios web de demostración completos, incluidos diseños de página de inicio, publicaciones y bloques."
+  ],
+  "||Import ready-made Elementor page designs and template kits for building custom pages.": [
+    "○ Importe diseños de páginas de Elementor y kits de plantillas ya preparados para crear páginas personalizadas."
+  ],
+  "||Index Template": [
+    "○ Plantilla de índice"
+  ],
+  "||Insert a highlight box anywhere using the shortcode below:": [
+    "○ Inserte un cuadro resaltado en cualquier lugar usando el código corto a continuación:"
+  ],
+  "||Install": [
+    "★ Instalar"
+  ],
+  "||Install %2$s": [
+    "★ Instalar %2$s"
+  ],
+  "||Install Now": [
+    "★ Instalar"
+  ],
+  "||Install Plugins": [
+    "★ Instalar plugins"
+  ],
+  "||Install Required Plugins": [
+    "★ Instalar los plugins necesarios"
+  ],
+  "||Installed But Not Activated": [
+    "★ Instalado, pero no activado"
+  ],
+  "||Installed version:": [
+    "★ Versión instalada:"
+  ],
+  "||Installing Plugin %1$s (%2$d/%3$d)": [
+    "★ Instalando el plugin %1$s (%2$d/%3$d)"
+  ],
+  "||Installing Plugin: %s": [
+    "★ Instalando el plugin: %s"
+  ],
+  "||Installing and Activating Plugin %1$s (%2$d/%3$d)": [
+    "★ Instalando y activando el plugin %1$s (%2$d/%3$d)"
+  ],
+  "||It has 3 different widgets for post's author, selective author by id and custom author. It also provides shortcodes for the author profile.": [
+    "○ Tiene 3 widgets diferentes para el autor de la publicación, autor selectivo por identificación y autor personalizado. También proporciona códigos cortos para el perfil del autor."
+  ],
+  "||Latest News": [
+    "★ Últimas noticias"
+  ],
+  "||Latest Posts Block for WordPress (Gutenberg)": [
+    "○ Bloque de últimas publicaciones para WordPress (Gutenberg)"
+  ],
+  "||Latest Videos": [
+    "○ Últimos vídeos"
+  ],
+  "||Launch Your News Website Quickly": [
+    "○ Inicie su sitio web de noticias rápidamente"
+  ],
+  "||Learn how to manage multiple authors smoothly with our plugin.": [
+    "○ Aprenda a gestionar varios autores sin problemas con nuestro complemento."
+  ],
+  "||Let your imagination soar! Designed with User-Friendly features, incorporating the Latest Trends and SEO-Friendly Markups. We genuinely appreciate you choosing our theme!": [
+    "○ ¡Deja volar tu imaginación! Diseñado con funciones fáciles de usar, incorporando las últimas tendencias y marcas compatibles con SEO. ¡Realmente apreciamos que haya elegido nuestro tema!"
+  ],
+  "||Lifestyle": [
+    "★ Estilo de vida"
+  ],
+  "||Link rel attribute (default: nofollow sponsored)": [
+    "○ Atributo link rel (predeterminado: patrocinado nofollow)"
+  ],
+  "||Link target (default: _blank)": [
+    "○ Destino del enlace (predeterminado: _en blanco)"
+  ],
+  "||Magic Content Box Block": [
+    "○ Bloque de caja de contenido mágico"
+  ],
+  "||Main Story": [
+    "○ Historia principal"
+  ],
+  "||Main heading or product/service name (required)": [
+    "○ Encabezado principal o nombre del producto/servicio (obligatorio)"
+  ],
+  "||Manage reusable layout sections like headers, footers and sidebar components.": [
+    "○ Administre secciones de diseño reutilizables como encabezados, pies de página y componentes de la barra lateral."
+  ],
+  "||Manually inserted between posts in archive loop using hooks/snippets. Rotate with <!--next--> if needed.": [
+    "○ Insertado manualmente entre publicaciones en el bucle de archivo usando ganchos/fragmentos. Gire con <!--next--> si es necesario."
+  ],
+  "||Maybe Later": [
+    "★ Quizá más tarde"
+  ],
+  "||Minimum required version:": [
+    "★ Versión mínima necesaria:"
+  ],
+  "||More Details": [
+    "★ Más detalles"
+  ],
+  "||MoreNews Options": [
+    "○ Más opciones de noticias"
+  ],
+  "||Multi-Author Collaboration": [
+    "○ Colaboración de varios autores"
+  ],
+  "||Multilingual Translation Guide": [
+    "○ Guía de traducción multilingüe"
+  ],
+  "||Navigation Menus": [
+    "★ Menús de navegación"
+  ],
+  "||Need Help?": [
+    "★ ¿Necesitas ayuda?"
+  ],
+  "||NewSpare": [
+    "○ NuevoRepuesto"
+  ],
+  "||NewSpare Patterns": [
+    "○ NuevoPatrones de repuesto"
+  ],
+  "||NewSpare is a high-performance, Full Site Editing (FSE) WordPress theme expertly crafted for news, magazines, and professional blogs. Built to leverage the full power of the Gutenberg block editor, it offers unparalleled flexibility with a wide range of pre-built starter sites and seamless integration with the BlockSpare plugin. NewSpare features elegant light and dark color modes to enhance the reading experience, alongside full WooCommerce support for integrated e-commerce capabilities. Optimized for speed and SEO to boost search engine rankings, the theme includes RTL language support, responsive design, and live preview customization. Whether you are building a publishing hub, a review site, or a personal blog, NewSpare provides a sophisticated, user-friendly foundation with dedicated support and comprehensive documentation available at https://afthemes.com/products/newspare/.": [
+    "○ NewSpare es un tema de WordPress de edición completa del sitio (FSE) de alto rendimiento diseñado por expertos para noticias, revistas y blogs profesionales. Creado para aprovechar todo el poder del editor de bloques de Gutenberg, ofrece una flexibilidad incomparable con una amplia gama de sitios de inicio prediseñados y una integración perfecta con el complemento BlockSpare. NewSpare presenta elegantes modos de color claro y oscuro para mejorar la experiencia de lectura, junto con soporte completo de WooCommerce para capacidades integradas de comercio electrónico. Optimizado para velocidad y SEO para mejorar la clasificación en los motores de búsqueda, el tema incluye soporte para lenguaje RTL, diseño responsivo y personalización de vista previa en vivo. Ya sea que esté creando un centro de publicación, un sitio de reseñas o un blog personal, NewSpare proporciona una base sofisticada y fácil de usar con soporte dedicado y documentación completa disponible en https://afthemes.com/products/newspare/."
+  ],
+  "||News": [
+    "★ Noticias"
+  ],
+  "||Newspare": [
+    "○ periódico"
+  ],
+  "||Next Post": [
+    "★ Siguiente entrada"
+  ],
+  "||No action taken. Plugin %1$s was already active.": [
+    "★ No se realizó ninguna acción. El plugin %1$s ya está activado."
+  ],
+  "||No coding needed. One-click import of expert-made starter sites with customizer, widgets, Elementor Template Kits, and Gutenberg Patterns. Start now with Templatespare Plugin!": [
+    "○ No se necesita codificación. Importación con un solo clic de sitios iniciales creados por expertos con personalizador, widgets, kits de plantillas de Elementor y patrones de Gutenberg. ¡Empiece ahora con el complemento Templatespare!"
+  ],
+  "||No plugins are available to be activated at this time.": [
+    "★ No hay plugins disponibles para activar en este momento."
+  ],
+  "||No plugins are available to be installed at this time.": [
+    "★ No hay plugins disponibles para instalar en este momento."
+  ],
+  "||No plugins are available to be updated at this time.": [
+    "★ No hay plugins disponibles para actualizar en este momento."
+  ],
+  "||No plugins to install, update or activate.": [
+    "★ No hay plugins para instalar, actualizar o activar."
+  ],
+  "||No plugins were selected to be activated. No action taken.": [
+    "★ No se han seleccionado plugins para activar. No se ha realizado ninguna acción."
+  ],
+  "||No plugins were selected to be installed. No action taken.": [
+    "★ No se seleccionó ningún plugin para ser instalado. No se realizó ninguna acción."
+  ],
+  "||No plugins were selected to be updated. No action taken.": [
+    "★ No se seleccionó ningún plugin para ser actualizado. No se realizó ninguna acción."
+  ],
+  "||Not Installed": [
+    "★ Sin instalar"
+  ],
+  "||One-click Import, No Coding Hassle!": [
+    "○ Importación con un clic, ¡sin problemas de codificación!"
+  ],
+  "||Oops! Page Not Found": [
+    "★ ¡Vaya! No se ha encontrado la página"
+  ],
+  "||Open": [
+    "★ Abierto"
+  ],
+  "||Optional disclosure or disclaimer text": [
+    "○ Texto de divulgación o exención de responsabilidad opcional"
+  ],
+  "||Optional label such as Pro, Sponsored, New, or Featured": [
+    "○ Etiqueta opcional como Pro, Patrocinado, Nuevo o Destacado"
+  ],
+  "||Outline": [
+    "★ Contorno"
+  ],
+  "||Page - Left Sidebar": [
+    "○ Página - Barra lateral izquierda"
+  ],
+  "||Page - No Title": [
+    "○ Página - Sin título"
+  ],
+  "||Page - Right Sidebar": [
+    "○ Página - Barra lateral derecha"
+  ],
+  "||Page Builder Elementor Widgets": [
+    "○ Widgets de Elementor del creador de páginas"
+  ],
+  "||Page Builder Gutenberg Blocks & Patterns": [
+    "○ Bloques y patrones de Gutenberg del constructor de páginas"
+  ],
+  "||Pages": [
+    "★ Páginas"
+  ],
+  "||Patterns for NewSpare Theme": [
+    "○ Patrones para el tema NewSpare"
+  ],
+  "||Please check our full documentation for detailed information on how to setup and customize the theme.": [
+    "○ Consulte nuestra documentación completa para obtener información detallada sobre cómo configurar y personalizar el tema."
+  ],
+  "||Please contact the administrator of this site for help.": [
+    "★ Por favor, contacta con el administrador de este sitio para obtener ayuda."
+  ],
+  "||Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines.": [
+    "★ Por favor, contacta con el proveedor del plugin y pídele que empaquete su plugin de acuerdo con las directrices de WordPress."
+  ],
+  "||Plugin": [
+    "★ Plugin"
+  ],
+  "||Plugin activated successfully.": [
+    "★ El plugin se ha activado correctamente."
+  ],
+  "||Plugin activation failed.": [
+    "★ Ha fallado la activación del plugin."
+  ],
+  "||Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin.": [
+    "★ Plugin sin activar. Una versión más reciente de %s es necesaria para este tema. Por favor actualiza el plugin."
+  ],
+  "||Post Author Box, Multi-Authors, Co-Author & Guest Authors, Post Rating, Top & Recommended Posts, and a User-Friendly Registration Form Builder": [
+    "○ Cuadro de autor de publicaciones, autores múltiples, coautores y autores invitados, calificación de publicaciones, publicaciones principales y recomendadas y un creador de formularios de registro fácil de usar"
+  ],
+  "||Pre-Packaged": [
+    "★ Pre-empaquetado"
+  ],
+  "||Premium Plugins": [
+    "○ Complementos premium"
+  ],
+  "||Preview": [
+    "★ Vista previa"
+  ],
+  "||Previous Post": [
+    "★ Entrada anterior"
+  ],
+  "||Price, offer, or supporting text": [
+    "○ Precio, oferta o texto de respaldo"
+  ],
+  "||Pricing Table Block for WordPress (Gutenberg)": [
+    "○ Bloque de tabla de precios para WordPress (Gutenberg)"
+  ],
+  "||Quick Links": [
+    "★ Enlaces rápidos"
+  ],
+  "||Rate This Theme": [
+    "○ Califica este tema"
+  ],
+  "||Read Time": [
+    "★ Tiempo de lectura"
+  ],
+  "||Recommended": [
+    "★ Recomendado"
+  ],
+  "||Remind me later": [
+    "★ Recuérdamelo más tarde"
+  ],
+  "||Required": [
+    "★ Necesario"
+  ],
+  "||Required Update not Available": [
+    "★ No está disponible la actualización necesaria"
+  ],
+  "||Requires Update": [
+    "★ Necesita actualización"
+  ],
+  "||Return to Required Plugins Installer": [
+    "★ Volver al instalador de plugins necesarios"
+  ],
+  "||Return to the Dashboard": [
+    "★ Volver al escritorio"
+  ],
+  "||Save Ads Settings": [
+    "○ Guardar configuración de anuncios"
+  ],
+  "||Search": [
+    "★ Buscar"
+  ],
+  "||Search Results": [
+    "★ Resultados de la búsqueda"
+  ],
+  "||Search the Archives": [
+    "○ Buscar en los archivos"
+  ],
+  "||Secondary": [
+    "★ Secundario"
+  ],
+  "||Security check failed": [
+    "○ Error en la comprobación de seguridad"
+  ],
+  "||See author's post": [
+    "○ Ver publicación del autor"
+  ],
+  "||Short description, tagline, or message": [
+    "○ Breve descripción, eslogan o mensaje"
+  ],
+  "||Shown after posts in archive or blog listings. Supports ad rotation using <!--next--> tag.": [
+    "○ Se muestra después de las publicaciones en archivos o listados de blogs. Admite la rotación de anuncios mediante la etiqueta <!--next-->."
+  ],
+  "||Shown after the third paragraph in single post content. Supports rotating ads with <!--next-->.": [
+    "○ Se muestra después del tercer párrafo en el contenido de una sola publicación. Admite anuncios rotativos con <!--next-->."
+  ],
+  "||Shown before posts in blog or archive pages. Use <!--next--> to rotate multiple ads.": [
+    "○ Se muestra antes de las publicaciones en blogs o páginas de archivo. Utilice <!--next--> para rotar varios anuncios."
+  ],
+  "||Shown in sidebar globally. You may use widgets for better control. Supports <!--next--> for rotating ads.": [
+    "○ Se muestra en la barra lateral a nivel mundial. Puede utilizar widgets para un mejor control. Admite <!--next--> para anuncios rotativos."
+  ],
+  "||Sidebar Ad": [
+    "○ Anuncio de la barra lateral"
+  ],
+  "||Single Post - Default": [
+    "○ Publicación única: predeterminada"
+  ],
+  "||Single Post - Left Sidebar": [
+    "○ Publicación única: barra lateral izquierda"
+  ],
+  "||Single Post - No Sidebar": [
+    "○ Publicación única: sin barra lateral"
+  ],
+  "||Site Editor": [
+    "★ Editor del sitio"
+  ],
+  "||Solid": [
+    "★ Sólido"
+  ],
+  "||Something went wrong with the plugin API.": [
+    "★ Algo ha ido mal con la API del plugin."
+  ],
+  "||Sorry, we can't find the page you're looking for. Try searching the site below, or head back to the homepage.": [
+    "○ Lo sentimos, no podemos encontrar la página que estás buscando. Intente buscar en el sitio a continuación o regrese a la página de inicio."
+  ],
+  "||Sorry, you are not allowed to activate plugins on this site.": [
+    "★ Lo siento, no tienes permisos para activar plugins para este sitio."
+  ],
+  "||Sorry, you are not allowed to install plugins on this site.": [
+    "★ Lo siento, no tienes permisos para instalar plugins en este sitio."
+  ],
+  "||Source": [
+    "★ Fuente"
+  ],
+  "||Sports": [
+    "○ Deportes"
+  ],
+  "||Square": [
+    "★ Cuadrado"
+  ],
+  "||Starter Sites": [
+    "★ Sitios de inicio"
+  ],
+  "||Static Front Page (Default Layout)": [
+    "○ Portada estática (diseño predeterminado)"
+  ],
+  "||Status": [
+    "★ Estado"
+  ],
+  "||Stay Connected": [
+    "○ Manténgase conectado"
+  ],
+  "||Step-by-step guide to translate your site into multiple languages.": [
+    "○ Guía paso a paso para traducir su sitio a varios idiomas."
+  ],
+  "||Sticky Bottom": [
+    "○ Fondo pegajoso"
+  ],
+  "||Sticky Top": [
+    "○ Parte superior adhesiva"
+  ],
+  "||Subscribe": [
+    "★ Suscribirse"
+  ],
+  "||Support": [
+    "★ Soporte"
+  ],
+  "||Sure thing": [
+    "★ Por supuesto"
+  ],
+  "||TGMPA v%s": [
+    "★ TGMPA v%s"
+  ],
+  "||Tags": [
+    "★ Etiquetas"
+  ],
+  "||Team and Testimonial Block for WordPress (Gutenberg)": [
+    "○ Bloque de equipo y testimonios para WordPress (Gutenberg)"
+  ],
+  "||Template Parts": [
+    "★ Partes de plantilla"
+  ],
+  "||Templates": [
+    "★ Plantillas"
+  ],
+  "||Templatespare": [
+    "★ Templatespare"
+  ],
+  "||Thank you for installing [theme] — a fast, flexible, and modern Full Site Editing (FSE) theme designed for blogs, news websites and online magazines. You can launch a professional website in minutes using our 100+ one-click starter templates and sites, or customize every part of your website visually using the WordPress Site Editor. Choose how you'd like to get started below.": [
+    "○ Gracias por instalar [tema], un tema de edición de sitio completo (FSE) rápido, flexible y moderno diseñado para blogs, sitios web de noticias y revistas en línea. Puede iniciar un sitio web profesional en minutos utilizando nuestras más de 100 plantillas y sitios de inicio con un solo clic, o personalizar visualmente cada parte de su sitio web utilizando el Editor de sitios de WordPress. Elija cómo le gustaría comenzar a continuación."
+  ],
+  "||The \"Get Started\" action will install/activate the Templatespare  plugin for Starter Sites and Templates.": [
+    "○ La acción \"Comenzar\" instalará/activará el complemento Templatespare para sitios y plantillas de inicio."
+  ],
+  "||The \"Get Started\" action will install/activate the Templatespare and Blockspare plugins for Starter Sites and Templates.": [
+    "★ La acción «Primeros pasos» instalará/activará los plugins Templatespare y Blockspare para sitios de inicio y plantillas."
+  ],
+  "||The Templatespare plugin should be updated to the latest version": [
+    "★ El plugin Templatespare debe actualizarse a la última versión"
+  ],
+  "||The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s.": [
+    "★ El siguiente complemento debe actualizarse a su última versión para garantizar la máxima compatibilidad con este tema: %1$s.",
+    "★ Los siguientes complementos deben actualizarse a su última versión para garantizar la máxima compatibilidad con este tema: %1$s."
+  ],
+  "||The following plugin was activated successfully:": [
+    "★ El siguiente complemento se activó exitosamente:",
+    "★ Los siguientes complementos se activaron exitosamente:"
+  ],
+  "||The following recommended plugin is currently inactive: %1$s.": [
+    "★ El siguiente complemento recomendado está actualmente inactivo: %1$s.",
+    "★ Los siguientes complementos recomendados están actualmente inactivos: %1$s."
+  ],
+  "||The following required plugin is currently inactive: %1$s.": [
+    "★ El siguiente complemento requerido está actualmente inactivo: %1$s.",
+    "★ Los siguientes complementos requeridos están actualmente inactivos: %1$s."
+  ],
+  "||The installation and activation process is starting. This process may take a while on some hosts, so please be patient.": [
+    "★ El proceso de instalación y activación está comenzando. Este proceso puede llevar algo de tiempo en algunos equipos, por favor ten paciencia."
+  ],
+  "||The installation of %1$s failed.": [
+    "★ Ha fallado la instalación de %1$s."
+  ],
+  "||The installation process is starting. This process may take a while on some hosts, so please be patient.": [
+    "★ El proceso de instalación está comenzando. Este proceso puede llevar algo de tiempo en algunos equipos, por favor ten paciencia."
+  ],
+  "||The remote plugin package consists of more than one file, but the files are not packaged in a folder.": [
+    "★ El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están empaquetados dentro de una carpeta."
+  ],
+  "||The remote plugin package does not contain a folder with the desired slug and renaming did not work.": [
+    "★ El paquete remoto del plugin no contiene una carpeta con el slug deseado y no ha funcionado el renombrado."
+  ],
+  "||Theme Details": [
+    "★ Detalles del tema"
+  ],
+  "||Theme Patterns": [
+    "○ Patrones temáticos"
+  ],
+  "||Theme dashboard": [
+    "★ Escritorio del tema"
+  ],
+  "||There are one or more required or recommended plugins to install, update or activate.": [
+    "★ Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+  ],
+  "||There is an update available for: %1$s.": [
+    "★ Hay una actualización disponible para: %1$s.",
+    "★ Hay actualizaciones disponibles para los siguientes complementos: %1$s."
+  ],
+  "||This ad appears after the first paragraph of single post content. Rotation supported via <!--next-->.": [
+    "○ Este anuncio aparece después del primer párrafo del contenido de una sola publicación. Rotación admitida a través de <!--next-->."
+  ],
+  "||This free plugin offers a free live chat solution for your website visitors to contact you via live chat or a live call - all for free! Engage with your customers and increase sales.": [
+    "○ Este complemento gratuito ofrece una solución gratuita de chat en vivo para que los visitantes de su sitio web se comuniquen con usted a través de un chat en vivo o una llamada en vivo, ¡todo gratis! Interactúe con sus clientes y aumente las ventas."
+  ],
+  "||This plugin needs to be updated to be compatible with your theme.": [
+    "★ Este plugin necesita ser actualizado para ser compatible con tu tema."
+  ],
+  "||This theme recommends the following plugin: %1$s.": [
+    "★ Este tema recomienda el siguiente complemento: %1$s.",
+    "★ Este tema recomienda los siguientes complementos: %1$s."
+  ],
+  "||This theme requires the following plugin: %1$s.": [
+    "★ Este tema requiere el siguiente complemento: %1$s.",
+    "★ Este tema requiere los siguientes complementos: %1$s."
+  ],
+  "||To Activate <span class=\"count\">(%s)</span>": [
+    "★ Para activar <span class=\"count\">(%s)</span>",
+    "★ Para activar <span class=\"count\">(%s)</span>"
+  ],
+  "||To Install <span class=\"count\">(%s)</span>": [
+    "★ Para instalar <span class=\"count\">(%s)</span>",
+    "★ Para instalar <span class=\"count\">(%s)</span>"
+  ],
+  "||Top Stories": [
+    "★ Historias principales"
+  ],
+  "||Trending Now": [
+    "★ Tendencias Ahora"
+  ],
+  "||Trending Videos": [
+    "○ Vídeos populares"
+  ],
+  "||Type": [
+    "★ Tipo"
+  ],
+  "||Unlock Pro Features": [
+    "★ Desbloquear características Pro"
+  ],
+  "||Update": [
+    "★ Actualizar"
+  ],
+  "||Update %2$s": [
+    "★ Actualizar %2$s"
+  ],
+  "||Update Available <span class=\"count\">(%s)</span>": [
+    "★ Actualización disponible <span class=\"count\">(%s)</span>",
+    "★ Actualización disponible <span class=\"count\">(%s)</span>"
+  ],
+  "||Update Blockspare": [
+    "○ Actualizar bloques de repuesto"
+  ],
+  "||Update Blockspare Pro": [
+    "○ Actualizar Blockspare Pro"
+  ],
+  "||Update Elespare": [
+    "○ Actualizar Elespare"
+  ],
+  "||Update Elespare Pro": [
+    "○ Actualizar Elespare Pro"
+  ],
+  "||Update Required": [
+    "★ Actualización necesaria"
+  ],
+  "||Update Templatespare": [
+    "○ Actualizar plantilla de repuesto"
+  ],
+  "||Update recommended": [
+    "★ Actualización recomendada"
+  ],
+  "||Updating Plugin %1$s (%2$d/%3$d)": [
+    "★ Actualizando el plugin %1$s (%2$d/%3$d)"
+  ],
+  "||Updating Plugin: %s": [
+    "★ Actualizando el plugin: %s"
+  ],
+  "||Upgrade message from the plugin author:": [
+    "★ Mensaje de actualización del autor del plugin:"
+  ],
+  "||Use AF Companion to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": [
+    "○ Utilice AF Companion para importar rápidamente contenido de demostración en vivo, widgets y configuraciones. Este complemento brinda un diseño fundamental para crear su sitio web y acelerar el proceso de desarrollo."
+  ],
+  "||Use blockspare to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": [
+    "○ Utilice blockspare para importar rápidamente contenido de demostración en vivo, widgets y configuraciones. Este complemento brinda un diseño fundamental para crear su sitio web y acelerar el proceso de desarrollo."
+  ],
+  "||Use our free accessible theme to build a news site without coding.": [
+    "○ Utilice nuestro tema de acceso gratuito para crear un sitio de noticias sin codificación."
+  ],
+  "||Use templatespare to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": [
+    "○ Utilice plantillas de repuesto para importar rápidamente contenido de demostración en vivo, widgets y configuraciones. Este complemento brinda un diseño fundamental para crear su sitio web y acelerar el proceso de desarrollo."
+  ],
+  "||Useful Plugins": [
+    "★ Plugins útiles"
+  ],
+  "||Version": [
+    "★ Versión"
+  ],
+  "||Video": [
+    "★ Vídeo"
+  ],
+  "||Video Tutorials": [
+    "★ Tutoriales en vídeo"
+  ],
+  "||Videos": [
+    "★ Vídeos"
+  ],
+  "||View": [
+    "★ Ver"
+  ],
+  "||View All": [
+    "★ Ver todos"
+  ],
+  "||View All Themes": [
+    "○ Ver todos los temas"
+  ],
+  "||View Demos": [
+    "★ Ver las demostraciones"
+  ],
+  "||Visit": [
+    "★ Visitar"
+  ],
+  "||WP Post Author": [
+    "★ WP Post Author"
+  ],
+  "||WP Post Author Pro": [
+    "○ Autor de publicaciones de WP Pro"
+  ],
+  "||Watch the videos for an easy learning on customizing the theme.": [
+    "○ Mire los videos para aprender fácilmente a personalizar el tema."
+  ],
+  "||We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you have always desired..": [
+    "○ Creamos una hermosa serie de bloques Gutenberg de secciones de página para contenido de WordPress para ayudarlo a crear rápidamente el sitio web que siempre ha deseado."
+  ],
+  "||We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you've always desired.": [
+    "○ Creamos una hermosa serie de bloques Gutenberg de secciones de página para contenido de WordPress para ayudarlo a crear rápidamente el sitio web que siempre ha deseado."
+  ],
+  "||We have built a new live chat solution called 3CX Startup! This gives you completely free live chat, voice capability plus a team communication system!": [
+    "○ ¡Hemos creado una nueva solución de chat en vivo llamada 3CX Startup! ¡Esto le brinda chat en vivo completamente gratuito, capacidad de voz y un sistema de comunicación en equipo!"
+  ],
+  "||Welcome to ": [
+    "○ Bienvenido a"
+  ],
+  "||With Icon": [
+    "★ Con icono"
+  ],
+  "||With the Pricing Table Block for Gutenberg, you can quickly create a beautiful, responsive, and high-converting pricing table. There is no need to code anything.": [
+    "○ Con el bloque de tabla de precios para Gutenberg, puede crear rápidamente una tabla de precios hermosa, responsiva y de alta conversión. No es necesario codificar nada."
+  ],
+  "||With the Team and Testimonial Block for Gutenberg, you can quickly create a beautiful, responsive, and high-converting team, members, review, rating, etc, sections. There is no need to code anything.": [
+    "○ Con el bloque de equipo y testimonios para Gutenberg, puede crear rápidamente secciones de equipo, miembros, reseñas, calificaciones, etc. hermosas, receptivas y de alta conversión. No es necesario codificar nada."
+  ],
+  "||WordPress Repository": [
+    "★ Repositorio de WordPress"
+  ],
+  "||Works in all content areas and Ads placements, including Header, Sidebar, Before or After Content, and Archive sections.": [
+    "○ Funciona en todas las áreas de contenido y ubicaciones de anuncios, incluidas las secciones Encabezado, Barra lateral, Contenido anterior o posterior y Archivo."
+  ],
+  "||World": [
+    "○ Mundo"
+  ],
+  "||You May Have Missed": [
+    "★ Te puede interesar"
+  ],
+  "||You do not have permission to perform this action.": [
+    "★ No tienes permisos para realizar esta acción."
+  ],
+  "||You may design complicated layouts for your website in just a few minutes with our adaptable and inventive blocks.": [
+    "○ Puede diseñar diseños complicados para su sitio web en tan solo unos minutos con nuestros bloques adaptables e inventivos."
+  ],
+  "||by": [
+    "★ por"
+  ],
+  "||https://afthemes.com/": [
+    "★ https://afthemes.com/"
+  ],
+  "||https://afthemes.com/products/newspare/": [
+    "○ https://afthemes.com/products/newspare/"
+  ],
+  "||💡 Tip: You can rotate multiple ads by separating them with <!--next-->. One ad will be shown randomly per page load. Works with HTML, JavaScript, and shortcodes.": [
+    "○ 💡 Consejo: Puede rotar varios anuncios separándolos con <!--next-->. Se mostrará un anuncio aleatoriamente por carga de página. Funciona con HTML, JavaScript y códigos cortos."
+  ],
+  "💡 Tip: You can rotate multiple ads by separating them with <!--next-->. One ad will be shown randomly per page load. Works with HTML, JavaScript, and shortcodes.": "💡 Consejo: Puede rotar varios anuncios separándolos con <!--next-->. Se mostrará un anuncio aleatoriamente por carga de página. Funciona con HTML, JavaScript y códigos cortos."
+}
